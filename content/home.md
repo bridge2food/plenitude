@@ -3,7 +3,7 @@ metaTitle: MAKING MORE WITH LESS
 canonicalUrl: https://www.plenitude.com
 metaDescription: Plenitude is one of the CBE-JU flagship projects pioneering the
   mycoprotein value chain of the future
-metaImage: img/about1.png
+metaImage: img/projectVideo1.png
 heroItems: >
   # Making *more*   with *less*
 
