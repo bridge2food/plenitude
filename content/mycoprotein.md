@@ -38,6 +38,7 @@ mycoproteinProcess:
         
 
 
+
         
       The cultivation process also involves providing a steady supply of plant material as a source of nutrients to fuel rapid multiplication of the fungus’s mass.
   - content: >
@@ -115,5 +116,5 @@ mycoproteinApplicationContent: >
   Mycoprotein unleashes culinary creativity with applications ranging from burgers, sausages, and nuggets, to protein-rich snacks and ingredients. It can also be used to enhance the nutrition, flavor, and texture profiles of dairy alternatives, as well as replace animal proteins in pet food. 
 
   Additionally, mycoprotein extends its versatility beyond the kitchen, as it can even be utilised to develop sustainable bioplastics.
-mycoproteinApplicationImage: /img/mycroproteinAdvantage.png
+mycoproteinApplicationImage: img/vegan-fried-chicken.jpg
 ---
