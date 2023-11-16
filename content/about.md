@@ -21,9 +21,11 @@ aboutUs:
 
 
 
+
         
       Together, PLENITUDE partners are creating new ABUNDA-based products and researching their applications as sustainable and scalable alternatives to more resource-intensive livestock products.  
         
+
 
 
 
@@ -191,11 +193,6 @@ projectPartner:
 projectTimelineTitle: |
   ## Project *Timeline*
 projectTimelineContent:
-  - projectTimelineDate: October 2019
-    projectTimelineEvent: Project Launch
-    projectTimelineMotto: test motto
-    projectTimelineGallery:
-      - projectTimelineImages: /img/about1.png
   - projectTimelineDate: September 2021
     projectTimelineEvent: Sas van Gent, NL
     projectTimelineMotto: Groundbreaking of flagship plan
