@@ -92,6 +92,6 @@ products:
     title: Bioplastics
 ctaTitle: Plenitude is pioneering the mycoprotein value chain of the future
 ctaBtnLink: /contact
-ctaImage: img/screenshot-2023-11-16-at-12.42.13.png
+ctaImage: img/screenshot-2023-11-16-at-12.42.13.jpg
 ctaVideoLink: https://vimeo.com/828009390/dfc2fa1df7?share=copy
 ---
