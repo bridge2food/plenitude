@@ -4,7 +4,7 @@ canonicalUrl: https://www.plenitude.com/about
 metaDescription: PLENITUDE is the EU-funded project building new value chains
   for bio-based products that can provide a range of environmental, economic,
   and public health benefits
-metaImage: /img/cta.png
+metaImage: img/projectVideo1.png
 aboutHeroItems: >-
   # ABOUT PLENITUDE
 
@@ -21,9 +21,15 @@ aboutUs:
 
 
 
+
+
+
         
       Together, PLENITUDE partners are creating new ABUNDA-based products and researching their applications as sustainable and scalable alternatives to more resource-intensive livestock products.  
         
+
+
+
 
 
 
@@ -191,11 +197,6 @@ projectPartner:
 projectTimelineTitle: |
   ## Project *Timeline*
 projectTimelineContent:
-  - projectTimelineDate: October 2019
-    projectTimelineEvent: Project Launch
-    projectTimelineMotto: test motto
-    projectTimelineGallery:
-      - projectTimelineImages: /img/about1.png
   - projectTimelineDate: September 2021
     projectTimelineEvent: Sas van Gent, NL
     projectTimelineMotto: Groundbreaking of flagship plan
@@ -214,11 +215,6 @@ projectTimelineContent:
     projectTimelineGallery:
       - projectTimelineImages: /img/timeline5.png
       - projectTimelineImages: /img/timeline6.png
-  - projectTimelineDate: October 2023
-    projectTimelineEvent: New website
-    projectTimelineMotto: Launch of the Plenitude website
-    projectTimelineGallery:
-      - projectTimelineImages: /img/about2.png
 fundDetails: >
   ## European Union *Funded*
 
