@@ -37,6 +37,7 @@ mycoproteinProcess:
       Once the strain has been selected, it is cultivated in a bioreactor or fermentation tank—a stainless steel vessel that provides optimal conditions for the fungus to thrive, including temperature, pH levels, and oxygen supply.  
         
 
+
         
       The cultivation process also involves providing a steady supply of plant material as a source of nutrients to fuel rapid multiplication of the fungus’s mass.
   - content: >
@@ -63,7 +64,7 @@ mycoproteinAdvantagesContent: >
   When consumed in place of animal-based foods, mycoprotein could help improve nutritional imbalances associated with modern dietary patterns, supporting digestion, regulating blood sugar, and aiding in weight management. 
 
   Mycoprotein has also been found to support muscle growth better than dairy, the most common source of protein in the fitness supplement industry.
-mycoproteinAdvantagesImage: /img/mycroproteinAdvantage.png
+mycoproteinAdvantagesImage: img/vegan-crab-cake.jpg
 mycoproteinBenefitsTitle: |
   ## Sustainability *Benefits*
 mycoproteinBenefits:
