@@ -1,0 +1,38 @@
+.target {
+  @apply bg-secondary py-24;
+  &-content {
+    @apply border border-secondary-dark p-6 md:p-10;
+    img {
+      @apply mb-10;
+    }
+    h3 {
+      @apply relative mb-4 text-[24px] font-semibold leading-none tracking-[-0.01em] text-white md:text-[32px];
+      &:after {
+        position: absolute;
+        top: 50%;
+        left: -41px;
+        transform: translateY(-50%);
+        background-color: #ffffff;
+        width: 2px;
+        height: 40px;
+        content: '';
+        @apply max-md:left-[-25px];
+      }
+    }
+    p {
+      @apply mb-5 leading-[1.6] -tracking-[0.18px] text-white/70;
+    }
+  }
+  .slick-slide {
+    @apply px-[15px];
+  }
+  .slick-prev {
+    @apply absolute -top-[95px] left-auto right-[90px] block h-[66px] w-[66px] text-white before:hidden  focus:text-white active:text-white;
+  }
+  .slick-next {
+    @apply absolute -top-[95px] right-[13px] block h-[66px] w-[66px] text-white before:hidden  focus:text-white active:text-white disabled:text-gray-400;
+  }
+  .slick-disabled {
+    @apply cursor-not-allowed opacity-50;
+  }
+}

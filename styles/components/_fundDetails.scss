@@ -1,0 +1,17 @@
+.fundDetails {
+  &-content {
+    h2 {
+      @apply uppercase text-title lg:leading-[88px];
+      strong,
+      em {
+        @apply not-italic text-secondary;
+      }
+    }
+    p {
+      @apply mb-12 font-[20px];
+    }
+    img {
+      @apply mx-auto w-full max-w-[480px];
+    }
+  }
+}

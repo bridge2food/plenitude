@@ -1,0 +1,28 @@
+.hero {
+  @apply relative overflow-hidden bg-primary pb-[130px] pt-[170px];
+
+  &-content {
+    @apply relative max-md:px-3;
+    h1 {
+      @apply mb-1 uppercase text-white;
+    }
+    h2 {
+      @apply mx-auto mb-[20px] max-w-[702px] font-Inter text-[18px] font-semibold leading-[1.25] tracking-[-0.03em] text-white md:mb-[30px] md:text-[24px];
+    }
+    p {
+      @apply mx-auto mb-[25px] max-w-[755px] leading-[1.35] tracking-[-0.03em] text-white opacity-70 md:mb-[25px];
+    }
+    &-image {
+      @apply relative z-10 mx-auto w-full max-w-[400px];
+      img {
+        @apply max-w-full;
+      }
+    }
+  }
+  &-funded {
+    @apply mb-24;
+    h3 {
+      @apply mb-6 font-Inter text-[20px] font-bold leading-[1.2];
+    }
+  }
+}

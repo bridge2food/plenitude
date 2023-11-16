@@ -1,0 +1,13 @@
+.mycoprotein {
+  &-content {
+    img {
+      @apply mb-10;
+    }
+    p {
+      @apply mb-5;
+    }
+  }
+  h3 {
+    @apply mb-5 text-[32px];
+  }
+}

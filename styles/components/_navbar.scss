@@ -1,0 +1,29 @@
+.navbar {
+  @apply mx-auto grid grid-cols-2 items-center transition-all;
+  &-list {
+    @apply fixed right-0 top-0 z-[100000] flex h-screen w-full translate-x-full items-center bg-secondary px-10  text-white shadow-md backdrop-blur transition ease-in-out lg:hidden;
+    &.open {
+      @apply translate-x-0;
+    }
+    ul {
+      li {
+        a {
+          @apply font-semibold capitalize;
+        }
+      }
+    }
+  }
+  &-toggle {
+    @apply bg-secondary p-2 text-white;
+    &-close {
+      @apply bg-white p-2 text-primary;
+    }
+  }
+  ul {
+    li {
+      a.nav-link {
+        @apply relative block overflow-hidden text-base capitalize text-white before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-white before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100;
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.services {
+  @apply bg-primary py-24;
+  &-wrapper {
+    @apply grid grid-cols-1 gap-5 md:gap-6 lg:grid-cols-3;
+  }
+  &-content {
+    @apply border border-primary-light p-10;
+    img {
+      @apply mb-10;
+    }
+    h3 {
+      @apply relative mb-4 text-[32px] font-semibold leading-none tracking-[-0.01em] text-white;
+      &:after {
+        position: absolute;
+        top: 50%;
+        left: -41px;
+        transform: translateY(-50%);
+        background-color: #ffffff;
+        width: 2px;
+        height: 40px;
+        content: '';
+      }
+    }
+    p {
+      @apply leading-[1.6] -tracking-[0.18px] text-white/70;
+    }
+  }
+}

@@ -1,0 +1,79 @@
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+@layer base {
+  .section-header {
+    &-title {
+      @apply max-lg:mb-6;
+      h2 {
+        @apply uppercase text-title lg:leading-[88px];
+        strong,
+        em {
+          @apply not-italic text-secondary;
+        }
+      }
+    }
+    &-title-white {
+      h2 {
+        @apply uppercase text-white lg:leading-[88px];
+        strong,
+        em {
+          @apply not-italic text-white;
+        }
+      }
+    }
+  }
+}
+
+.pageHero {
+  @apply relative overflow-hidden bg-primary pb-[170px] pt-[170px];
+  h1 {
+    @apply text-[48px];
+    em {
+      @apply text-secondary;
+    }
+  }
+}
+
+.marqueText {
+  h1 {
+    @apply text-stroke  text-[48px] uppercase leading-normal tracking-normal lg:text-[72px] xl:text-[144px] xl:-tracking-[5.68px] max-lg:py-4;
+  }
+}
+@layer components {
+  .text-stroke {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px theme('colors.gray.DEFAULT');
+  }
+}
+
+.slick-slide {
+  height: inherit;
+  > div {
+    height: 100%;
+  }
+}
+
+.slick-track {
+  display: flex !important;
+}
+
+.accordion_item.active .button {
+  background-color: #105057;
+}
+.answer_wrapper {
+  height: 0;
+  overflow: hidden;
+}
+.answer_wrapper.open {
+  height: auto;
+}
+
+.slick-dots {
+  @apply bottom-[-50px];
+  li {
+    @apply h-[40px] w-[40px];
+    button {
+      @apply relative h-[40px] w-[40px] rounded-full border border-solid border-white  p-0 before:absolute before:left-1/2 before:top-1/2 before:h-[6px] before:w-[6px]  before:-translate-x-1/2 before:-translate-y-1/2 before:rounded-full before:bg-white before:text-white before:transition-transform before:duration-500 before:content-[''] #{!important};
+    }
+  }
+}

@@ -1,0 +1,45 @@
+.contactHero {
+  @apply pb-96;
+  .hero-content {
+    p {
+      @apply max-w-[575px];
+    }
+  }
+}
+.contactForm {
+  @apply -mt-72;
+  &-wrapper {
+    @apply relative z-20 mx-auto  grid max-w-[900px] grid-cols-1 gap-7 bg-white px-5 py-10 shadow-[0px_10px_55px_0px_rgba(0,_0,_0,_0.05)] sm:grid-cols-12 lg:px-10 lg:py-12;
+
+    label {
+      @apply block text-base font-semibold text-title;
+    }
+  }
+  &-items {
+    @apply block w-full border-none px-5 py-[17px] text-paragraph  ring-1 ring-inset ring-[#E1E1E1] placeholder:text-paragraph/50 focus:ring-1 focus:ring-inset focus:ring-primary sm:text-base;
+  }
+}
+
+.contactCard {
+  &-wrapper {
+    @apply mx-auto grid max-w-[900px] grid-cols-1 gap-9 md:grid-cols-2;
+  }
+  &-content {
+    @apply border border-t-[6px] bg-white p-10;
+    &:nth-child(odd) {
+      @apply border-primary;
+    }
+    &:nth-child(even) {
+      @apply border-secondary;
+    }
+    p {
+      @apply mb-6 font-bold text-title;
+    }
+    h4 {
+      @apply mb-2 text-primary;
+    }
+    a {
+      @apply mb-[30px] text-[18px] text-secondary;
+    }
+  }
+}

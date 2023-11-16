@@ -1,0 +1,16 @@
+.cta {
+  @apply relative  overflow-hidden pb-16;
+  &-content {
+    @apply relative flex w-full flex-col  items-start justify-center bg-secondary p-10 lg:-mb-[60px] lg:-ml-[80px] lg:mt-[60px] lg:w-[calc(50%+80px)] lg:py-20 lg:pl-24 lg:pr-25 xl:shrink-0;
+  }
+
+  &-video {
+    @apply w-full lg:w-1/2;
+    &-link {
+      @apply absolute left-1/2 top-1/2 flex -translate-x-1/2 -translate-y-1/2 flex-col items-center justify-center gap-y-6 text-center;
+    }
+    &-icon {
+      @apply flex h-[70px] w-[70px] cursor-pointer items-center justify-center rounded-full bg-white transition-transform duration-300 hover:scale-110;
+    }
+  }
+}

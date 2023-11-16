@@ -1,0 +1,31 @@
+.about {
+  &-wrapper {
+    &:nth-child(odd) {
+      .about-image {
+        order: 1;
+      }
+      .about-content {
+        order: 2;
+      }
+    }
+    &:nth-child(even) {
+      .about-image {
+        order: 2;
+      }
+      .about-content {
+        order: 1;
+      }
+    }
+  }
+  &-content {
+    h2 {
+      @apply lg:leading-[88px];
+      em {
+        @apply text-secondary;
+      }
+    }
+    p {
+      @apply mb-5 max-w-[525px];
+    }
+  }
+}

@@ -1,0 +1,108 @@
+.project {
+  @apply relative overflow-hidden pb-24;
+  &-content {
+    h2 {
+      @apply mb-5 text-center;
+    }
+    p {
+      @apply mx-auto max-w-[925px] text-center leading-[1.5] tracking-[-0.6px] text-title lg:text-[20px];
+    }
+  }
+  &-steps {
+    @apply relative mt-[60px];
+    &-one {
+      @apply relative mx-auto mb-[80px] flex max-w-[785px] items-center justify-between max-md:flex-col max-md:gap-y-16;
+      z-index: 1;
+      img {
+        width: 331px;
+        height: 331px;
+      }
+      &:after {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        transform-origin: center;
+        z-index: -1;
+        content: url(../../public/img/step-rotate.svg);
+      }
+      &:before {
+        @apply top-0 -translate-x-1/2 bg-secondary text-[24px] text-white max-md:top-1/2 max-md:-translate-y-1/2;
+        position: absolute;
+        left: 50%;
+        vertical-align: middle;
+        border-radius: 100%;
+        padding-block: 11px;
+        width: 46px;
+        height: 46px;
+        content: '1';
+        text-align: center;
+      }
+    }
+    &-item-two {
+      @apply relative  mx-auto flex max-w-[785px] items-center justify-between md:mb-[164px] max-md:flex-col;
+      img {
+        width: 331px;
+        height: 331px;
+      }
+    }
+    &-two {
+      @apply relative max-md:mb-[80px];
+      &:before {
+        @apply left-[40px] top-[10px]  bg-secondary text-[24px] text-white;
+        position: absolute;
+        vertical-align: middle;
+        border-radius: 100%;
+        padding-block: 11px;
+        width: 46px;
+        height: 46px;
+        content: '2';
+        text-align: center;
+      }
+    }
+    &-three {
+      @apply relative max-md:mb-[80px];
+      &:before {
+        @apply left-[40px] top-[10px]  bg-secondary text-[24px] text-white;
+        position: absolute;
+        vertical-align: middle;
+        border-radius: 100%;
+        padding-block: 11px;
+        width: 46px;
+        height: 46px;
+        content: '3';
+        text-align: center;
+      }
+    }
+    &-four {
+      @apply relative flex flex-wrap  justify-between align-top max-md:flex-col max-md:gap-y-10;
+      &:before {
+        position: absolute;
+        vertical-align: middle;
+        border-radius: 100%;
+        padding-block: 11px;
+        width: 46px;
+        height: 46px;
+        content: '4';
+        text-align: center;
+        @apply left-[65px] bg-secondary text-[24px] text-white sm:left-[200px] md:-top-[40px] md:left-[55%] md:-translate-x-1/2 max-md:top-[10px];
+      }
+    }
+    p {
+      @apply text-center text-base font-medium;
+    }
+  }
+  &-animation {
+    position: absolute;
+    top: 225px;
+    right: 380px;
+    @apply absolute md:right-[120px] lg:right-[250px] xl:right-[380px];
+  }
+  &-animation-mobile {
+    position: absolute;
+    top: 675px;
+    left: 50%;
+    transform: translateX(-50%);
+    @apply absolute;
+  }
+}

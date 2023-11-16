@@ -1,0 +1,8 @@
+@layer utilities {
+  .container {
+    @apply mx-auto md:px-5 1xl:w-[1280px];
+  }
+  .container-fluid {
+    @apply w-full  px-4 1xl:mx-auto;
+  }
+}

@@ -1,0 +1,28 @@
+.modal {
+  &-bg {
+    @apply fixed left-0 top-0 z-[10000] h-full w-full bg-[#1c1c1c30] opacity-100 backdrop-blur-md;
+  }
+
+  &-align {
+    @apply flex h-[100vh] w-[100vw] items-center justify-center;
+  }
+  &-content {
+    @apply relative z-50 aspect-video max-h-40 w-[800px] bg-transparent  bg-white max-md:w-[100vw] max-sm:w-full;
+  }
+
+  &-close {
+    @apply absolute -top-12 right-4 cursor-pointer rounded-full bg-secondary p-4 text-base text-white lg:-right-8 lg:-top-8;
+  }
+  &-video-align {
+    @apply aspect-video w-full;
+  }
+  &-video-item {
+    img,
+    video {
+      @apply max-h-[450px];
+
+      max-inline-size: 100%;
+      block-size: auto;
+    }
+  }
+}

@@ -1,0 +1,232 @@
+backend:
+  name: git-gateway # test-repo
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: public/img
+public_folder: img
+publish_mode: editorial_workflow
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    files:
+      - label: 'Navbar'
+        name: 'navbar'
+        file: 'content/navbar.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Logo', name: 'logo', widget: 'image' }
+          - label: 'Menus'
+            name: 'menus'
+            widget: list
+            fields:
+              - { label: 'Menu', name: 'menu', widget: 'string' }
+              - { label: 'URL', name: 'url', widget: 'string' }
+      - label: 'Footer'
+        name: 'footer'
+        file: 'content/footer.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Footer Logo', name: 'logoDark', widget: 'image' }
+          - { label: 'Twitter Link', name: 'twitterLink', widget: 'string' }
+          - { label: 'LinkedIn Link', name: 'linkedinLink', widget: 'string' }
+          - { label: 'Footer Funded', name: 'footerFund', widget: 'image' }
+          - label: 'Footer Menus'
+            name: 'footerMenus'
+            widget: list
+            fields:
+              - { label: 'Menu', name: 'menu', widget: 'string' }
+              - { label: 'URL', name: 'url', widget: 'string' }
+      - label: 'Home'
+        name: 'home'
+        file: 'content/home.md'
+        fields:
+          - { label: 'Meta Title', name: 'metaTitle', widget: 'string' }
+          - { label: 'Canonical Url', name: 'canonicalUrl', widget: 'string' }
+          - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+          - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
+          - { label: 'Hero Items', name: 'heroItems', widget: 'markdown' }
+          - { label: 'Hero Image', name: 'heroImage', widget: 'image' }
+          - { label: 'Hero Funded', name: 'heroFund', widget: 'image' }
+
+          - { label: 'Partner Title', name: 'partnerTitle', widget: 'markdown' }
+          - label: 'Partner Logo'
+            name: 'partnerLogo'
+            widget: list
+            fields:
+              - { label: 'Logo', name: 'logo', widget: 'image' }
+          - { label: 'Feature Content', name: 'featureContent', widget: 'markdown' }
+          - { label: 'Feature Image', name: 'featureImage', widget: 'image' }
+
+          - { label: 'Project Content', name: 'projectContent', widget: 'markdown' }
+          - label: 'Project Step One'
+            name: 'projectStepsOne'
+            widget: list
+            fields:
+              - { label: 'Project Step one Images', name: 'images', widget: 'image' }
+          - { label: 'Project Step Two', name: 'projectStepsTwo', widget: 'image' }
+          - { label: 'Project Step Three', name: 'projectStepsThree', widget: 'image' }
+          - label: 'Project Step Four'
+            name: 'projectStepsFour'
+            widget: list
+            fields:
+              - { label: 'Project Step Four Images', name: 'images', widget: 'image' }
+              - { label: 'Project Step Four Details', name: 'text', widget: 'markdown' }
+
+          - { label: 'Service Section Title', name: 'serviceTitle', widget: 'markdown' }
+
+          - label: 'Services'
+            name: 'services'
+            widget: list
+            fields:
+              - { label: 'Service Items', name: 'serviceItems', widget: 'markdown' }
+          - { label: 'Marque Text', name: 'marqeeText', widget: 'text' }
+          - { label: 'Product Section Title', name: 'productTitle', widget: 'markdown' }
+          - label: 'Products'
+            name: 'products'
+            widget: list
+            fields:
+              - { label: 'Product Logo', name: 'logo', widget: 'image' }
+              - { label: 'Product Title', name: 'title', widget: 'text' }
+
+          - { label: 'CTA Title', name: 'ctaTitle', widget: 'string' }
+          - { label: 'CTA Button Link', name: 'ctaBtnLink', widget: 'string' }
+          - { label: 'CTA Image', name: 'ctaImage', widget: 'image' }
+          - { label: 'CTA Video Link', name: 'ctaVideoLink', widget: 'string' }
+
+      - label: 'About'
+        name: 'about'
+        file: 'content/about.md'
+        fields:
+          - { label: 'Meta Title', name: 'metaTitle', widget: 'string' }
+          - { label: 'Canonical Url', name: 'canonicalUrl', widget: 'string' }
+          - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+          - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
+          - { label: 'About Hero Items', name: 'aboutHeroItems', widget: 'markdown' }
+          - label: 'About Us'
+            name: 'aboutUs'
+            widget: list
+            fields:
+              - { label: 'About Us Content', name: 'aboutUsContent', widget: 'markdown' }
+              - { label: 'About Us Image', name: 'aboutUsImage', widget: 'image' }
+
+          - { label: 'Target Section Title', name: 'targetTitle', widget: 'markdown' }
+
+          - label: 'Targets'
+            name: 'targets'
+            widget: list
+            fields:
+              - { label: 'Target Items', name: 'targetItems', widget: 'markdown' }
+
+          - { label: 'Projrct Partners Section Title', name: 'projectPartnerTitle', widget: 'markdown' }
+          - label: 'Projrct Partners'
+            name: 'projectPartner'
+            widget: list
+            fields:
+              - { label: 'Projrct Partners Details', name: 'projectPartnerDetails', widget: 'text' }
+              - { label: 'Projrct Partners Link', name: 'projectPartnerLink', widget: 'string' }
+              - { label: 'Projrct Partners Logo', name: 'projectPartnerLogo', widget: 'image' }
+
+          - { label: 'Project Timeline Title', name: 'projectTimelineTitle', widget: 'markdown' }
+          - label: 'Project Timeline Content'
+            name: 'projectTimelineContent'
+            widget: list
+            fields:
+              - { label: 'Project Timeline Date', name: 'projectTimelineDate', widget: 'text' }
+              - { label: 'Project Timeline Event', name: 'projectTimelineEvent', widget: 'text' }
+              - { label: 'Project Timeline Motto', name: 'projectTimelineMotto', widget: 'text' }
+              - label: 'Project Timeline Gallery'
+                name: 'projectTimelineGallery'
+                widget: list
+                fields:
+                  - { label: 'Project Timeline Images', name: 'projectTimelineImages', widget: 'image' }
+          - { label: 'Fund Detail', name: 'fundDetails', widget: 'markdown' }
+      - label: 'Mycoprotein'
+        name: 'mycoprotein'
+        file: 'content/mycoprotein.md'
+        fields:
+          - { label: 'Meta Title', name: 'metaTitle', widget: 'string' }
+          - { label: 'Canonical Url', name: 'canonicalUrl', widget: 'string' }
+          - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+          - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
+          - { label: 'Mycoprotein Hero Items', name: 'mycoproteinHeroItems', widget: 'markdown' }
+          - { label: 'Maycoprotein Making Process Section Title', name: 'mycoproteinProcessTitle', widget: 'markdown' }
+          - label: 'Maycoprotein Making Process'
+            name: 'mycoproteinProcess'
+            widget: list
+            fields:
+              - { label: 'Mycoprotein Process Items', name: 'content', widget: 'markdown' }
+
+          - { label: 'Mycoprotein Nutritional Advantages', name: 'mycoproteinAdvantagesContent', widget: 'markdown' }
+          - { label: 'Mycoprotein Nutritional Advantages Image', name: 'mycoproteinAdvantagesImage', widget: 'image' }
+
+          - { label: 'Mycoprotein Benefits Section Title', name: 'mycoproteinBenefitsTitle', widget: 'markdown' }
+          - label: 'Mycoprotein Benefits'
+            name: 'mycoproteinBenefits'
+            widget: list
+            fields:
+              - { label: 'Mycoprotein Benefits Items', name: 'content', widget: 'markdown' }
+
+          - { label: 'Mycoprotein Scalability Advantages', name: 'mycoproteinScalabilityContent', widget: 'markdown' }
+          - { label: 'Mycoprotein Scalability Advantages Image', name: 'mycoproteinScalabilityImage', widget: 'image' }
+
+          - { label: 'Mycoprotein Scalability Advantages', name: 'mycoproteinApplicationContent', widget: 'markdown' }
+          - { label: 'Mycoprotein Scalability Advantages Image', name: 'mycoproteinApplicationImage', widget: 'image' }
+
+      - label: 'Resource'
+        name: 'resource'
+        file: 'content/resource.md'
+        fields:
+          - { label: 'Meta Title', name: 'metaTitle', widget: 'string' }
+          - { label: 'Canonical Url', name: 'canonicalUrl', widget: 'string' }
+          - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+          - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
+          - { label: 'Resource Hero Items', name: 'resourceHeroItems', widget: 'markdown' }
+          - { label: 'Image Gallery Section Title', name: 'imageGalleryTitle', widget: 'markdown' }
+
+          - { label: 'Video Gallery Section Title', name: 'videoGalleryTitle', widget: 'markdown' }
+
+          - { label: 'FAQ Title', name: 'faqTitle', widget: 'markdown' }
+          - label: 'FAQ'
+            name: 'faq'
+            widget: list
+            fields:
+              - { label: 'FAQ Question', name: 'faqQustion', widget: 'text' }
+              - { label: 'FAQ Answers', name: 'faqAnswer', widget: 'text' }
+      - label: 'Contact'
+        name: 'contact'
+        file: 'content/contact.md'
+        fields:
+          - { label: 'Meta Title', name: 'metaTitle', widget: 'string' }
+          - { label: 'Canonical Url', name: 'canonicalUrl', widget: 'string' }
+          - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+          - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
+          - { label: 'Contact Hero Items', name: 'contactHeroItems', widget: 'markdown' }
+          - label: 'Contact Person Details'
+            name: 'contactInfo'
+            widget: list
+            fields:
+              - { label: 'Contact Person Designation', name: 'contactDesignation', widget: 'text' }
+              - { label: 'Contact Person Name', name: 'contactName', widget: 'text' }
+              - { label: 'Contact Person Email', name: 'contactEmail', widget: 'text' }
+              - { label: 'Contact Person Logo', name: 'contactLogo', widget: 'image' }
+
+  - label: 'Resources'
+    name: 'resources'
+    folder: 'content/resources'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - label: 'Gallery Types'
+        name: 'tags'
+        widget: 'select'
+        options: ['image', 'video']
+        default: ['image']
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Video Link', name: 'videoLink', widget: 'string', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Image Gallery'
+        name: 'imageGallery'
+        widget: list
+        fields:
+          - { label: 'Image Caption', name: 'caption', widget: 'text' }
+          - { label: 'Gallery Images', name: 'images', widget: 'image' }

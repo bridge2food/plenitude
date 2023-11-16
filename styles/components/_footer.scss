@@ -1,0 +1,17 @@
+.footer {
+  @apply pt-24;
+  &-logo {
+    @apply mx-auto mb-12;
+  }
+  &-menu {
+    &-link {
+      @apply relative block overflow-hidden text-base capitalize text-paragraph before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-primary-dark before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100;
+    }
+  }
+  &-fund {
+    @apply mx-auto max-w-[479px] pb-14 text-center max-lg:px-5;
+  }
+  .copyright {
+    @apply border-t border-gray py-6 text-center max-md:px-4;
+  }
+}

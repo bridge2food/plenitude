@@ -1,0 +1,6 @@
+html {
+  @apply scroll-smooth;
+}
+body {
+  @apply relative overflow-x-hidden font-Inter text-base antialiased;
+}

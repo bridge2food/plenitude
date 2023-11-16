@@ -1,0 +1,23 @@
+.faq {
+  &-content {
+    @apply mx-auto max-w-[915px];
+  }
+  &-item {
+    @apply border-b border-gray py-4;
+  }
+  &-question {
+    @apply mb-3 flex cursor-pointer items-center justify-between;
+    h3 {
+      @apply font-Inter text-xl font-bold leading-[1.4];
+    }
+    p {
+      @apply font-Inter text-xl font-bold leading-[1.4];
+    }
+  }
+  &-answer {
+    @apply h-0 max-w-[685px] overflow-hidden;
+    &.open {
+      @apply h-auto;
+    }
+  }
+}

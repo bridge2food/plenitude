@@ -1,0 +1,87 @@
+// COMMON BUTTON
+
+.btn {
+  @apply bg-white px-[30px] py-[13px] font-Inter text-base font-medium capitalize text-primary;
+  &-outline {
+    @apply border border-secondary;
+  }
+}
+
+// Navigation Button
+.nav-btn {
+  @apply z-10 bg-white px-[30px] py-[13px] font-Inter text-base font-medium capitalize text-primary transition-all duration-200 hover:scale-95
+  hover:text-white;
+  &-outline {
+    @apply border border-secondary;
+  }
+}
+
+.nav-btn::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  transition: -webkit-transform 200ms ease-in;
+  transition: transform 200ms ease-in;
+  transition:
+    transform 200ms ease-in,
+    -webkit-transform 200ms ease-in;
+  background: #70b52d;
+  width: 100%;
+  height: 100%;
+  content: '';
+}
+
+.btn-animate::after {
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: right;
+  transform-origin: right;
+}
+
+.btn-animate:hover::after {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+  -webkit-transform-origin: left;
+  transform-origin: left;
+}
+
+// CTA BUTTON
+
+.cta-btn {
+  @apply z-10 inline-block bg-white px-[30px] py-[13px] font-Inter text-base font-medium capitalize text-primary transition-all duration-300
+  hover:scale-95 hover:text-white;
+  &-outline {
+    @apply border border-white;
+  }
+}
+
+.cta-btn::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  transition: -webkit-transform 200ms ease-in;
+  transition: transform 200ms ease-in;
+  transition:
+    transform 200ms ease-in,
+    -webkit-transform 200ms ease-in;
+  background: #287ace;
+  width: 100%;
+  height: 100%;
+  content: '';
+}
+
+.cta-animate::after {
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: right;
+  transform-origin: right;
+}
+
+.cta-animate:hover::after {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+  -webkit-transform-origin: left;
+  transform-origin: left;
+}

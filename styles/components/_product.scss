@@ -1,0 +1,17 @@
+.product {
+  &-wrapper {
+    @apply flex  flex-wrap justify-center gap-y-5 max-md:flex-col;
+  }
+  &-item {
+    @apply relative -ms-4 h-[220px] w-[220px] shrink-0 rounded-[100%]  border border-gray bg-white md:h-[130px] md:w-[130px] lg:h-[170px] lg:w-[170px] xl:h-[220px] xl:w-[220px] xl:first:ms-0 max-md:mx-auto;
+  }
+  &-content {
+    @apply absolute  left-1/2 top-1/2  -translate-x-1/2 -translate-y-1/2 text-center;
+    p {
+      @apply text-base xl:text-lg;
+    }
+    img {
+      @apply lg:h-16 lg:w-16 xl:h-20 xl:w-20;
+    }
+  }
+}
