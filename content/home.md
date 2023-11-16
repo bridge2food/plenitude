@@ -3,7 +3,7 @@ metaTitle: MAKING MORE WITH LESS
 canonicalUrl: https://www.plenitude.com
 metaDescription: Plenitude is one of the CBE-JU flagship projects pioneering the
   mycoprotein value chain of the future
-metaImage: /img/cta.png
+metaImage: img/projectVideo1.png
 heroItems: >
   # Making *more*   with *less*
 
@@ -31,7 +31,7 @@ featureContent: >
   Mycoprotein is a *protein-rich* ingredient that comes from the Kingdom of Fungi—a hidden world of *microorganisms* with millions of species covering every surface of the planet. While some grow to form the fruiting bodies we know as mushrooms, others have different superpowers.
 
   *PLENITUDE* focuses on cultivating Fusarium venenatum, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more *sustainable* and *healthier* diets.
-featureImage: /img/feature/feature.png
+featureImage: img/the-better-protein.jpeg
 projectContent: >
   ## Project  *Consortium*
 
@@ -43,17 +43,18 @@ projectStepsTwo: /img/projectStep2.png
 projectStepsThree: /img/projectStep3.png
 projectStepsFour:
   - images: /img/projectStep4-1.png
-    text: >
-          Develops a Wide range of bioproducts with ABUNDA
+    text: |
+      Develops a Wide range of bioproducts with ABUNDA
   - images: /img/projectStep4-2.png
-    text: >
-          Condact studies on the characterstics of ABUNDA&#174;
+    text: |
+      Condact studies on the characterstics of ABUNDA&#174;
   - images: /img/projectStep4-3.png
     text: >
-          Conduct Life cycle anylyses of ABUNDA to assess its environmental and social impact
+      Conduct Life cycle anylyses of ABUNDA to assess its environmental and
+      social impact
   - images: /img/projectStep4-4.png
-    text: >
-          Communicate project results to the public
+    text: |
+      Communicate project results to the public
 serviceTitle: "## Why  *mycoprotein*"
 services:
   - serviceItems: >
@@ -91,6 +92,6 @@ products:
     title: Bioplastics
 ctaTitle: Plenitude is pioneering the mycoprotein value chain of the future
 ctaBtnLink: /contact
-ctaImage: /img/cta.png
+ctaImage: img/screenshot-2023-11-16-at-12.42.13.png
 ctaVideoLink: https://vimeo.com/828009390/dfc2fa1df7?share=copy
 ---
