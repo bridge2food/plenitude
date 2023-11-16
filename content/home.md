@@ -3,7 +3,7 @@ metaTitle: MAKING MORE WITH LESS
 canonicalUrl: https://www.plenitude.com
 metaDescription: Plenitude is one of the CBE-JU flagship projects pioneering the
   mycoprotein value chain of the future
-metaImage: /img/cta.png
+metaImage: img/screenshot-2023-11-16-at-12.42.13.png
 heroItems: >
   # Making *more*   with *less*
 
@@ -43,17 +43,18 @@ projectStepsTwo: /img/projectStep2.png
 projectStepsThree: /img/projectStep3.png
 projectStepsFour:
   - images: /img/projectStep4-1.png
-    text: >
-          Develops a Wide range of bioproducts with ABUNDA
+    text: |
+      Develops a Wide range of bioproducts with ABUNDA
   - images: /img/projectStep4-2.png
-    text: >
-          Condact studies on the characterstics of ABUNDA&#174;
+    text: |
+      Condact studies on the characterstics of ABUNDA&#174;
   - images: /img/projectStep4-3.png
     text: >
-          Conduct Life cycle anylyses of ABUNDA to assess its environmental and social impact
+      Conduct Life cycle anylyses of ABUNDA to assess its environmental and
+      social impact
   - images: /img/projectStep4-4.png
-    text: >
-          Communicate project results to the public
+    text: |
+      Communicate project results to the public
 serviceTitle: "## Why  *mycoprotein*"
 services:
   - serviceItems: >
