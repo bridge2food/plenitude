@@ -23,9 +23,11 @@ aboutUs:
 
 
 
+
         
       Together, PLENITUDE partners are creating new ABUNDA-based products and researching their applications as sustainable and scalable alternatives to more resource-intensive livestock products.  
         
+
 
 
 
@@ -213,11 +215,6 @@ projectTimelineContent:
     projectTimelineGallery:
       - projectTimelineImages: /img/timeline5.png
       - projectTimelineImages: /img/timeline6.png
-  - projectTimelineDate: October 2023
-    projectTimelineEvent: New website
-    projectTimelineMotto: Launch of the Plenitude website
-    projectTimelineGallery:
-      - projectTimelineImages: /img/about2.png
 fundDetails: >
   ## European Union *Funded*
 
