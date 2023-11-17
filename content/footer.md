@@ -1,8 +1,8 @@
 ---
 title: Footer
 logoDark: /img/logo-dark.svg
-twitterLink: "#"
-linkedinLink: "#"
+twitterLink: https://twitter.com/PLENITUDE_BBI
+linkedinLink: https://www.linkedin.com/company/plenitudeeu/
 footerFund: /img/hero/funded.png
 footerMenus:
   - menu: About
