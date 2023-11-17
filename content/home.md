@@ -48,17 +48,16 @@ projectStepsThree: /img/projectStep3.png
 projectStepsFour:
   - images: /img/projectStep4-1.png
     text: |
-      Develops a Wide range of bioproducts with ABUNDA
+      Develop a wide range of foods and bio-based products with ABUNDA
   - images: /img/projectStep4-2.png
-    text: |
-      Condact studies on the characterstics of ABUNDA&#174;
+    text: Study the nutritional characteristics of ABUNDA
   - images: /img/projectStep4-3.png
     text: >
-      Conduct Life cycle anylyses of ABUNDA to assess its environmental and
-      social impact
+      Conduct life cycle anylyses to assess the environmental and social impact
+      of ABUNDA
   - images: /img/projectStep4-4.png
     text: |
-      Communicate project results to the public
+      Communicate and disseminate project results to the public
 serviceTitle: "## Why  *mycoprotein*"
 services:
   - serviceItems: >
