@@ -1,15 +1,17 @@
 ---
 metaTitle: MAKING MORE WITH LESS
 canonicalUrl: https://www.plenitude.com
-metaDescription: Plenitude is one of the CBE-JU flagship projects pioneering the
+metaDescription: Plenitude is the EU-funded flagship project pioneering the
   mycoprotein value chain of the future
 metaImage: img/projectVideo1.png
-heroItems: >
-  # Making *more*   with *less*
+heroItems: >-
+  # Making *more* with *less*
 
-  ## Plenitude is one of the CBE-JU flagship projects pioneering the mycoprotein value chain of the future
 
-  By bringing together 10 partners from across Europe, we are creating ultra-sustainable foods and bio-based products using an innovative, minimal-waste fermentation process.
+  ## Plenitude is the EU-funded flagship project pioneering the mycoprotein value chain of the future
+
+
+  By bringing together 10 partners from across Europe, we are creating ultra-sustainable foods and bio-based products using an innovative, minimal-waste fermentation process
 heroImage: /img/hero/hero-image.png
 heroFund: /img/hero/funded.png
 partnerTitle: |
@@ -25,12 +27,14 @@ partnerLogo:
   - logo: /img/partners/Bridge2Food.png
   - logo: /img/partners/LCE.png
   - logo: /img/partners/WR.png
-featureContent: >
+featureContent: >-
   ## The Better Protein
+
 
   Mycoprotein is a *protein-rich* ingredient that comes from the Kingdom of Fungi—a hidden world of *microorganisms* with millions of species covering every surface of the planet. While some grow to form the fruiting bodies we know as mushrooms, others have different superpowers.
 
-  *PLENITUDE* focuses on cultivating Fusarium venenatum, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more *sustainable* and *healthier* diets.
+
+  *PLENITUDE* focuses on cultivating *Fusarium venenatum*, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more *sustainable* and *healthier* diets.
 featureImage: img/the-better-protein.jpeg
 projectContent: >
   ## Project  *Consortium*
