@@ -11,7 +11,7 @@ heroItems: >-
   ## Plenitude is the EU-funded flagship project pioneering the mycoprotein value chain of the future
 
 
-  By bringing together 10 partners from across Europe, we are creating ultra-sustainable foods and bio-based products using an innovative, minimal-waste fermentation process
+  By <strong>bringing</strong> together 10 partners from across Europe, we are creating ultra-sustainable foods and bio-based products using an innovative, minimal-waste fermentation process
 heroImage: /img/hero/hero-image.png
 heroFund: /img/hero/funded.png
 partnerTitle: |
@@ -35,7 +35,7 @@ featureContent: >-
 
 
   *PLENITUDE* is developing new applications for *Fusarium venenatum*, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more *sustainable* and *healthier* diets.
-featureImage: "/img/the-better-protein.jpeg"
+featureImage: /img/the-better-protein.jpeg
 projectContent: >
   ## Project  *Consortium*
 
