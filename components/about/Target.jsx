@@ -1,6 +1,7 @@
 import React from 'react'
 import { attributes } from '../../content/about.md'
 import Markdown from 'react-markdown'
+import rehypeRaw from 'rehype-raw'
 import {
   ShapeOne,
   ShapeTwo,
@@ -82,11 +83,13 @@ const Target = () => {
       </div>
       <div className="container relative z-10 mx-auto">
         <div className="target-title mb-[48px]">
-          <Markdown className="section-header-title-white">{targetTitle}</Markdown>
+          <Markdown className="section-header-title-white" rehypePlugins={[rehypeRaw]}>
+            {targetTitle}
+          </Markdown>
         </div>
         <Slider {...settings}>
           {targets.map((item, index) => (
-            <Markdown key={index} className="target-content h-full bg-secondary">
+            <Markdown key={index} className="target-content h-full bg-secondary" rehypePlugins={[rehypeRaw]}>
               {item.targetItems}
             </Markdown>
           ))}

@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Markdown from 'react-markdown'
 import React from 'react'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
+import rehypeRaw from 'rehype-raw'
 const AboutUs = () => {
   let { aboutUs } = attributes
   return (
@@ -23,7 +24,7 @@ const AboutUs = () => {
               />
             </div>
             <div className="about-content max-md:py-5">
-              <Markdown className="">{items.aboutUsContent}</Markdown>
+              <Markdown rehypePlugins={[rehypeRaw]}>{items.aboutUsContent}</Markdown>
             </div>
           </div>
         ))}

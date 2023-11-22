@@ -8,6 +8,7 @@ import Image from 'next/image'
 import { X } from 'phosphor-react'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
 import { NextButton, PrevButton } from '../common/Shapes'
+import rehypeRaw from 'rehype-raw'
 
 const Modal = ({ link, setModal }) => {
   const animationVariants = {
@@ -82,7 +83,7 @@ const ProjectTimeline = () => {
       {modal.open ? <Modal link={modal.link} setModal={setModal} /> : null}
       <div className="container relative mx-auto">
         <div className="section-header-title mb-12 text-center">
-          <Markdown>{projectTimelineTitle}</Markdown>
+          <Markdown rehypePlugins={[rehypeRaw]}>{projectTimelineTitle}</Markdown>
         </div>
         <button
           onClick={() => {

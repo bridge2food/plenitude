@@ -16,7 +16,7 @@ aboutUs:
 
 
       PLENITUDE is a consortium of 10 partners from across Europe joined by a common goal: to build new bio-based value chains that address some of the world’s most urgent sustainability challenges. The key is ABUNDA mycoprotein—a protein-rich ingredient from the Kingdom of Fungi with impressive nutritional and functional properties.  
-        
+
 
 
 
@@ -68,7 +68,7 @@ targets:
 
       In doing so, PLENITUDE helps future proof food security, while addressing sustainability and public health dilemmas associated with animal protein production.
   - targetItems: >-
-      ![](img/value.svg)
+      ![](/img/value.svg)
 
 
       ### Value Chains
@@ -79,7 +79,7 @@ targets:
 
       Once established, these can grow independently, generating a wide range of economic benefits, including safeguarding and creating employment opportunities in both urban and rural areas.
   - targetItems: >-
-      ![](img/health.svg)
+      ![](/img/health.svg)
 
 
       ### Public Health
@@ -92,7 +92,7 @@ targets:
   - targetItems: >-
       
 
-      ![](img/sustainability.svg)
+      ![](/img/sustainability.svg)
 
 
       ### Sustainability
@@ -105,7 +105,7 @@ targets:
   - targetItems: >-
       
 
-      ![](img/evidence.svg)
+      ![](/img/evidence.svg)
 
 
       ### Evidence-Based Policy

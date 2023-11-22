@@ -34,7 +34,7 @@
     }
   }
   &-content {
-    @apply px-[60px] max-xl:py-8 max-lg:px-6;
+    @apply px-[60px] py-[60px] max-xl:py-8 max-lg:px-6;
     h2 {
       @apply uppercase text-white lg:mb-8 max-lg:mb-5;
     }

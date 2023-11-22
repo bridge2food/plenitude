@@ -6,7 +6,7 @@ import Slider from 'react-slick'
 import Image from 'next/image'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
 import Link from 'next/link'
-
+import rehypeRaw from 'rehype-raw'
 const PrevArrow = (props) => {
   return (
     <button onClick={props.onClick} type="button" className={props.className}>
@@ -50,7 +50,7 @@ const ImageGallery = ({ props }) => {
       <div className="container mx-auto">
         <div className="ImageGallery-wrapper grid grid-cols-12">
           <div className="ImageGallery-title section-header-title z-40 col-span-12 lg:col-span-4">
-            <Markdown>{imageGalleryTitle}</Markdown>
+            <Markdown rehypePlugins={[rehypeRaw]}>{imageGalleryTitle}</Markdown>
           </div>
           <div className="ImageGallery-content col-span-12 lg:col-span-8">
             <Slider {...settings}>

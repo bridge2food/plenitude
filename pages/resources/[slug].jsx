@@ -7,6 +7,7 @@ import { FacebookLogo, LinkedinLogo, TwitterLogo, X } from 'phosphor-react'
 import React, { useEffect, useState } from 'react'
 import Markdown from 'react-markdown'
 import ReactPlayer from 'react-player'
+import rehypeRaw from 'rehype-raw'
 import {
   ShapeEight,
   ShapeFive,
@@ -189,7 +190,7 @@ const Slug = () => {
                     </Slider>
                   </div>
                   <div className="resourceDetails-desc col-span-12 md:col-span-6 lg:col-span-6 lg:max-w-[650px] max-md:px-5 max-md:pb-5">
-                    <Markdown>{resourceDetails.content}</Markdown>
+                    <Markdown rehypePlugins={[rehypeRaw]}>{resourceDetails.content}</Markdown>
                     <div className="resourceDetails-share  flex items-center gap-x-5">
                       <p className="!mb-0 inline-block font-medium ">Share With:</p>
                       <Link
@@ -246,7 +247,7 @@ const Slug = () => {
                     </div>
                   </div>
                   <div className="resourceDetails-desc col-span-12 md:col-span-6 lg:col-span-6 lg:max-w-[650px] max-md:px-5 max-md:pb-5">
-                    <Markdown>{resourceDetails.content}</Markdown>
+                    <Markdown rehypePlugins={[rehypeRaw]}>{resourceDetails.content}</Markdown>
                     <div className="resourceDetails-share mt-auto flex items-center gap-x-5">
                       <p className="!mb-0 inline-block font-medium ">Share With:</p>
                       <Link

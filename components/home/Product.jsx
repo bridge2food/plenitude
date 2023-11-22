@@ -3,14 +3,16 @@ import React from 'react'
 import Markdown from 'react-markdown'
 import { attributes } from '../../content/home.md'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
-
+import rehypeRaw from 'rehype-raw'
 const Product = () => {
   let { productTitle, products } = attributes
   return (
     <div className="product pb-24 md:pb-[100px] ">
       <div className="container mx-auto">
         <div className="product-title mb-12 text-center">
-          <Markdown className="section-header-title">{productTitle}</Markdown>
+          <Markdown className="section-header-title" rehypePlugins={[rehypeRaw]}>
+            {productTitle}
+          </Markdown>
         </div>
         <div className="product-wrapper">
           {products.map((item, index) => (

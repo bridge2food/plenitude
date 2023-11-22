@@ -4,12 +4,13 @@ import { motion } from 'framer-motion'
 import { ShapeTwo, ShapeFour, ShapeFive, ShapeSeven, ShapeEight } from './Shapes'
 import Image from 'next/image'
 import { sectionHeaderAnimation } from '../../utils/helper'
+import rehypeRaw from 'rehype-raw'
 const PageHero = ({ content, customClass }) => {
   return (
     <section className={`pageHero ${customClass} z-10 text-center`}>
       <div className="container mx-auto max-w-[985px]">
         <motion.div {...sectionHeaderAnimation} className="hero-content">
-          <Markdown>{content}</Markdown>
+          <Markdown rehypePlugins={[rehypeRaw]}>{content}</Markdown>
         </motion.div>
       </div>
       <Image

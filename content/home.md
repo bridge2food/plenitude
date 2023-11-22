@@ -35,7 +35,7 @@ featureContent: >-
 
 
   *PLENITUDE* is developing new applications for *Fusarium venenatum*, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more *sustainable* and *healthier* diets.
-featureImage: img/the-better-protein.jpeg
+featureImage: "/img/the-better-protein.jpeg"
 projectContent: >
   ## Project  *Consortium*
 
@@ -95,6 +95,6 @@ products:
     title: Bioplastics
 ctaTitle: Plenitude is pioneering the mycoprotein value chain of the future
 ctaBtnLink: /contact
-ctaImage: img/screenshot-2023-11-16-at-12.42.13.jpg
+ctaImage: /img/screenshot-2023-11-16-at-12.42.13.jpg
 ctaVideoLink: https://vimeo.com/828009390/dfc2fa1df7?share=copy
 ---

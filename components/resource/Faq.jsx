@@ -3,7 +3,7 @@ import { attributes } from '../../content/resource.md'
 import Markdown from 'react-markdown'
 import { useState } from 'react'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
-
+import rehypeRaw from 'rehype-raw'
 const Faq = () => {
   let { faqTitle, faq } = attributes
   const [activeIndex, setActiveIndex] = useState(null)
@@ -20,7 +20,7 @@ const Faq = () => {
     <div className="faq py-24">
       <div className="container mx-auto">
         <div className="faq-title section-header-title mb-6 text-center">
-          <Markdown>{faqTitle}</Markdown>
+          <Markdown rehypePlugins={[rehypeRaw]}>{faqTitle}</Markdown>
         </div>
         <div className="faq-content">
           {faq.map((items, index) => (

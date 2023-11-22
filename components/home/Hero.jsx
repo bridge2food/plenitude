@@ -3,6 +3,8 @@ import { attributes } from '../../content/home.md'
 import Image from 'next/image'
 import Markdown from 'react-markdown'
 import { motion } from 'framer-motion'
+import rehypeRaw from 'rehype-raw'
+
 import {
   ShapeOne,
   ShapeTwo,
@@ -27,7 +29,7 @@ const Hero = () => {
       <section className="hero z-10 min-h-screen text-center">
         <div className="container mx-auto max-w-[985px]">
           <motion.div {...sectionHeaderAnimation} className="hero-content">
-            <Markdown>{heroItems}</Markdown>
+            <Markdown rehypePlugins={[rehypeRaw]}>{heroItems}</Markdown>
           </motion.div>
           <motion.div
             variants={{

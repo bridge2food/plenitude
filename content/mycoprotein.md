@@ -65,7 +65,7 @@ mycoproteinAdvantagesContent: >
   When consumed in place of animal-based foods, mycoprotein could help improve nutritional imbalances associated with modern dietary patterns, supporting digestion, regulating blood sugar, and aiding in weight management. 
 
   Mycoprotein has also been found to support muscle growth better than dairy, the most common source of protein in the fitness supplement industry.
-mycoproteinAdvantagesImage: img/vegan-crab-cake.jpg
+mycoproteinAdvantagesImage: /img/vegan-crab-cake.jpg
 mycoproteinBenefitsTitle: |
   ## Sustainability *Benefits*
 mycoproteinBenefits:
@@ -116,5 +116,5 @@ mycoproteinApplicationContent: >
   Mycoprotein unleashes culinary creativity with applications ranging from burgers, sausages, and nuggets, to protein-rich snacks and ingredients. It can also be used to enhance the nutrition, flavor, and texture profiles of dairy alternatives, as well as replace animal proteins in pet food. 
 
   Additionally, mycoprotein extends its versatility beyond the kitchen, as it can even be utilised to develop sustainable bioplastics.
-mycoproteinApplicationImage: img/vegan-fried-chicken.jpg
+mycoproteinApplicationImage: /img/vegan-fried-chicken.jpg
 ---

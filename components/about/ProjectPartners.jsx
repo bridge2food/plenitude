@@ -4,13 +4,14 @@ import React from 'react'
 import Link from 'next/link'
 import Markdown from 'react-markdown'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
+import rehypeRaw from 'rehype-raw'
 const ProjectPartners = () => {
   let { projectPartner, projectPartnerTitle } = attributes
   return (
     <div className="projectPartner bg-[#F8F8F8] py-24">
       <div className="container mx-auto">
         <div className="section-header-title mb-12 text-center">
-          <Markdown>{projectPartnerTitle}</Markdown>
+          <Markdown rehypePlugins={[rehypeRaw]}>{projectPartnerTitle}</Markdown>
         </div>
 
         <div className="projectPartner-wrapper grid gap-9 md:grid-cols-2">

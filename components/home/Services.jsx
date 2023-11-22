@@ -3,6 +3,7 @@ import { attributes } from '../../content/home.md'
 import Markdown from 'react-markdown'
 import { ShapeOne, ShapeTwo, ShapeFour, ShapeSix, ShapeEight, ShapeNine } from '../common/Shapes'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
+import rehypeRaw from 'rehype-raw'
 const Services = () => {
   let { serviceTitle, services } = attributes
   return (
@@ -27,11 +28,13 @@ const Services = () => {
       </div>
       <div className="container relative z-10 mx-auto">
         <div className="services-title mb-[60px] text-center">
-          <Markdown className="section-header-title-white">{serviceTitle}</Markdown>
+          <Markdown className="section-header-title-white" rehypePlugins={[rehypeRaw]}>
+            {serviceTitle}
+          </Markdown>
         </div>
         <div className="services-wrapper">
           {services.map((item, index) => (
-            <Markdown key={index} className="services-content bg-primary">
+            <Markdown key={index} className="services-content bg-primary" rehypePlugins={[rehypeRaw]}>
               {item.serviceItems}
             </Markdown>
           ))}

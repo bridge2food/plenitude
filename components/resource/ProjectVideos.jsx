@@ -15,7 +15,7 @@ import {
   ShapeSix,
   ShapeTwo,
 } from '../common/Shapes'
-
+import rehypeRaw from 'rehype-raw'
 const PrevArrow = (props) => {
   return (
     <button onClick={props.onClick} type="button" className={props.className}>
@@ -77,7 +77,7 @@ const ProjectVideos = ({ props }) => {
       </div>
       <div className="container relative mx-auto">
         <div className="resourceVideo-title section-header-title-white mb-[48px]">
-          <Markdown>{videoGalleryTitle}</Markdown>
+          <Markdown rehypePlugins={[rehypeRaw]}>{videoGalleryTitle}</Markdown>
         </div>
 
         <Slider {...settings}>

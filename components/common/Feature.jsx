@@ -2,7 +2,7 @@ import React, { useRef } from 'react'
 import Image from 'next/image'
 import Markdown from 'react-markdown'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
-
+import rehypeRaw from 'rehype-raw'
 const Feature = ({ image, content, bgClass, contentOrder, topSpacing }) => {
   const ref = useRef(null)
   return (
@@ -13,7 +13,7 @@ const Feature = ({ image, content, bgClass, contentOrder, topSpacing }) => {
             <Image src={image} width="0" height="0" sizes="100vw" className=" h-auto w-full" alt="Feature Image" />
           </div>
           <div className="feature-content">
-            <Markdown>{content}</Markdown>
+            <Markdown rehypePlugins={[rehypeRaw]}>{content}</Markdown>
           </div>
         </div>
       </div>

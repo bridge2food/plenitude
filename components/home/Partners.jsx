@@ -2,7 +2,7 @@ import { attributes } from '../../content/home.md'
 import Image from 'next/image'
 import Markdown from 'react-markdown'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
-
+import rehypeRaw from 'rehype-raw'
 const Partners = () => {
   let { partnerTitle, partnerLogo } = attributes
 
@@ -10,7 +10,9 @@ const Partners = () => {
     <div className="partners">
       <div className="container mx-auto">
         <div className="partners-title">
-          <Markdown className="section-header-title mb-2 text-center">{partnerTitle}</Markdown>
+          <Markdown className="section-header-title mb-2 text-center" rehypePlugins={[rehypeRaw]}>
+            {partnerTitle}
+          </Markdown>
         </div>
 
         <div className="partners-logo ">

@@ -3,13 +3,16 @@ import { attributes } from '../../content/home.md'
 import Markdown from 'react-markdown'
 import Image from 'next/image'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
+import rehypeRaw from 'rehype-raw'
 const Project = () => {
   let { projectContent, projectStepsOne, projectStepsTwo, projectStepsThree, projectStepsFour } = attributes
   return (
     <div className="project">
       <div className="container mx-auto">
         <div className="project-content">
-          <Markdown className="section-header-title">{projectContent}</Markdown>
+          <Markdown className="section-header-title" rehypePlugins={[rehypeRaw]}>
+            {projectContent}
+          </Markdown>
         </div>
         <div className="project-steps ">
           <div className="project-animation max-md:hidden">
@@ -155,7 +158,7 @@ const Project = () => {
                   className="h-auto w-full"
                   alt="project_shape"
                 />
-                <Markdown className="">{items.text}</Markdown>
+                <Markdown rehypePlugins={[rehypeRaw]}>{items.text}</Markdown>
               </div>
             ))}
           </div>
