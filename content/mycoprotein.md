@@ -39,6 +39,7 @@ mycoproteinProcess:
 
 
 
+
         
       The cultivation process also involves providing a steady supply of plant material as a source of nutrients to fuel rapid multiplication of the fungus’s mass.
   - content: >
@@ -46,7 +47,8 @@ mycoproteinProcess:
 
       ### Harvest and treatment
 
-      Once the desired biomass has grown, it is harvested from the fermentation tank and separated from the rest of the growth medium.   
+      Once the desired biomass has grown, it is harvested from the fermentation tank and separated from the rest of the growth medium.
+
 
       The raw mycoprotein is then subjected to heat treatment to ensure product stability and food safety by removing any unwanted enzymes or pathogens.
   - content: >
