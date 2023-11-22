@@ -34,7 +34,7 @@ featureContent: >-
   Mycoprotein is a *protein-rich* ingredient that comes from the Kingdom of Fungi—a hidden world of *microorganisms* with millions of species covering every surface of the planet. While some grow to form the fruiting bodies we know as mushrooms, others have different superpowers.
 
 
-  *PLENITUDE* is developing new applications for *Fusarium venenatum*, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more *sustainable* and *healthier* diets.
+  *PLENITUDE* is developing new applications for <em>Fusarium venenatum</em>, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more *sustainable* and *healthier* diets.
 featureImage: /img/the-better-protein.jpeg
 projectContent: >
   ## Project  *Consortium*
