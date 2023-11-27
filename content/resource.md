@@ -2,7 +2,7 @@
 metaTitle: Our Resources
 canonicalUrl: https://www.plenitude.com/resources
 metaDescription: Get in touch to learn more about the project, arrange media
-  interviews, or discuss how to get involved.
+  interviews, or discuss how to get involved
 metaImage: /img/cta.png
 resourceHeroItems: >
   # Our *Resources*
