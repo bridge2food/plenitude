@@ -94,7 +94,7 @@ mycoproteinBenefits:
       Livestock farming uses a significant amount of fresh water, while its inputs and waste streams are leading causes of water pollution, harming ecosystems and posing serious public health risks. 
 
 
-      Mycoprotein uses approximately 13.8 billion fewer cubic metres of water than beef farming, with far fewer agricultural inputs and minimal waste streams. any unwanted enzymes or pathogens.
+      Mycoprotein uses approximately 13.8 billion fewer cubic metres of water than beef farming, with far fewer agricultural inputs and minimal waste streams.
   - content: >
       ![mycoproteinlogo](/img/mycroproteinScalability3.png)
 
