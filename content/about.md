@@ -19,7 +19,7 @@ aboutUs:
         
       Together, PLENITUDE partners are creating new ABUNDA-based products and researching their applications as sustainable and scalable alternatives to more resource-intensive livestock products.
         
-      Launched in 2019, PLENITUDE has received €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking [CBE JU](https://www.cbe.europa.eu/). Consortium partners include leaders in agri-food production and processing, biotechnology, product development, academia, life cycle assessment, and strategic communications.
+      Launched in 2019, PLENITUDE has received €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking [(CBE JU)](https://www.cbe.europa.eu/). Consortium partners include leaders in agri-food production and processing, biotechnology, product development, academia, life cycle assessment, and strategic communications.
     aboutUsImage: /img/about1.png
   - aboutUsContent: >-
       ## OUR *CHALLENGE*
