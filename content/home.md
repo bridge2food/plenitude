@@ -39,7 +39,7 @@ featureImage: /img/the-better-protein.jpeg
 projectContent: >
   ## Project  *Consortium*
 
-   PLENITUDE partners leverage an innovative, circular bioprocess integrating the production of biofuel and mycoprotein. The result is ABUNDA, an ingredient used to produce high quality foods and bio-based products that set new standards for both sustainability and scalability.-
+   PLENITUDE partners leverage an innovative, circular bioprocess integrating the production of biofuel and mycoprotein. The result is ABUNDA, an ingredient used to produce high quality foods and bio-based products that set new standards for both sustainability and scalability.
 projectStepsOne:
   - images: /img/projectStep1.png
   - images: /img/projectStep1.2.png
