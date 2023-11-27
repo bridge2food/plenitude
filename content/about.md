@@ -50,7 +50,7 @@ targets:
 
       PLENITUDE partners are creating new applications for mycoprotein. By serving as appealing substitutes for animal-based products, these will increase the availability of sustainable and nutritious protein-rich foods and ingredients to meet rising consumer demands. 
 
-      In doing so, PLENITUDE helps future proof food security, while addressing sustainability and public health dilemmas associated with animal protein production.
+      In doing so, PLENITUDE helps future-proof food security, while addressing sustainability and public health dilemmas associated with animal protein production.
   - targetItems: >-
       ![](/img/value.svg)
 
