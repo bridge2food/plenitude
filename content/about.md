@@ -9,33 +9,17 @@ aboutHeroItems: >-
   # ABOUT PLENITUDE
 
 
-  PLENITUDE is the EU-funded project building new value chains for bio-based products that can provide a range of environmental, economic, and public health benefits
+  PLENITUDE is the CBE JU-funded project building new value chains for bio-based products that can provide a range of environmental, economic, and public health benefits
 aboutUs:
   - aboutUsContent: >-
       ## THE *PROJECT*
 
 
-      PLENITUDE is a consortium of 10 partners from across Europe joined by a common goal: to build new bio-based value chains that address some of the world’s most urgent sustainability challenges. The key is ABUNDA mycoprotein—a protein-rich ingredient from the Kingdom of Fungi with impressive nutritional and functional properties.  
-
-
-
-
-
-
-
-
+      PLENITUDE is a consortium of 10 partners from across Europe joined by a common goal: to build new bio-based value chains that address some of the world’s most urgent sustainability challenges. The key is ABUNDA mycoprotein—a protein-rich ingredient from the Kingdom of Fungi with impressive nutritional and functional properties.
         
-      Together, PLENITUDE partners are creating new ABUNDA-based products and researching their applications as sustainable and scalable alternatives to more resource-intensive livestock products.  
+      Together, PLENITUDE partners are creating new ABUNDA-based products and researching their applications as sustainable and scalable alternatives to more resource-intensive livestock products.
         
-
-
-
-
-
-
-
-        
-      Launched in 2019, PLENITUDE has received €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking (CBE JU). Consortium partners include leaders in agri-food production and processing, biotechnology, product development, academia, life cycle assessment, and strategic communications.
+      Launched in 2019, PLENITUDE has received €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking [CBE JU](https://www.cbe.europa.eu/). Consortium partners include leaders in agri-food production and processing, biotechnology, product development, academia, life cycle assessment, and strategic communications.
     aboutUsImage: /img/about1.png
   - aboutUsContent: >-
       ## OUR *CHALLENGE*
