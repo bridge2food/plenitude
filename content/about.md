@@ -183,7 +183,7 @@ projectTimelineTitle: |
 projectTimelineContent:
   - projectTimelineDate: September 2021
     projectTimelineEvent: Sas van Gent, NL
-    projectTimelineMotto: Groundbreaking of flagship plan
+    projectTimelineMotto: Groundbreaking of flagship plant
     projectTimelineGallery:
       - projectTimelineImages: /img/timeline1.png
       - projectTimelineImages: /img/timeline2.png
@@ -195,7 +195,7 @@ projectTimelineContent:
       - projectTimelineImages: /img/timeline4.png
   - projectTimelineDate: April 2023
     projectTimelineEvent: Turin, IT
-    projectTimelineMotto: Foodtruck Showcase
+    projectTimelineMotto: Food truck showcase
     projectTimelineGallery:
       - projectTimelineImages: /img/timeline5.png
       - projectTimelineImages: /img/timeline6.png
