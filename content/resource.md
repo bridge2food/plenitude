@@ -7,7 +7,7 @@ metaImage: /img/cta.png
 resourceHeroItems: >
   # Our *Resources*
 
-  Get in touch to learn more about the project, arrange media interviews, or discuss how to get involved.
+  Get in touch to learn more about the project, arrange media interviews, or discuss how to get involved
 imageGalleryTitle: |
   ## Image *Gallery*
 videoGalleryTitle: |
