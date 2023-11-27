@@ -11,7 +11,7 @@ heroItems: >-
   ## Plenitude is the EU-funded flagship project pioneering the mycoprotein value chain of the future
 
 
-  By <strong>bringing</strong> together 10 partners from across Europe, we are creating ultra-sustainable foods and bio-based products using an innovative, minimal-waste fermentation process
+  By bringing together 10 partners from across Europe, we are creating ultra-sustainable foods and bio-based products using an innovative, minimal-waste fermentation process
 heroImage: /img/hero/hero-image.png
 heroFund: /img/hero/funded.png
 partnerTitle: |
