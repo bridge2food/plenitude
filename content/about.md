@@ -202,7 +202,7 @@ projectTimelineContent:
 fundDetails: >
   ## European Union *Funded*
 
-  PLENITUDE has received funding from the Bio-based Industries Joint Undertaking (JU) under the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 838104. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and the Bio-based Industries Consortium.
+  PLENITUDE has received funding from the Bio-based Industries Joint Undertaking (JU) under the European Union’s Horizon 2020 research and innovation programme under [grant agreement No. 838104](https://www.cbe.europa.eu/projects/plenitude). The JU receives support from the European Union’s Horizon 2020 research and innovation programme and the Bio-based Industries Consortium.
 
 
   ![fundIcon](/img/hero/funded.png)
