@@ -109,14 +109,14 @@ projectPartner:
       first-of-its-kind facility in Sas van Gent, the Netherlands, co-located
       with Cargill’s biorefinery.
     projectPartnerLogo: /img/projectPartnerLogo1.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://www.enough-food.com/
   - projectPartnerDetails: >
       Cargill is one of the world’s largest agri-food producers and traders.
       Cargill operates the biorefinery with which ENOUGH’s mycoprotein
       production facility is co-located and integrated, providing feedstock for
       the mycoprotein production and utilizing waste streams to produce biofuel.
     projectPartnerLogo: /img/projectPartnerLogo2.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://www.cargill.com/
   - projectPartnerDetails: >
       Vivera is a leading brand, product developer, and producer in the
       plant-based meat industry. With products sold in over 25k supermarkets in
@@ -124,7 +124,7 @@ projectPartner:
       producers in Europe. Vivera is developing new products using ABUNDA
       mycoprotein produced by ENOUGH.
     projectPartnerLogo: /img/projectPartnerLogo3.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://vivera.com/
   - projectPartnerDetails: >
       ABP Food Group is one of Europe’s largest agri-food processors spanning
       over 50 sites in eight countries, providing meat products to customers
@@ -132,7 +132,7 @@ projectPartner:
       meat-mycoprotein hybrid and meat-free products, respectively, using ABUNDA
       mycoprotein.
     projectPartnerLogo: /img/projectPartnerLogo4.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://abpfoodgroup.com/
   - projectPartnerDetails: >
       International Flavors & Fragrances is a leading innovator in scent, taste,
       and nutrition, with 97 manufacturing facilities, 105 R&D centres, and
@@ -140,14 +140,14 @@ projectPartner:
       products annually, with new ABUNDA mycoprotein-based products being
       developed.
     projectPartnerLogo: /img/projectPartnerLogo5.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://www.iff.com/
   - projectPartnerDetails: >
       Lactips is a developer and producer of water soluble and biodegradable
       thermoplastic pellets using milk protein. As a PLENITUDE partner, Lactips
       will leverage their resources and expertise to help characterise ABUNDA
       mycoprotein and use it  to produce sustainable bioplastic materials.
     projectPartnerLogo: /img/projectPartnerLogo6.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://www.lactips.com/
   - projectPartnerDetails: >
       Lactips is a developer and producer of water soluble and biodegradable
       thermoplastic pellets using milk protein. As a PLENITUDE partner, Lactips
@@ -161,7 +161,7 @@ projectPartner:
       cutting-edge protein technology. Mosa Meat is developing hybrid products
       combining cultured meat and ABUNDA mycoprotein.
     projectPartnerLogo: /img/projectPartnerLogo8.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://mosameat.com/
   - projectPartnerDetails: >
       Wageningen Food & Biobased Research develops technologies and provides
       insights that support companies, governments, and other research
@@ -169,7 +169,7 @@ projectPartner:
       chains. WUR researchers are characterising and evaluating the nutritional
       profile of ABUNDA mycoprotein.
     projectPartnerLogo: /img/projectPartnerLogo9.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://www.wur.nl/en/research-results/research-institutes/food-biobased-research.htm
   - projectPartnerDetails: >
       Bridge2Food is a network and platform company that brings together global
       leaders and innovators in plant-based foods and emerging protein
@@ -177,7 +177,7 @@ projectPartner:
       is responsible for communication and dissemination of PLENITUDE activities
       and results.
     projectPartnerLogo: /img/projectPartnerLogo10.png
-    projectPartnerLink: "#"
+    projectPartnerLink: https://bridge2food.com/
 projectTimelineTitle: |
   ## Project *Timeline*
 projectTimelineContent:
