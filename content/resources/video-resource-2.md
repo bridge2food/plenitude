@@ -1,8 +1,8 @@
 ---
-title: Video Resource Two
+title: The untapped role of fungi in sustainability webinar
 date: 2022-03-17T19:31:20.591Z
 tags: video
-thumbnail: /img/projectVideo2.png
-videoLink: https://youtu.be/WTFTOZUNQZc?si=78oMVdPGDryyyDVi
+thumbnail: img/screenshot-2023-11-16-at-15.01.41.png
+videoLink: https://www.youtube.com/watch?v=QADb2yuBFHU
 ---
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore, nemo dicta tenetur earum, repellat non asperiores distinctio, ut sed natus assumenda odit laboriosam dolor eaque accusamus modi voluptate unde cupiditate. updated
+Public webinar from June 2022
