@@ -25,7 +25,7 @@ aboutUs:
       ## OUR *CHALLENGE*
 
 
-      The production of livestock and animal feed is a leading cause of greenhouse gas emissions, deforestation, and biodiversity loss, occupying nearly 80% of the world’s agricultural land[🔗](https://www.fao.org/faostat/en/). Current levels of production and consumption cannot be sustained without severe consequences for the planet and future generations. However, demand for animal protein is still projected to increase significantly as the global population grows.
+      The production of livestock and animal feed is a leading cause of greenhouse gas emissions, deforestation, and biodiversity loss, occupying nearly 80% of the world’s agricultural land<sup>[🔗](https://www.fao.org/faostat/en/)</sup>. Current levels of production and consumption cannot be sustained without severe consequences for the planet and future generations. However, demand for animal protein is still projected to increase significantly as the global population grows.
 
 
 
