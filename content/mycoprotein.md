@@ -63,7 +63,7 @@ mycoproteinAdvantagesContent: >
   When consumed in place of animal-based foods, mycoprotein could help improve nutritional imbalances associated with modern dietary patterns, supporting digestion, regulating blood sugar, and aiding in weight management.
 
 
-  Mycoprotein has also been found to support muscle growth better than dairy<a href="https://www.sciencedirect.com/science/article/pii/S0002916522008024" style="text-decoration: none;">🔗</a>, the most common source of protein in the fitness supplement industry.
+  Mycoprotein has also been found to support muscle growth better than dairy[🔗](https://www.sciencedirect.com/science/article/pii/S0002916522008024), the most common source of protein in the fitness supplement industry.
 mycoproteinAdvantagesImage: /img/vegan-crab-cake.jpg
 mycoproteinBenefitsTitle: |
   ## Sustainability *Benefits*
@@ -73,7 +73,7 @@ mycoproteinBenefits:
 
       ### Land use and deforestation
 
-      The production of livestock and feed crops occupies nearly 80% of the world’s agricultural land and is the primary driver of global deforestation<a href="https://www.fao.org/3/cb9970en/cb9970en.pdf" style="text-decoration: none !important;">🔗</a>. 
+      The production of livestock and feed crops occupies nearly 80% of the world’s agricultural land and is the primary driver of global deforestation[🔗](https://www.fao.org/3/cb9970en/cb9970en.pdf). 
 
 
       Mycoprotein production is estimated to use as much as 90% less land than animal-based meat production.
