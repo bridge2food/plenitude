@@ -14,7 +14,7 @@ mycoproteinHeroItems: >
   Since the 1960s, mycoprotein has been studied as a promising way to improve food security and address the sustainability dilemmas of modern livestock production.   
 
 
-  While several species of fungi are currently used to produce mycoprotein for food applications, PLENITUDE is developing new products and building value chains for ABUNDA—a mycoprotein ingredient grown from the species Fusarium venenatum.
+  While several species of fungi are currently used to produce mycoprotein for food applications, PLENITUDE is developing new products and building value chains for ABUNDA—a mycoprotein ingredient grown from the species *Fusarium venenatum*.
 mycoproteinProcessTitle: >-
   ## How is it *Made?*
 
