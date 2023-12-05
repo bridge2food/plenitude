@@ -25,7 +25,7 @@ aboutUs:
       ## OUR *CHALLENGE*
 
 
-      The production of livestock and animal feed is a leading cause of greenhouse gas emissions, deforestation, and biodiversity loss, occupying nearly 80% of the world’s agricultural land<a href="https://www.fao.org/faostat/en/" style="text-decoration: none;">🔗</a>. Current levels of production and consumption cannot be sustained without severe consequences for the planet and future generations. However, demand for animal protein is still projected to increase significantly as the global population grows.
+      The production of livestock and animal feed is a leading cause of greenhouse gas emissions, deforestation, and biodiversity loss, occupying nearly 80% of the world’s agricultural land<a href="https://www.fao.org/faostat/en/" style="text-decoration: none;">🔗</a>. Current levels of production and consumption cannot be sustained without severe consequences for the planet and future generations<a href="https://eatforum.org/eat-lancet-commission/" style="text-decoration: none;">🔗</a>. However, demand for animal protein is still projected to increase significantly as the global population grows.
 
 
       Policy interventions and behavioral change are necessary, but they can be slow and are often constrained by political and cultural barriers. A new approach is needed to support evidence-based policies and healthier dietary patterns.
@@ -70,7 +70,7 @@ targets:
       PLENITUDE will increase access to food sources that are protein-rich, high in fibre, cholesterol-free, and which can easily serve as substitutes for animal-based products. By making such foods more available and affordable, PLENITUDE can help address the prevalence of common lifestyle diseases. 
 
 
-      Cleaner, more efficient protein production will also help reduce pandemic risk and antimicrobial resistance threats coming from the production of livestock and animal products.
+      Cleaner, more efficient protein production will also help reduce pandemic risk<a href="https://www.unep.org/resources/report/preventing-future-zoonotic-disease-outbreaks-protecting-environment-animals-and" style="text-decoration: none;">🔗</a><a href="https://www.ipbes.net/pandemics" style="text-decoration: none;">🔗</a> and antimicrobial resistance threats<a href="https://www.who.int/news/item/07-11-2017-stop-using-antibiotics-in-healthy-animals-to-prevent-the-spread-of-antibiotic-resistance" style="text-decoration: none;">🔗</a> coming from the production of livestock and animal products.
   - targetItems: >-
       
 
