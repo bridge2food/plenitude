@@ -24,5 +24,8 @@
     p {
       @apply leading-[1.6] -tracking-[0.18px] text-white/70;
     }
+    a {
+      @apply relative font-semibold before:absolute before:bottom-0 before:left-0 before:z-[1] before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-primary-dark before:transition-transform before:duration-500 before:content-[''] after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:bg-secondary before:hover:origin-left before:hover:scale-x-100;
+    }
   }
 }
