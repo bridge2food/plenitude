@@ -5,6 +5,9 @@
     @apply relative max-md:px-3;
     h1 {
       @apply mb-1 uppercase text-white;
+      em {
+        @apply not-italic;
+      }
     }
     h2 {
       @apply mx-auto mb-[20px] max-w-[702px] font-Inter text-[18px] font-semibold leading-[1.25] tracking-[-0.03em] text-white md:mb-[30px] md:text-[24px];

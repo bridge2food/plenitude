@@ -36,9 +36,7 @@
   p {
     @apply font-Inter text-base font-normal leading-[1.4]  -tracking-[.01em] text-paragraph md:text-[18px];
   }
-  em {
-    @apply not-italic;
-  }
+ 
   a {
     @apply inline-block font-Inter;
   }

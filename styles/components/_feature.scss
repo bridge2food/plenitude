@@ -3,12 +3,17 @@
 
   &-wrapper {
     @apply grid grid-cols-2 items-center max-md:grid-cols-1;
+    &.bg-secondary {
+      a {
+        @apply relative font-semibold before:absolute before:bottom-0 before:left-0 before:z-[1] before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-primary-dark before:transition-transform before:duration-500 before:content-[''] after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:bg-gray-light before:hover:origin-left before:hover:scale-x-100;
+      }
+    }
     &.bg-primary {
       .feature-content {
         h2 {
           @apply text-white;
           em {
-            @apply text-secondary;
+            @apply not-italic text-secondary;
           }
         }
       }
@@ -18,7 +23,7 @@
         h2 {
           @apply text-title;
           em {
-            @apply text-secondary;
+            @apply not-italic text-secondary;
           }
         }
         p {
@@ -37,9 +42,15 @@
     @apply px-[60px] py-[60px] max-xl:py-8 max-lg:px-6;
     h2 {
       @apply uppercase text-white lg:mb-8 max-lg:mb-5;
+      em {
+        @apply not-italic;
+      }
     }
     p {
       @apply mb-5 font-normal tracking-[.03em] text-white opacity-70;
+    }
+    a {
+      @apply relative font-semibold before:absolute before:bottom-0 before:left-0 before:z-[1] before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-primary-dark before:transition-transform before:duration-500 before:content-[''] after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:bg-secondary before:hover:origin-left before:hover:scale-x-100;
     }
   }
 }
