@@ -1,5 +1,5 @@
 ---
-title: LCE presentation at Brudge2Food Summit Asia 2023
+title: LCE presentation at Bridge2Food Summit Asia 2023
 date: 2023-11-30T14:51:21.197Z
 tags: video
 thumbnail: img/screenshot-2023-11-30-at-09.59.48.png
