@@ -197,6 +197,11 @@ projectTimelineContent:
     projectTimelineGallery:
       - projectTimelineImages: /img/timeline5.png
       - projectTimelineImages: /img/timeline6.png
+  - projectTimelineDate: October 2019
+    projectTimelineEvent: " "
+    projectTimelineMotto: Project Launch
+    projectTimelineGallery:
+      - projectTimelineImages: img/untitled-design-1-.png
 fundDetails: >
   ## European Union *Funded*
 
