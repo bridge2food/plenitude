@@ -100,7 +100,7 @@ mycoproteinBenefits:
 
       ### Biodiversity
 
-      The combined impact of deforestation, greenhouse gas emissions, and pollution from the livestock and feed industries is the primary driver of biodiversity loss. 
+      The combined impact of deforestation, greenhouse gas emissions, and pollution from the livestock and feed industries is the primary driver of biodiversity loss[🔗](https://www.unep.org/resources/publication/food-system-impacts-biodiversity-loss). 
 
 
       By developing cost- and quality-competitive substitutes for livestock products, PLENITUDE offers a way of producing protein that is better for the planet and all its inhabitants.
