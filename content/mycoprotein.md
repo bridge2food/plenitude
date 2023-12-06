@@ -76,7 +76,7 @@ mycoproteinBenefits:
       The production of livestock and feed crops occupies nearly 80% of the world’s agricultural land and is the primary driver of global deforestation[🔗](https://www.fao.org/3/cb9970en/cb9970en.pdf). 
 
 
-      Mycoprotein production is estimated to use as much as 90% less land than animal-based meat production.
+      Mycoprotein production is estimated to use as much as 90% less land than animal-based meat production[🔗](https://www.sciencedirect.com/science/article/pii/S0921344922006632#fig0003).
   - content: >
       ![mycoproteinlogo](/img/mycroproteinScalability1.png)
 
@@ -91,7 +91,7 @@ mycoproteinBenefits:
 
       ### Water use and pollution
 
-      Livestock farming uses a significant amount of fresh water, while its inputs and waste streams are leading causes of water pollution, harming ecosystems and posing serious public health risks. 
+      Livestock farming uses a significant amount of fresh water[🔗](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR026995), while its inputs and waste streams are leading causes of water pollution, harming ecosystems and posing serious public health risks[🔗](https://www.fao.org/3/i7754e/i7754e.pdf). 
 
 
       Mycoprotein uses approximately 13.8 billion fewer cubic metres of water than beef farming, with far fewer agricultural inputs and minimal waste streams.
