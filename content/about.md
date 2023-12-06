@@ -179,6 +179,11 @@ projectPartner:
 projectTimelineTitle: |
   ## Project *Timeline*
 projectTimelineContent:
+  - projectTimelineDate: October 2019
+    projectTimelineEvent: " "
+    projectTimelineMotto: Project Launch
+    projectTimelineGallery:
+      - projectTimelineImages: img/untitled-design-1-.png
   - projectTimelineDate: September 2021
     projectTimelineEvent: Sas van Gent, NL
     projectTimelineMotto: Groundbreaking of flagship plant
@@ -197,11 +202,6 @@ projectTimelineContent:
     projectTimelineGallery:
       - projectTimelineImages: /img/timeline5.png
       - projectTimelineImages: /img/timeline6.png
-  - projectTimelineDate: October 2019
-    projectTimelineEvent: " "
-    projectTimelineMotto: Project Launch
-    projectTimelineGallery:
-      - projectTimelineImages: img/untitled-design-1-.png
 fundDetails: >
   ## European Union *Funded*
 
