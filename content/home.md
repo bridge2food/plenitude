@@ -97,5 +97,5 @@ products:
 ctaTitle: Plenitude is pioneering the mycoprotein value chain of the future
 ctaBtnLink: /contact
 ctaImage: /img/screenshot-2023-11-16-at-12.42.13.jpg
-ctaVideoLink: https://vimeo.com/828009390/dfc2fa1df7?share=copy
+ctaVideoLink: https://vimeo.com/835568095/2694f0e6bd?share=copy
 ---
