@@ -55,10 +55,11 @@ mycoproteinProcess:
 
 
       Other technologies can also be applied to make protein-derived nonfood products such as bioplastics.
-mycoproteinAdvantagesContent: >
+mycoproteinAdvantagesContent: >-
   ## Nutritional *Advantages*
 
-  Mycoprotein is a nutritional powerhouse. It boasts a complete protein profile, is low in saturated fat, and contains no cholesterol. Mycoprotein is also rich in fibre and is a source of vitamins and minerals, including iron, calcium, and vitamin B12. 
+
+  Mycoprotein is a nutritional powerhouse. It boasts a complete protein profile, is low in saturated fat, and contains no cholesterol. Mycoprotein is also rich in fibre and is a source of vitamins and minerals, including iron, and calcium.
 
   When consumed in place of animal-based foods, mycoprotein could help improve nutritional imbalances associated with modern dietary patterns, supporting digestion, regulating blood sugar, and aiding in weight management.
 
