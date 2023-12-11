@@ -47,7 +47,7 @@ projectStepsOne:
 projectStepsTwo: /img/projectStep2.png
 projectStepsThree: /img/projectStep3.png
 projectStepsFour:
-  - images: img/untitled-design-3-.png
+  - images: img/untitled-design-4-.png
     text: |
       Develop a wide range of foods and bio-based products with ABUNDA
   - images: /img/projectStep4-2.png
