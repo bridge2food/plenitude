@@ -115,12 +115,12 @@ projectPartner:
       the mycoprotein production and utilizing waste streams to produce biofuel.
     projectPartnerLogo: /img/projectPartnerLogo2.png
     projectPartnerLink: https://www.cargill.com/
-  - projectPartnerDetails: >
+  - projectPartnerDetails: >-
       Vivera is a leading brand, product developer, and producer in the
       plant-based meat industry. With products sold in over 25k supermarkets in
-      25 European countries, Vivera ranks among the top three meat alternative
-      producers in Europe. Vivera is developing new products using ABUNDA
-      mycoprotein produced by ENOUGH.
+      25 European countries,
+
+      Vivera ranks among the top three meat alternative producers in Europe. Vivera is developing prototypes using ABUNDA mycoprotein produced by ENOUGH. 
     projectPartnerLogo: /img/projectPartnerLogo3.png
     projectPartnerLink: https://vivera.com/
   - projectPartnerDetails: >
