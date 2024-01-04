@@ -125,6 +125,8 @@ const Slug = () => {
                   className="modal-video-item"
                   width="100%"
                   height="100%"
+                  controls
+                  autoplay
                 />
               </div>
             </motion.div>

@@ -42,12 +42,12 @@ projectContent: >-
 
   PLENITUDE partners leverage an innovative, circular bioprocess integrating the production of bio ethanol and mycoprotein. The result is ABUNDA, an ingredient used to produce high quality foods and bio-based products that set new standards for both sustainability and scalability.
 projectStepsOne:
-  - images: img/untitled-design-1-.png
+  - images: /img/untitled-design-1-.png
   - images: /img/projectStep1.2.png
 projectStepsTwo: /img/projectStep2.png
 projectStepsThree: /img/projectStep3.png
 projectStepsFour:
-  - images: img/untitled-design-4-.png
+  - images: /img/untitled-design-4-.png
     text: |
       Develop a wide range of foods and bio-based products with ABUNDA
   - images: /img/projectStep4-2.png
