@@ -4,7 +4,7 @@ canonicalUrl: https://www.plenitude.com/about
 metaDescription: PLENITUDE is the EU-funded project building new value chains
   for bio-based products that can provide a range of environmental, economic,
   and public health benefits
-metaImage: img/projectVideo1.png
+metaImage: /img/projectVideo1.png
 aboutHeroItems: >-
   # ABOUT PLENITUDE
 
@@ -183,7 +183,7 @@ projectTimelineContent:
     projectTimelineEvent: " "
     projectTimelineMotto: Project Launch
     projectTimelineGallery:
-      - projectTimelineImages: img/untitled-design-1-.png
+      - projectTimelineImages: /img/untitled-design-1-.png
   - projectTimelineDate: September 2021
     projectTimelineEvent: Sas van Gent, NL
     projectTimelineMotto: Groundbreaking of flagship plant
