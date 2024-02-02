@@ -1,6 +1,6 @@
 ---
 metaTitle: MAKING MORE WITH LESS
-canonicalUrl: https://www.plenitude.com
+canonicalUrl: https://www.plenitude-eu.com
 metaDescription: Plenitude is the EU-funded flagship project pioneering the
   mycoprotein value chain of the future
 metaImage: img/projectVideo1.png
