@@ -44,7 +44,7 @@ projectContent: >-
 projectStepsOne:
   - images: /img/untitled-design-1-.png
   - images: /img/projectStep1.2.png
-projectStepsTwo: /img/projectStep2.png
+projectStepsTwo: img/2.png
 projectStepsThree: /img/projectStep3.png
 projectStepsFour:
   - images: /img/untitled-design-4-.png
