@@ -35,7 +35,7 @@ featureContent: >-
 
 
   PLENITUDE is developing new applications for *Fusarium venenatum*, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more sustainable and healthier diets.
-featureImage: /img/the-better-protein.jpeg
+featureImage: img/1.png
 projectContent: >-
   ## Project  *Consortium*
 
