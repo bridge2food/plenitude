@@ -11,4 +11,4 @@ thumbnail: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
   src="https://player.vimeo.com/api/player.js"></script>
 videoLink: https://vimeo.com/935490056/df9ab918d7?share=copy
 ---
-Craig Johnston, Plenitude Coordianator, highlights the importance of the participation to a CBE JU flagship project.
+Craig Johnston, Plenitude Coordinator, highlights the importance of participation in a CBE JU flagship project.
