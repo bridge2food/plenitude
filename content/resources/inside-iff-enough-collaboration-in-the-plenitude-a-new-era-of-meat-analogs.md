@@ -1,6 +1,6 @@
 ---
 title: "Inside the IFF / ENOUGH Collaboration in Plenitude: A New Era of Meat Analogs"
-date: 2024-10-03T16:38:00.000Z
+date: 2024-10-02T15:01:00.000Z
 tags: image
 thumbnail: img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
 imageGallery:
