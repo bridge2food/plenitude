@@ -11,10 +11,10 @@ imageGallery:
   - images: img/spam-sandwich-6-v2.jpg
     caption: Smoked sausage on top of mashed potato with kale
   - images: img/whatsapp-image-2024-09-05-at-15.13.04_9eea8cb5.jpg
-    caption: "From left: Jesper Malling Schmidt, Marlene Lassen, Kurt Bjeldal (IFF)"
+    caption: From left, Jesper Malling Schmidt, Marlene Lassen, Kurt Bjeldal (IFF)
   - images: img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
-    caption: "From left: Andrew Beasley (ENOUGH) and Pernille Bak Høstrup, Jesper
-      Malling Schmidt, Marlene Lassen, Kurt Bjeldal, Jos Muilwijk (IFF)"
+    caption: From left, Andrew Beasley (ENOUGH) and Pernille Bak Høstrup, Jesper
+      Malling Schmidt, Marlene Lassen, Kurt Bjeldal, Jos Muilwijk (IFF)
 ---
 In this interview, we speak with **Jos Muilwijk, Global Innovation Marketing Leader for Culinary & Snacks**, and **Marlene Lassen, Culinary Designer at IFF**, about their work on the Plenitude project. They discuss the innovative use of **ENOUGH's ABUNDA mycoprotein** in developing animal-free meat alternatives, the challenges faced, and the exciting future of sustainable food products.
 
