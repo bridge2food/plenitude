@@ -5,7 +5,7 @@ tags: image
 thumbnail: img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
 imageGallery:
   - images: img/spam-fries-v2.jpg
-    caption: " Spam fries with chilli mayo"
+    caption: Spam fries with chilli mayo
   - images: img/spam-sandwich-2-v2.jpg
     caption: Spam sandwich with lettuce, tomato, and mayo
   - images: img/spam-sandwich-6-v2.jpg
