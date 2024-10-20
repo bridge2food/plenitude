@@ -2,17 +2,17 @@
 title: "Inside the IFF / ENOUGH Collaboration in Plenitude: A New Era of Meat Analogs"
 date: 2024-10-18T15:15:00.000Z
 tags: image
-thumbnail: img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
+thumbnail: /img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
 imageGallery:
-  - images: img/spam-fries-v2.jpg
+  - images: /img/spam-fries-v2.jpg
     caption: Spam fries with chilli mayo
-  - images: img/spam-sandwich-2-v2.jpg
+  - images: /img/spam-sandwich-2-v2.jpg
     caption: Spam sandwich with lettuce, tomato, and mayo
-  - images: img/spam-sandwich-6-v2.jpg
+  - images: /img/spam-sandwich-6-v2.jpg
     caption: Smoked sausage on top of mashed potato with kale
-  - images: img/whatsapp-image-2024-09-05-at-15.13.04_9eea8cb5.jpg
+  - images: /img/whatsapp-image-2024-09-05-at-15.13.04_9eea8cb5.jpg
     caption: "From left: Jesper Malling Schmidt, Marlene Lassen, Kurt Bjeldal (IFF)"
-  - images: img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
+  - images: /img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
     caption: "From left: Andrew Beasley (ENOUGH) and Pernille Bak Høstrup, Jesper
       Malling Schmidt, Marlene Lassen, Kurt Bjeldal, Jos Muilwijk (IFF)"
 ---

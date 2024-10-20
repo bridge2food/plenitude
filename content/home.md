@@ -3,7 +3,7 @@ metaTitle: MAKING MORE WITH LESS
 canonicalUrl: https://www.plenitude-eu.com
 metaDescription: Plenitude is the EU-funded flagship project pioneering the
   mycoprotein value chain of the future
-metaImage: img/projectVideo1.png
+metaImage: /img/projectVideo1.png
 heroItems: >-
   # Making *more* with *less*
 
@@ -35,7 +35,7 @@ featureContent: >-
 
 
   PLENITUDE is developing new applications for *Fusarium venenatum*, a species with impressive nutritional, flavor, and texture profiles that can easily be used in place of animal proteins to support more sustainable and healthier diets.
-featureImage: img/1.png
+featureImage: /img/1.png
 projectContent: >-
   ## Project  *Consortium*
 
@@ -44,7 +44,7 @@ projectContent: >-
 projectStepsOne:
   - images: /img/untitled-design-1-.png
   - images: /img/projectStep1.2.png
-projectStepsTwo: img/2.png
+projectStepsTwo: /img/2.png
 projectStepsThree: /img/projectStep3.png
 projectStepsFour:
   - images: /img/untitled-design-4-.png
