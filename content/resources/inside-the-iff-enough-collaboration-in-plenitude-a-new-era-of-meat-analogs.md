@@ -10,9 +10,9 @@ imageGallery:
     caption: Spam sandwich with lettuce, tomato, and mayo
   - images: img/spam-sandwich-6-v2.jpg
     caption: Smoked sausage on top of mashed potato with kale
-  - images: img/whatsapp-image-2024-09-05-at-15.13.04_9eea8cb5.jpg
+  - images: img/2.png
     caption: "From left: Jesper Malling Schmidt, Marlene Lassen, Kurt Bjeldal (IFF)"
-  - images: img/whatsapp-image-2024-09-05-at-15.13.04_4366c436.jpg
+  - images: img/1.png
     caption: "From left: Andrew Beasley (ENOUGH) and Pernille Bak Høstrup, Jesper
       Malling Schmidt, Marlene Lassen, Kurt Bjeldal, Jos Muilwijk (IFF)"
 ---
