@@ -16,6 +16,10 @@ imageGallery:
     caption: "From left: Andrew Beasley (ENOUGH) and Pernille Bak Høstrup, Jesper
       Malling Schmidt, Marlene Lassen, Kurt Bjeldal, Jos Muilwijk (IFF)"
 ---
+
+
+### **Inside the IFF / ENOUGH Collaboration in Plenitude: A New Era of Meat Analogs**
+
 In this interview, we speak with **Jos Muilwijk, Global Innovation Marketing Leader for Culinary & Snacks**, and **Marlene Lassen, Culinary Designer at IFF**, about their work on the Plenitude project. They discuss the innovative use of **ENOUGH's ABUNDA mycoprotein** in developing animal-free meat alternatives, the challenges faced, and the exciting future of sustainable food products.
 
 **Q1: Can you share a bit about IFF’s role in the Plenitude project?**
