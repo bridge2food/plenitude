@@ -183,7 +183,7 @@ projectTimelineContent:
     projectTimelineEvent: " "
     projectTimelineMotto: Project Launch
     projectTimelineGallery:
-      - projectTimelineImages: img/logo-dark.svg
+      - projectTimelineImages: /img/logo-dark.svg
   - projectTimelineDate: September 2021
     projectTimelineEvent: Sas van Gent, NL
     projectTimelineMotto: Groundbreaking of flagship plant

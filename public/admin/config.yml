@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway # test-repo
-  branch: main # Branch to update (optional; defaults to master)
+  name: git-gateway #test-repo
+  branch: master # Branch to update (optional; defaults to master)
 media_folder: public/img
 public_folder: img
 publish_mode: editorial_workflow
@@ -208,7 +208,55 @@ collections:
               - { label: 'Contact Person Name', name: 'contactName', widget: 'text' }
               - { label: 'Contact Person Email', name: 'contactEmail', widget: 'text' }
               - { label: 'Contact Person Logo', name: 'contactLogo', widget: 'image' }
+      - label: 'Conference'
+        name: 'conference'
+        file: 'content/conference.md'
+        fields:
+          - { label: 'Meta Title', name: 'metaTitle', widget: 'string' }
+          - { label: 'Canonical Url', name: 'canonicalUrl', widget: 'string' }
+          - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+          - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
+          - label: 'Conference Page Hero'
+            name: 'conferenceHero'
+            widget: object
+            fields:
+              - { label: 'Hero Title', name: 'heroTitle', widget: 'string' }
+              - { label: 'Hero Description', name: 'heroDescription', widget: 'string' }
+              - { label: 'Hero Button Link', name: 'heroBtnLink', widget: 'string' }
+              - { label: 'Hero Image', name: 'heroImage', widget: 'image' }
+              - { label: 'Hero Video Link', name: 'heroVideoLink', widget: 'string' }
+          - { label: 'Marque Text', name: 'marqeeText', widget: 'text' }
+          - { label: 'Feature Text', name: 'featureText', widget: 'markdown' }
+          - { label: 'Member Section Title', name: 'memberSectionTitle', widget: 'markdown' }
+          - label: 'Team Members'
+            name: 'team'
+            widget: list
+            fields:
+              - { label: 'Name', name: 'memberName', widget: 'string' }
+              - { label: 'Designation', name: 'memberDesignation', widget: 'string' }
+              - { label: 'Image', name: 'memberImage', widget: 'image' }
+              - { label: 'Social Link', name: 'socialLink', widget: 'string' }
+          - { label: 'Register Section Title', name: 'registerSectionTitle', widget: 'markdown' }
+          - { label: 'Register Section Details', name: 'registerSectionDetails', widget: 'string' }
+          - { label: 'Register Section Link', name: 'registerSectionLink', widget: 'string' }
 
+          - { label: 'Schedule Section Title', name: 'scheduleSectionTitle', widget: 'markdown' }
+          - { label: 'Schedule Section Details', name: 'scheduleSectionDetails', widget: 'markdown' }
+          - label: 'Schedule List'
+            name: 'scheduleList'
+            widget: list
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Details', name: 'details', widget: 'string' }
+              - { label: 'Start Time', name: 'startTime', widget: 'string' }
+              - { label: 'End Time', name: 'endTime', widget: 'string' }
+              - label: 'Schedule List'
+                name: 'scheduleAuthor'
+                widget: list
+                fields:
+                  - { label: 'Name', name: 'memberName', widget: 'string' }
+                  - { label: 'Designation', name: 'memberDesignation', widget: 'string' }
+                  - { label: 'Image', name: 'memberImage', widget: 'image' }
   - label: 'Resources'
     name: 'resources'
     folder: 'content/resources'

@@ -7,7 +7,7 @@
     @apply flex h-[100vh] w-[100vw] items-center justify-center;
   }
   &-content {
-    @apply relative z-50 aspect-video max-h-40 w-[800px] bg-transparent  bg-white max-md:w-[100vw] max-sm:w-full;
+    @apply relative z-50 aspect-video w-[800px] bg-transparent  bg-white max-md:w-[100vw] max-sm:w-full;
   }
 
   &-close {
