@@ -13,6 +13,8 @@ module.exports = {
       fontFamily: {
         Inter: ['var(--font-inter)'],
         header: ['var(--font-archivo_black)'],
+        archivo: ['var(--font-archivo)'],
+        sora: ['var(--font-sora)'],
       },
       colors: {
         primary: {

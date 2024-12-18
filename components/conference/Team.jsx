@@ -69,8 +69,8 @@ const Team = () => {
                 </div>
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="text-xl font-medium">{item.memberName}</h3>
-                    <p>{item.memberDesignation}</p>
+                    <h3 className="font-archivo text-xl font-medium tracking-normal ">{item.memberName}</h3>
+                    <p className="text-base">{item.memberDesignation}</p>
                   </div>
                   <div className="shrink-0">
                     <Link href={item.socialLink}>

@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { NextSeo } from 'next-seo'
-import { Archivo_Black, Inter } from 'next/font/google'
+import { Archivo_Black, Inter, Archivo, Sora } from 'next/font/google'
 import Head from 'next/head'
 import React from 'react'
 import Footer from './Footer'
@@ -13,12 +13,26 @@ const inter = Inter({
   display: 'swap',
   variable: '--font-inter',
 })
+const archivo = Archivo({
+  weight: ['400', '500', '600'],
+  style: ['normal'],
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-archivo',
+})
 const archivo_black = Archivo_Black({
   weight: ['400'],
   style: ['normal'],
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-archivo_black',
+})
+const sora = Sora({
+  weight: ['400', '500', '600'],
+  style: ['normal'],
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-sora',
 })
 
 const Layout = ({ metaTitle, canonicalUrl, metaDescription, metaImage, children }) => {
@@ -48,7 +62,7 @@ const Layout = ({ metaTitle, canonicalUrl, metaDescription, metaImage, children 
         }}
       />
 
-      <div className={`layout ${inter.variable} ${archivo_black.variable}`}>
+      <div className={`layout ${inter.variable} ${archivo_black.variable} ${archivo.variable} ${sora.variable}`}>
         <Navbar />
         <motion.main animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
           {children}

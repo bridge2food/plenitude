@@ -68,11 +68,11 @@ const HeroVideo = ({ videoImage, videoLink }) => {
             height="0"
             sizes="100vw"
             className=" aspect-square h-auto max-h-[720px] w-full"
-            alt="CTA Image"
+            alt="hero Image"
           />
           {videoLink && (
             <div className="cta-video-link">
-              <div className="cta-video-icon " onClick={openModal}>
+              <div className="cta-video-icon lg:!h-[100px] lg:!w-[100px]" onClick={openModal}>
                 <svg
                   className="ml-1 stroke-secondary stroke-2 "
                   width="20"

@@ -14,9 +14,9 @@ const Hero = () => {
         {conferenceHero.map((item, index) => (
           <div className="container" key={index}>
             <div className="conference-hero-container">
-              <motion.div {...sectionHeaderAnimation} className="conference-hero-details">
+              <motion.div {...sectionHeaderAnimation} className="conference-hero-details relative z-10">
                 <div className="max-w-[510px]">
-                  <h1 className="mb-8 text-[68px] text-white max-md:text-[48px]">{item.heroTitle}</h1>
+                  <h1 className="mb-8 text-[68px] uppercase text-white max-md:text-[48px]">{item.heroTitle}</h1>
                   <p className="mb-8 text-white">{item.heroDescription}</p>
                   <Link href={item.heroBtnLink} className="nav-btn cta-animate group items-center">
                     <span className="flex items-center gap-2.5">
@@ -48,7 +48,7 @@ const Hero = () => {
         <div className="hero-shape absolute left-[45%] top-[50%] max-lg:hidden">
           <Plenitude />
         </div>
-        <div className="hero-shape absolute left-[10%] top-44 ">
+        <div className="hero-shape absolute left-[10%] top-28 ">
           <Plenitude />
         </div>
         <div className="hero-shape absolute left-[43%] top-28 max-lg:hidden">

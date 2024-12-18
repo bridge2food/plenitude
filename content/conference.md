@@ -38,6 +38,18 @@ team:
     memberDesignation: "CEO of Plenitude"
     memberImage: /img/team/team4.png
     socialLink: /
+  - memberName: "Eleanor Pena"
+    memberDesignation: "CEO of Plenitude"
+    memberImage: /img/team/team1.png
+    socialLink: /
+  - memberName: "Eleanor Pena"
+    memberDesignation: "CEO of Plenitude"
+    memberImage: /img/team/team3.png
+    socialLink: /
+  - memberName: "Eleanor Pena"
+    memberDesignation: "CEO of Plenitude"
+    memberImage: /img/team/team2.png
+    socialLink: /
 registerSectionTitle: |
   ## Click here to  *register*
 registerSectionDetails: Scelerisque eleifend donec pretium vulputate sapien. Sodales ut etiam sit amet nis.
@@ -54,6 +66,15 @@ scheduleList:
       - memberName: "Eleanor Pena"
         memberDesignation: "CEO of Plenitude"
         memberImage: /img/team/team1.png
+      - memberName: "Eleanor Pena"
+        memberDesignation: "CEO of Plenitude"
+        memberImage: /img/team/team2.png
+      - memberName: "Eleanor Pena"
+        memberDesignation: "CEO of Plenitude"
+        memberImage: /img/team/team3.png
+      - memberName: "Eleanor Pena"
+        memberDesignation: "CEO of Plenitude"
+        memberImage: /img/team/team4.png
       - memberName: "Eleanor Pena"
         memberDesignation: "CEO of Plenitude"
         memberImage: /img/team/team2.png

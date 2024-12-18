@@ -7,20 +7,20 @@ import Image from 'next/image'
 const Schedule = () => {
   const { scheduleSectionTitle, scheduleSectionDetails, scheduleList } = attributes
   return (
-    <section className="schedule pb-16 pt-[160px]">
+    <section className="schedule pb-10 pt-[160px]">
       <div className="container">
         <div className="section-header-title mb-[60px] text-center lg:mx-auto lg:max-w-[925px]">
           <Markdown className="mb-6">{scheduleSectionTitle}</Markdown>
           <Markdown>{scheduleSectionDetails}</Markdown>
         </div>
         {scheduleList.map((item, index) => (
-          <div className="mb-10 grid grid-cols-1 gap-12 lg:grid-cols-2" key={index}>
+          <div className="mb-20 grid grid-cols-1 gap-12 lg:grid-cols-2" key={index}>
             <div>
-              <h3 className="mb-5 text-[32px] font-semibold"> {item.title} </h3>
+              <h3 className="font-archivo mb-5 text-[32px] font-semibold tracking-normal"> {item.title} </h3>
               <p className="text-lg"> {item.details} </p>
             </div>
             <div>
-              <h3 className="mb-6 text-[32px] font-semibold">
+              <h3 className="font-archivo mb-6 text-[32px]  font-semibold tracking-normal">
                 {item.startTime} - {item.endTime}
               </h3>
               <div className="grid grid-cols-2 gap-5 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
@@ -35,7 +35,7 @@ const Schedule = () => {
                       alt="member Image"
                     />
                     <div className="">
-                      <h3 className="text-base font-medium">{author.memberName}</h3>
+                      <h3 className="font-archivo text-base font-medium tracking-normal">{author.memberName}</h3>
                       <p className="text-xs">{author.memberDesignation}</p>
                     </div>
                   </div>
