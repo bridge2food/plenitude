@@ -28,9 +28,9 @@ const Register = () => {
                 <path
                   d="M2.33337 35.1663L35.6667 1.83301M35.6667 1.83301H8.58337M35.6667 1.83301V28.9163"
                   stroke="#111111"
-                  stroke-width="2.77778"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2.77778"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
               </svg>
               <svg
@@ -43,9 +43,9 @@ const Register = () => {
                 <path
                   d="M2.33337 35.1663L35.6667 1.83301M35.6667 1.83301H8.58337M35.6667 1.83301V28.9163"
                   stroke="#111111"
-                  stroke-width="2.77778"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2.77778"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
               </svg>
             </Link>
