@@ -1,17 +1,29 @@
 .conference {
   &-hero {
-    @apply relative overflow-hidden bg-primary pt-[170px];
+    @apply relative overflow-hidden bg-primary pb-[160px] pt-[170px];
+    // &-container {
+    //   @apply flex items-center max-md:flex-col;
+    // }
+    // &-details {
+    //   @apply mb-[160px] flex items-center md:w-7/12 lg:w-1/2 max-md:w-full;
+    // }
+    // &-video {
+    //   @apply absolute right-0 top-[114px] h-full md:w-5/12 lg:w-1/2 max-md:relative max-md:top-auto max-md:w-full;
+    //   & > section {
+    //     @apply h-full;
+    //   }
     &-container {
-      @apply flex items-center max-md:flex-col;
+      @apply grid grid-cols-1 gap-10  lg:grid-cols-2;
     }
     &-details {
-      @apply mb-[160px] flex items-center md:w-7/12 lg:w-1/2 max-md:w-full;
+      @apply flex items-center;
     }
     &-video {
-      @apply absolute right-0 top-[114px] h-full md:w-5/12 lg:w-1/2 max-md:relative max-md:top-auto max-md:w-full;
-      & > section {
-        @apply h-full;
-      }
+      @apply relative z-10 pt-[75.25%];
+    }
+
+    .react-player {
+      @apply absolute left-0 top-0 lg:scale-x-110 lg:scale-y-125;
     }
   }
   &-feature {
