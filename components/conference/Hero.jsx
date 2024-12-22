@@ -1,13 +1,17 @@
-import React, { useRef } from 'react'
 import { attributes } from '../../content/conference.md'
 import { motion } from 'framer-motion'
 import { Plenitude } from '../common/Shapes'
 import { sectionHeaderAnimation } from '../../utils/helper'
-import HeroVideo from './HeroVideo'
 import Link from 'next/link'
-
+import React, { useEffect, useState } from 'react'
+import ReactPlayer from 'react-player'
 const Hero = () => {
   let { conferenceHero } = attributes
+  const [isClient, setIsClient] = useState(false)
+
+  useEffect(() => {
+    setIsClient(true)
+  }, [])
   return (
     <>
       <section className="conference-hero">
@@ -32,9 +36,20 @@ const Hero = () => {
                   </Link>
                 </div>
               </motion.div>
-              <div className="conference-hero-video">
-                <HeroVideo videoImage={item.heroImage} videoLink={item.heroVideoLink} />
-              </div>
+              <motion.div {...sectionHeaderAnimation} className="conference-hero-video">
+                {!isClient && <div>Loading...</div>}
+                {isClient && (
+                  <ReactPlayer
+                    playing
+                    loop
+                    controls
+                    url={item.heroVideoLink}
+                    className="react-player"
+                    width="100%"
+                    height="100%"
+                  />
+                )}
+              </motion.div>
             </div>
           </div>
         ))}
