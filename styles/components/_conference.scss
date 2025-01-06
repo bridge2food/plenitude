@@ -19,11 +19,11 @@
       @apply flex items-center;
     }
     &-video {
-      @apply relative z-10 pt-[75.25%];
+      @apply relative z-10 pt-[65.25%];
     }
 
     .react-player {
-      @apply absolute left-0 top-0 lg:scale-x-110 lg:scale-y-125;
+      @apply absolute left-0 top-0  lg:-mt-0 lg:scale-125;
     }
   }
   &-feature {

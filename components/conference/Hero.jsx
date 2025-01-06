@@ -6,12 +6,20 @@ import Link from 'next/link'
 import React, { useEffect, useState } from 'react'
 import ReactPlayer from 'react-player'
 const Hero = () => {
-  let { conferenceHero } = attributes
+  const { conferenceHero } = attributes
   const [isClient, setIsClient] = useState(false)
+  const [isPlaying, setIsPlaying] = useState(false)
 
   useEffect(() => {
     setIsClient(true)
+    // Set playing to true after component mounts
+    setIsPlaying(true)
   }, [])
+
+  const handleReady = () => {
+    // Ensure video plays when player is ready
+    setIsPlaying(true)
+  }
   return (
     <>
       <section className="conference-hero">
@@ -40,13 +48,16 @@ const Hero = () => {
                 {!isClient && <div>Loading...</div>}
                 {isClient && (
                   <ReactPlayer
-                    playing
+                    playing={isPlaying}
                     loop
                     controls
                     url={item.heroVideoLink}
                     className="react-player"
                     width="100%"
                     height="100%"
+                    onReady={handleReady}
+                    muted={true}
+                    playsinline
                   />
                 )}
               </motion.div>
