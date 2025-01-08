@@ -11,4 +11,7 @@ menus:
     url: /mycoprotein
   - menu: Resources
     url: /resources
+  - menu: Conference
+    url: /conference 
+    
 ---
