@@ -225,8 +225,8 @@ collections:
               - { label: 'Hero Title', name: 'heroTitle', widget: 'string' }
               - { label: 'Hero Description', name: 'heroDescription', widget: 'string' }
               - { label: 'Hero Button Link', name: 'heroBtnLink', widget: 'string' }
-              - { label: 'Hero Image', name: 'heroImage', widget: 'image' }
               - { label: 'Hero Video Link', name: 'heroVideoLink', widget: 'string' }
+
           - { label: 'Marque Text', name: 'marqeeText', widget: 'text' }
           - { label: 'Feature Text', name: 'featureText', widget: 'markdown' }
           - { label: 'Member Section Title', name: 'memberSectionTitle', widget: 'markdown' }
@@ -244,21 +244,21 @@ collections:
 
           - { label: 'Schedule Section Title', name: 'scheduleSectionTitle', widget: 'markdown' }
           - { label: 'Schedule Section Details', name: 'scheduleSectionDetails', widget: 'markdown' }
-          # - label: 'Schedule List'
-          #   name: 'scheduleList'
-          #   widget: list
-          #   fields:
-          #     - { label: 'Title', name: 'title', widget: 'string' }
-          #     - { label: 'Details', name: 'details', widget: 'string' }
-          #     - { label: 'Start Time', name: 'startTime', widget: 'string' }
-          #     - { label: 'End Time', name: 'endTime', widget: 'string' }
-          #     - label: 'Schedule List'
-          #       name: 'scheduleAuthor'
-          #       widget: list
-          #       fields:
-          #         - { label: 'Name', name: 'memberName', widget: 'string' }
-          #         - { label: 'Designation', name: 'memberDesignation', widget: 'string' }
-          #         - { label: 'Image', name: 'memberImage', widget: 'image' }
+          - label: 'Schedule List'
+            name: 'scheduleList'
+            widget: list
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Details', name: 'details', widget: 'string' }
+              - { label: 'Start Time', name: 'startTime', widget: 'string' }
+              - { label: 'End Time', name: 'endTime', widget: 'string' }
+              - label: 'Schedule List'
+                name: 'scheduleAuthor'
+                widget: list
+                fields:
+                  - { label: 'Name', name: 'memberName', widget: 'string' }
+                  - { label: 'Designation', name: 'memberDesignation', widget: 'string' }
+                  - { label: 'Image', name: 'memberImage', widget: 'image' }
   - label: 'Resources'
     name: 'resources'
     folder: 'content/resources'

@@ -13,8 +13,8 @@ conferenceHero:
   heroDescription: >
     Join workshop for hands experience and expertise insights elevate your skills with our network. We’re insights elevate your skills with our network
   heroBtnLink: /contact
-  heroImage: /img/screenshot-2023-11-16-at-12.42.13.jpg
   heroVideoLink: https://vimeo.com/828009390/dfc2fa1df7?share=copy
+  
 marqeeText: '*** Annual Conference 2024'
 featureText: >
   The Digital Future Summit 2024 is set to be the bring more visionaries together from [around](/contact) the world to explore the latest trends and advancements in  digital and will create a place of harmony and creativity.
