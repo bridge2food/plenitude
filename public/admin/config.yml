@@ -1,11 +1,6 @@
-local_backend: true
 backend:
   name: git-gateway #test-repo
   branch: main # Branch to update (optional; defaults to main; shouldn't change)
-local_backend:
-  # when using a custom proxy server port
-  url: http://localhost:3000/api/v1
-
 media_folder: public/img
 public_folder: img
 publish_mode: editorial_workflow
