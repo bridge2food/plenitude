@@ -11,6 +11,8 @@ footerMenus:
     url: /mycoprotein
   - menu: Resources
     url: /resources
+  - menu: Conference
+    url: /conference
   - menu: Contact
     url: /contact
 ---

@@ -1,0 +1,78 @@
+.conference {
+  &-hero {
+    @apply relative overflow-hidden bg-primary pb-[160px] pt-[170px];
+    // &-container {
+    //   @apply flex items-center max-md:flex-col;
+    // }
+    // &-details {
+    //   @apply mb-[160px] flex items-center md:w-7/12 lg:w-1/2 max-md:w-full;
+    // }
+    // &-video {
+    //   @apply absolute right-0 top-[114px] h-full md:w-5/12 lg:w-1/2 max-md:relative max-md:top-auto max-md:w-full;
+    //   & > section {
+    //     @apply h-full;
+    //   }
+    &-container {
+      @apply grid grid-cols-1 gap-10  lg:grid-cols-2;
+    }
+    &-details {
+      @apply flex items-center;
+    }
+    &-video {
+      @apply relative z-10 pt-[65.25%];
+    }
+
+    .react-player {
+      @apply absolute left-0 top-0  lg:-mt-0 lg:scale-125;
+    }
+  }
+  &-feature {
+    @apply py-[160px];
+    &-text {
+      p {
+        @apply text-[42px] font-medium uppercase leading-[1.3] text-title;
+      }
+      a {
+        @apply italic text-secondary underline;
+      }
+    }
+  }
+}
+.team {
+  @apply bg-secondary pb-[160px];
+  .section-header-title {
+    h2 {
+      @apply leading-tight;
+    }
+  }
+  .slick-list {
+    overflow: visible;
+  }
+  .slick-slide {
+    @apply w-auto pr-8 md:pr-4 lg:px-[15px] #{!important};
+    img {
+      @apply min-w-[330px];
+    }
+  }
+  .slick-prev {
+    @apply absolute -top-[75px] left-auto right-[90px] block h-[66px] w-[66px] text-title before:hidden focus:text-title  active:text-title lg:-top-[95px];
+  }
+  .slick-next {
+    @apply absolute -top-[75px] right-[13px] block h-[66px] w-[66px] text-title before:hidden focus:text-title  active:text-title lg:-top-[95px];
+  }
+
+  .slick-disabled {
+    @apply cursor-not-allowed opacity-50;
+  }
+}
+
+.register {
+  .section-header-title-white {
+    h2 {
+      @apply leading-tight;
+      em {
+        @apply text-secondary;
+      }
+    }
+  }
+}
