@@ -1,6 +1,6 @@
 backend:
   name: git-gateway #test-repo
-  branch: master # Branch to update (optional; defaults to master)
+  branch: main # Branch to update (optional; defaults to main; shouldn't change)
 media_folder: public/img
 public_folder: img
 publish_mode: editorial_workflow
