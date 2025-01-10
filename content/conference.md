@@ -54,10 +54,7 @@ registerSectionTitle: |
   ## Click here to  *register*
 registerSectionDetails: Scelerisque eleifend donec pretium vulputate sapien.
   Sodales ut etiam sit amet nis.
-registerSectionLink: '<script charset="utf-8" type="text/javascript"
-  src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
-  <script>   hbspt.forms.create({     portalId: "26293984",     formId:
-  "c952b0ad-1614-493f-b2b5-4dddf8420091"   }); </script>'
+registerSectionLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 scheduleSectionTitle: |
   ## *Our Event* Session Schedule.
 scheduleSectionDetails: PLENITUDE partners leverage an innovative, circular
