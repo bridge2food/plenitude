@@ -28,12 +28,6 @@ featureText: >-
 
 
   As the project concludes, we’re thrilled to showcase the results of this transformative journey and host keynote speakers driving innovation and sustainability in the bio-based industry.
-
-
-  Join us for this exciting Final Conference, co-located with Bridge2Food Europe, and **FREE** for stakeholders, professionals, and academics eager to learn more and make an impact.
-
-
-  **Register today!**
 memberSectionTitle: |-
   ## Meet our 
 
@@ -55,7 +49,10 @@ scheduleList:
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director - ENOUGH
-        memberImage: https://www.linkedin.com/in/craig-johnston-cmac/
+        memberImage: img/craig-johnston.jpg
+      - memberName: Luisa Mascia
+        memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
+        memberImage: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
     details: Event opening with Project Coordinator Craig Johnston and Project
       Officer Luisa Mascia
 ---
