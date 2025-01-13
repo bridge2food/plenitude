@@ -2,7 +2,8 @@
 metaTitle: Plenitude Final Conference - Circular Bio-economy for Sustainable
   Protein Production
 canonicalUrl: https://www.plenitude.com
-metaDescription: Circular Bio-economy for Sustainable Protein Production
+metaDescription: Plenitude Final Conference - Circular Bio-economy for
+  Sustainable Protein Production
 metaImage: img/plenitude-event-collateral-1-.png
 conferenceHero:
   - heroTitle: |
@@ -22,10 +23,16 @@ featureText: >-
   world’s most pressing sustainability challenges.
 
 
+
+
   Since 2019, PLENITUDE—a CBE JU-funded project—has brought together 10 European partners from agri-food, biotechnology, academia, and beyond, with €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking.
 
 
+
+
   Over the past six years, this consortium has pioneered cutting-edge solutions to advance a sustainable future through a unique circular, minimal-waste process for mycoprotein production and its applications in food and beyond.
+
+
 
 
   As the project concludes, we’re thrilled to showcase the results of this transformative journey and host keynote speakers driving innovation and sustainability in the bio-based industry.
