@@ -13,4 +13,12 @@ module.exports = {
     // cfg.resolve.fallback = { fs: false }
     return cfg
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'www.linkedin.com',
+      },
+    ],
+  },
 }
