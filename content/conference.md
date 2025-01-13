@@ -1,7 +1,7 @@
 ---
 metaTitle: Plenitude Final Conference - Circular Bio-economy for Sustainable
   Protein Production
-canonicalUrl: https://www.plenitude.com
+canonicalUrl: https://plenitude-eu.com/conference
 metaDescription: Plenitude Final Conference - Circular Bio-economy for
   Sustainable Protein Production
 metaImage: img/plenitude-event-collateral-1-.png
@@ -45,6 +45,10 @@ team:
     memberDesignation: Co-founder & Technology Director - ENOUGH
     memberImage: img/1516796933409.jpg
     socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
+  - memberName: Luisa Mascia
+    memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
+    memberImage: img/luisa-mascia.jpg
+    socialLink: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
 registerSectionTitle: "## Apply to  *attend*"
 registerSectionDetails: This event is FREE OF CHARGE upon registration approval
 registerSectionLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
