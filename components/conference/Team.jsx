@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import React from 'react'
 import Markdown from 'react-markdown'
 import Slider from 'react-slick'
@@ -6,7 +5,7 @@ import { attributes } from '../../content/conference.md'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
 import { NextButton, PrevButton } from '../common/Shapes'
 import Link from 'next/link'
-
+import Image from 'next/image'
 const PrevArrow = (props) => {
   return (
     <button onClick={props.onClick} type="button" className={props.className}>
@@ -64,7 +63,7 @@ const Team = () => {
                     height="0"
                     sizes="100vw"
                     className=" mb-4 h-auto w-full"
-                    alt="Video Image"
+                    alt="team Image"
                   />
                 </div>
                 <div className="flex items-center justify-between">

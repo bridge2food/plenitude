@@ -9,7 +9,7 @@ const Register = () => {
   return (
     <section className="register bg-primary py-[144px]">
       <div className="container">
-        <div className="item-center flex  max-md:flex-col">
+        <div className="flex items-center  max-md:flex-col">
           <div className=" section-header-title-white max-md:mb-12">
             <Markdown className="mb-6">{registerSectionTitle}</Markdown>
             <p className="max-w-[620px] text-white/70">{registerSectionDetails}</p>

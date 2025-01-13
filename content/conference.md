@@ -43,11 +43,11 @@ memberSectionTitle: |-
 team:
   - memberName: Craig Johnston
     memberDesignation: Co-founder & Technology Director - ENOUGH
-    memberImage: img/1516796933409.jpg
+    memberImage: /img/1516796933409.jpg
     socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
   - memberName: Luisa Mascia
     memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
-    memberImage: img/luisa-mascia.jpg
+    memberImage: /img/luisa-mascia.jpg
     socialLink: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
 registerSectionTitle: "## Apply to  *attend*"
 registerSectionDetails: This event is FREE OF CHARGE upon registration approval
@@ -56,12 +56,12 @@ scheduleSectionTitle: "## *Event* Programme"
 scheduleSectionDetails: Tuesday June 3rd, 2025. All times in CEST.
 scheduleList:
   - title: Opening Remarks
-    startTime: 10:00
-    endTime: 10:25
+    startTime: "10:00"
+    endTime: "10:25"
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director - ENOUGH
-        memberImage: img/craig-johnston.jpg
+        memberImage: /img/craig-johnston.jpg
       - memberName: Luisa Mascia
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
         memberImage: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
