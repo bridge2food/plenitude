@@ -1,5 +1,6 @@
 ---
-metaTitle: Plenitude Final Conference
+metaTitle: Plenitude Final Conference - Circular Bio-economy for Sustainable
+  Protein Production
 canonicalUrl: https://www.plenitude.com
 metaDescription: Circular Bio-economy for Sustainable Protein Production
 metaImage: img/plenitude-event-collateral-1-.png
