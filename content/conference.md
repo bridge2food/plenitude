@@ -38,11 +38,24 @@ memberSectionTitle: |-
   ## Meet our 
 
   ## Speakers
-team: []
+team:
+  - memberName: Craig Johnston
+    memberDesignation: Co-founder & Technology Director - ENOUGH
+    memberImage: img/1516796933409.jpg
+    socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
 registerSectionTitle: "## Apply to  *attend*"
 registerSectionDetails: This event is FREE OF CHARGE upon registration approval
 registerSectionLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 scheduleSectionTitle: "## *Event* Programme"
 scheduleSectionDetails: Tuesday June 3rd, 2025. All times in CEST.
-scheduleList: []
+scheduleList:
+  - title: Opening Remarks
+    startTime: 10:00
+    endTime: 10:25
+    scheduleAuthor:
+      - memberName: Craig Johnston
+        memberDesignation: Co-founder & Technology Director - ENOUGH
+        memberImage: https://www.linkedin.com/in/craig-johnston-cmac/
+    details: Event opening with Project Coordinator Craig Johnston and Project
+      Officer Luisa Mascia
 ---
