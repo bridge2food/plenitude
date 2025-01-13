@@ -59,6 +59,12 @@ const Navbar = () => {
                     </Link>
                   </li>
                 ))}
+                <li className="mb-5">
+                  <Link href="/conference" className="final-conference">
+                    Final Confernece
+                  </Link>
+                </li>
+
                 <li className="mt-auto">
                   <Link href="/contact" className="nav-btn btn-animate">
                     Contact
@@ -76,6 +82,11 @@ const Navbar = () => {
                   </Link>
                 </li>
               ))}
+              <li className="md:px-4 lg:px-[25px]">
+                <Link href="/conference" className="final-conference">
+                  Final Confernece
+                </Link>
+              </li>
               <li className="md:pl-4 lg:pl-[14px]">
                 <Link href="/contact" className="nav-btn btn-animate">
                   Contact

@@ -10,7 +10,7 @@ const Footer = () => {
     <footer className="footer ">
       <Image src={logoDark} width={167} height={52} className="footer-logo" alt="footer logo" />
       <div className="footer-menu mb-9">
-        <ul className="mx-auto flex w-fit">
+        <ul className="mx-auto flex w-fit flex-wrap lg:flex-nowrap max-lg:justify-center max-lg:gap-5">
           {footerMenus.map((item, index) => (
             <li key={index} className="px-3 sm:px-8">
               <Link href={item.url} className="footer-menu-link">
