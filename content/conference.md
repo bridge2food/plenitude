@@ -43,6 +43,14 @@ team:
     memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
     memberImage: /img/luisa-mascia.jpg
     socialLink: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
+  - memberName: Sonia Pignatelli
+    memberDesignation: Project Manager and Senior LCA Analyst - Life Cycle Engineering SPA
+    memberImage: img/sonia-pignatelli.jpg
+    socialLink: https://www.linkedin.com/in/sonia-pignatelli-631500203/
+  - memberName: Sonia Huppert
+    memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
+    memberImage: img/sonia-huppert.jpg
+    socialLink: https://www.linkedin.com/in/sonia-huppert-5647796/
 registerSectionTitle: "## Apply to  *attend*"
 registerSectionDetails: This event is FREE OF CHARGE upon registration approval
 registerSectionLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
