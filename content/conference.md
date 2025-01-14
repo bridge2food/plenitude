@@ -33,12 +33,10 @@ featureText: >-
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
 
 
-  ![](img/collage-12-x-4-in-2400-x-800-px-.png)
+  ![](img/collage-12-x-4-in-1-.png)
 
 
   ##### *Why Attend:*
-
-
 
 
   200 delegates
@@ -88,9 +86,9 @@ registerSectionDetails: "   "
 registerSectionLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 scheduleSectionTitle: "## *Event* Programme"
 scheduleSectionDetails: |-
-  ### Tuesday June 3rd, 2025. 
+  ### Tuesday June 3rd, 2025.
 
-  All times in CEST.
+  ##### *All times in CEST.*
 scheduleList:
   - title: Opening Remarks
     startTime: 10:00 AM
