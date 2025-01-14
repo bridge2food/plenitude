@@ -61,7 +61,7 @@ const Navbar = () => {
                 ))}
                 <li className="mb-5">
                   <Link href="/conference" className="final-conference">
-                    Final Confernece
+                    Final Conference
                   </Link>
                 </li>
 
