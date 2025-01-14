@@ -13,7 +13,7 @@ heroDescription: >-
   #### *Fokker Terminal, The Hague, NL - June 3rd, 2025*
 
 
-  *Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.*
+  Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: https://vimeo.com/945798809?share=copy
 marqeeText: Plenitude Final Conference - Registration open NOW
@@ -28,8 +28,6 @@ featureText: >-
 
 
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
-
-
 
 
   #### *Why Attend*
@@ -70,8 +68,11 @@ team:
     memberDesignation: Executive Director - Circular Bio-based Europe Joint Undertaking
     socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
     memberImage: img/8.png
-registerSectionTitle: "## Apply to  *attend*"
-registerSectionDetails: This event is FREE OF CHARGE upon registration approval
+registerSectionTitle: |-
+  ## Apply to  *attend*
+
+  #### This event is FREE OF CHARGE upon registration approval
+registerSectionDetails: "   "
 registerSectionLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 scheduleSectionTitle: "## *Event* Programme"
 scheduleSectionDetails: |-
