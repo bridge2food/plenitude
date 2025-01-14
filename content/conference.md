@@ -36,7 +36,9 @@ featureText: >-
   ![](img/collage-12-x-4-in-2400-x-800-px-.png)
 
 
-  Why Attend:
+  ##### *Why Attend:*
+
+
 
 
   200 delegates
