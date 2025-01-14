@@ -141,7 +141,6 @@ scheduleList:
         memberImage: img/2.png
       - memberName: Luisa Mascia
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
-        memberImage: img/6.png
-    details: Event opening with Project Coordinator Craig Johnston and Project
-      Officer Luisa Mascia
+        memberImage: img/untitled-design-2-.png
+    details: More details coming soon...
 ---
