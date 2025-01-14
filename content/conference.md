@@ -18,7 +18,7 @@ heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: https://vimeo.com/945798809?share=copy
 marqeeText: Plenitude Final Conference - Registration open NOW
 featureText: >-
-  ![](img/collage-12-x-4-in-.png)
+  ![](img/collage-12-x-4-in-2400-x-800-px-.png)
 
 
   #### *Our Story*
