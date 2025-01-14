@@ -31,7 +31,7 @@ featureText: >-
 
   #### As the project concludes, we’re thrilled to showcase the results of this transformative journey and host keynote speakers driving innovation and sustainability in the bio-based industry.
 memberSectionTitle: |-
-  ## Meet our 
+  ## Meet our
 
   ## Speakers
 team:
