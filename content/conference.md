@@ -25,7 +25,7 @@ featureText: >-
   world’s most pressing sustainability challenges.
 
 
-  ![](img/untitled-design-4-.png)
+  ![](img/collage-12-x-4-in-.png)
 
 
   #### Our Story
