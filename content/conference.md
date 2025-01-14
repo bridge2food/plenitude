@@ -15,7 +15,7 @@ heroDescription: >-
 
   We're excited to launch the Plenitude Final Conference, co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
-heroVideoLink: https://player.vimeo.com/video/828009390?h=dfc2fa1df7
+heroVideoLink: https://www.dropbox.com/scl/fi/zix50n3tx5v3whga761b2/2024-06-05-Bridge2Food-Den-Haag-highres-12.jpg?rlkey=slrk6ffm8his4hju0frham4be&dl=0
 marqeeText: Plenitude Final Conference - Registration open NOW
 featureText: >-
   Join the Plenitude Final Conference and discover groundbreaking innovations
