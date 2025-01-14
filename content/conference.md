@@ -5,16 +5,18 @@ canonicalUrl: https://plenitude-eu.com/conference
 metaDescription: Plenitude Final Conference - Circular Bio-economy for
   Sustainable Protein Production
 metaImage: img/plenitude-event-collateral-1-.png
-heroTitle: Plenitude Final Conference - Circular Bio-economy for Sustainable
-  Protein Production
+heroTitle: "Plenitude Final Conference "
 heroDescription: >-
-  We're excited to launch the Plenitude Final Conference, co-located with
-  Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals
-  and academics who want to learn more and make an impact.
+  # **Circular Bio-economy for Sustainable Protein Production**
 
 
+  ## 
 
   Fokker Terminal, The Hague, NL - June 3rd, 2025
+
+
+
+  We're excited to launch the Plenitude Final Conference, co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: https://player.vimeo.com/video/828009390?h=dfc2fa1df7
 marqeeText: Plenitude Final Conference - Registration open NOW
