@@ -28,11 +28,7 @@ featureText: >-
   world’s most pressing sustainability challenges.
 
 
-
-
-  ![](img/plenitude-event-collateral-3-.png)
-
-
+  ![](img/untitled-design-4-.png)
 
 
   #### Our Story
