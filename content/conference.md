@@ -24,6 +24,9 @@ heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: "https://vimeo.com/manage/videos/945798809   "
 marqeeText: Plenitude Final Conference *** Registration open NOW ***
 featureText: >-
+  ![](img/collage-12-x-4-in-2-.png)
+
+
   #### *Our Story*
 
 
@@ -31,9 +34,6 @@ featureText: >-
 
 
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
-
-
-  ![](https://player.vimeo.com/video/828009390?h=dfc2fa1df7)
 
 
   #### *Why Attend:*
