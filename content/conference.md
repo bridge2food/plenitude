@@ -23,19 +23,13 @@ featureText: >-
   the world’s most pressing sustainability challenges.
 
 
-
-
   ![](img/plenitude-event-collateral-3-.png)
 
 
+  #### Since 2019, PLENITUDE—a CBE JU-funded project—has brought together 10 European partners from agri-food, biotechnology, academia, and beyond, with €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking. This consortium has pioneered cutting-edge solutions to advance a sustainable future through a unique circular, minimal-waste process for mycoprotein production and its applications in food and beyond.
 
 
-  ###### Since 2019, PLENITUDE—a CBE JU-funded project—has brought together 10 European partners from agri-food, biotechnology, academia, and beyond, with €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking. This consortium has pioneered cutting-edge solutions to advance a sustainable future through a unique circular, minimal-waste process for mycoprotein production and its applications in food and beyond.
-
-
-
-
-  ###### As the project concludes, we’re thrilled to showcase the results of this transformative journey and host keynote speakers driving innovation and sustainability in the bio-based industry.
+  #### As the project concludes, we’re thrilled to showcase the results of this transformative journey and host keynote speakers driving innovation and sustainability in the bio-based industry.
 memberSectionTitle: |-
   ## Meet our 
 
@@ -47,7 +41,7 @@ team:
     socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
   - memberName: Luisa Mascia
     memberDesignation: " Project Officer - Circular Bio-Based Europe Joint Undertaking"
-    memberImage: img/6.png
+    memberImage: img/untitled-design-2-.png
     socialLink: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
   - memberName: Sonia Pignatelli
     memberDesignation: Project Manager and Senior LCA Analyst - Life Cycle Engineering SPA
@@ -80,10 +74,10 @@ scheduleList:
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director - ENOUGH
-        memberImage: /img/craig-johnston.jpg
+        memberImage: img/2.png
       - memberName: Luisa Mascia
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
-        memberImage: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
+        memberImage: img/6.png
     details: Event opening with Project Coordinator Craig Johnston and Project
       Officer Luisa Mascia
 ---
