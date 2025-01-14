@@ -18,27 +18,6 @@ heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: https://vimeo.com/945798809?share=copy
 marqeeText: Plenitude Final Conference - Registration open NOW
 featureText: >-
-  ###### Join the Plenitude Final Conference and discover groundbreaking
-  innovations shaping new bio-based value chains and discuss how these can be
-  actualized in the European landscape! Here, you will learn how these solutions
-  provide environmental, economic, and public health benefits while addressing
-  the world’s most pressing sustainability challenges.
-
-
-  ##### Why Attend
-
-
-  * ###### 200 delegates
-
-  * ###### 14 dedicated sessions
-
-  * ###### Networking opportunities
-
-  * ###### Cooking demos with mycoprotein products
-
-  * ###### Evening Welcome Reception 
-
-
   ![](img/collage-12-x-4-in-.png)
 
 
@@ -46,6 +25,28 @@ featureText: >-
 
 
   Since 2019, PLENITUDE has brought together 10 European partners from agri-food, biotechnology, academia, and beyond, powered by €16.9 million in funding from the [Circular Bio-based Europe Joint Undertaking](https://www.cbe.europa.eu/). This consortium has pioneered cutting-edge solutions to advance a sustainable future through a unique circular, minimal-waste process for mycoprotein production and its applications in food and beyond.
+
+
+
+  Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
+
+
+  ##### Why Attend
+
+
+  200 delegates
+
+
+  14 dedicated sessions
+
+
+  Networking opportunities
+
+
+  Cooking demos with mycoprotein products
+
+
+  Evening Welcome Reception
 memberSectionTitle: "## Meet our *Speakers*"
 team:
   - memberName: Craig Johnston
