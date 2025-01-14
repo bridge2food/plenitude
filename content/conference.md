@@ -42,28 +42,28 @@ memberSectionTitle: |-
 team:
   - memberName: Craig Johnston
     memberDesignation: Co-founder & Technology Director - ENOUGH
-    memberImage: img/2.png
+    memberImage: /img/2.png
     socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
   - memberName: Luisa Mascia
     memberDesignation: " Project Officer - Circular Bio-Based Europe Joint Undertaking"
-    memberImage: img/untitled-design-2-.png
+    memberImage: /img/untitled-design-2-.png
     socialLink: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
   - memberName: Sonia Pignatelli
     memberDesignation: Project Manager and Senior LCA Analyst - Life Cycle Engineering SPA
-    memberImage: img/1.png
+    memberImage: /img/1.png
     socialLink: https://www.linkedin.com/in/sonia-pignatelli-631500203/
   - memberName: Sonia Huppert
     memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
-    memberImage: img/3.png
+    memberImage: /img/3.png
     socialLink: https://www.linkedin.com/in/sonia-huppert-5647796/
   - memberName: Jim Laird
     memberDesignation: CEO - ENOUGH
-    memberImage: img/4.png
+    memberImage: /img/4.png
     socialLink: https://www.linkedin.com/in/jim-laird-8b23582/
   - memberName: Nicoló Giacomuzzi-Moore
     memberDesignation: Executive Director - Circular Bio-based Europe Joint Undertaking
     socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
-    memberImage: img/8.png
+    memberImage: /img/8.png
 registerSectionTitle: "## Apply to  *attend*"
 registerSectionDetails: This event is FREE OF CHARGE upon registration approval
 registerSectionLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
@@ -79,18 +79,9 @@ scheduleList:
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director - ENOUGH
-        memberImage: img/2.png
+        memberImage: /img/2.png
       - memberName: Luisa Mascia
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
-        memberImage: img/untitled-design-2-.png
+        memberImage: /img/untitled-design-2-.png
     details: More details coming soon...
-conferenceHero:
-  - heroTitle: |
-      Plenitude  Final  Conference
-    heroDescription: >
-      Join workshop for hands experience and expertise insights elevate your
-      skills with our network. We’re insights elevate your skills with our
-      network
-    heroBtnLink: /contact
-    heroVideoLink: https://vimeo.com/828009390/dfc2fa1df7?share=copy
 ---
