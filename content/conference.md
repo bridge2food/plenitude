@@ -69,8 +69,8 @@ scheduleSectionDetails: |-
   All times in CEST.
 scheduleList:
   - title: Opening Remarks
-    startTime: 10:00
-    endTime: 10:25
+    startTime: 10:00 AM
+    endTime: 10:25 AM
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director - ENOUGH
