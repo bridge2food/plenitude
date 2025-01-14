@@ -84,7 +84,7 @@ const Navbar = () => {
               ))}
               <li className="md:px-4 lg:px-[25px]">
                 <Link href="/conference" className="final-conference">
-                  Final Confernece
+                  Final Conference
                 </Link>
               </li>
               <li className="md:pl-4 lg:pl-[14px]">
