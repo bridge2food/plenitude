@@ -10,9 +10,8 @@ heroDescription: >-
   # **Circular Bio-economy for Sustainable Protein Production**
 
 
-  ## 
+  ### *Fokker Terminal, The Hague, NL - June 3rd, 2025*
 
-  Fokker Terminal, The Hague, NL - June 3rd, 2025
 
 
 
