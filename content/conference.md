@@ -18,11 +18,11 @@ heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: https://vimeo.com/945798809?share=copy
 marqeeText: Plenitude Final Conference - Registration open NOW
 featureText: >-
-  ###### 
-
-
-  Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
-
+  Join the Plenitude Final Conference and discover groundbreaking innovations
+  shaping new bio-based value chains and discuss how these can be actualized in
+  the European landscape! Here, you will learn how these solutions provide
+  environmental, economic, and public health benefits while addressing the
+  world’s most pressing sustainability challenges.
 
 
   Why Attend
@@ -30,11 +30,13 @@ featureText: >-
 
   * 200 delegates
 
+  * 14 dedicated sessions
+
   * Networking opportunities
 
   * Cooking demos with mycoprotein products
 
-  * 14 dedicated session
+  * Evening Welcome Reception 
 
 
   ![](img/collage-12-x-4-in-.png)
