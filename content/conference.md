@@ -10,19 +10,31 @@ heroDescription: >-
   # **Circular Bio-economy for Sustainable Protein Production**
 
 
-  ##### *Fokker Terminal, The Hague, NL - June 3rd, 2025*
+  #### *Fokker Terminal, The Hague, NL - June 3rd, 2025*
 
 
-  We're excited to launch the Plenitude Final Conference, co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
+  ##### Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
-heroVideoLink: https://www.dropbox.com/scl/fi/zix50n3tx5v3whga761b2/2024-06-05-Bridge2Food-Den-Haag-highres-12.jpg?rlkey=slrk6ffm8his4hju0frham4be&dl=0
+heroVideoLink: https://vimeo.com/945798809?share=copy
 marqeeText: Plenitude Final Conference - Registration open NOW
 featureText: >-
-  Join the Plenitude Final Conference and discover groundbreaking innovations
-  shaping new bio-based value chains and discuss how these can be actualized in
-  the European landscape! Here, you will learn how these solutions provide
-  environmental, economic, and public health benefits while addressing the
-  world’s most pressing sustainability challenges.
+  ###### 
+
+
+  Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
+
+
+
+  Why Attend
+
+
+  * 200 delegates
+
+  * Networking opportunities
+
+  * Cooking demos with mycoprotein products
+
+  * 14 dedicated session
 
 
   ![](img/collage-12-x-4-in-.png)
