@@ -26,10 +26,74 @@ featureText: >-
   ![](img/plenitude-event-collateral-3-.png)
 
 
+  #### `<!DOCTYPE html>`
+
+
+  #### `<html lang="en">`
+
+
+  #### `<head>`
+
+
+  #### `  <meta charset="UTF-8">`
+
+
+  #### `  <meta name="viewport" content="width=device-width, initial-scale=1.0">`
+
+
+  #### `  <title>Custom Text Color</title>`
+
+
+  #### `  <style>`
+
+
+  #### `    body {`
+
+
+  #### `      font-family: Arial, sans-serif;`
+
+
+  #### `      padding: 20px;`
+
+
+  #### `    }`
+
+
+  #### `    .custom-color {`
+
+
+  #### `      color: #2065ac;`
+
+
+  #### `    }`
+
+
+  #### `  </style>`
+
+
+  #### `</head>`
+
+
+  #### `<body>`
+
+
+  #### `  <h1 class="custom-color">This is Your Heading</h1>`
+
+
+  #### `  <p class="custom-color">`
+
+
+
   #### Since 2019, PLENITUDE—a CBE JU-funded project—has brought together 10 European partners from agri-food, biotechnology, academia, and beyond, with €16.9 million in funding from the Circular Bio-based Europe Joint Undertaking. This consortium has pioneered cutting-edge solutions to advance a sustainable future through a unique circular, minimal-waste process for mycoprotein production and its applications in food and beyond.
 
 
-  #### As the project concludes, we’re thrilled to showcase the results of this transformative journey and host keynote speakers driving innovation and sustainability in the bio-based industry.
+  #### As the project concludes, we’re thrilled to showcase the results of this transformative journey and host keynote speakers driving innovation and sustainability in the bio-based industry.`.</p>`
+
+
+  #### `</body>`
+
+
+  #### `</html>`
 memberSectionTitle: |-
   ## Meet our
 
