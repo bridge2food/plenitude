@@ -36,18 +36,17 @@ featureText: >-
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
 
 
-  #### *Why Attend*
 
+  200 delegates
 
-  * 200 delegates
 
   * 14 dedicated sessions
 
-  * Networking opportunities
+    Networking opportunities
 
-  * Cooking demos with mycoprotein products
+    Cooking demos with mycoprotein products
 
-  * Evening Welcome Reception
+    Evening Welcome Reception
 memberSectionTitle: "## Meet our *Speakers*"
 team:
   - memberName: Craig Johnston
