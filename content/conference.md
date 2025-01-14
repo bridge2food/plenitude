@@ -24,9 +24,6 @@ heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: "https://vimeo.com/manage/videos/945798809   "
 marqeeText: Plenitude Final Conference *** Registration open NOW ***
 featureText: >-
-  ![](img/collage-12-x-4-in-2400-x-800-px-.png)
-
-
   #### *Our Story*
 
 
@@ -36,17 +33,25 @@ featureText: >-
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
 
 
+  ![](img/collage-12-x-4-in-2400-x-800-px-.png)
+
+
+  Why Attend:
+
 
   200 delegates
 
 
-  * 14 dedicated sessions
+  14 dedicated sessions
 
-    Networking opportunities
 
-    Cooking demos with mycoprotein products
+  Networking opportunities
 
-    Evening Welcome Reception
+
+  Cooking demos with mycoprotein products
+
+
+  Evening Welcome Reception
 memberSectionTitle: "## Meet our *Speakers*"
 team:
   - memberName: Craig Johnston
