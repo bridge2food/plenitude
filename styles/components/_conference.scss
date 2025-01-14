@@ -35,11 +35,11 @@
     }
   }
   &-feature {
-    @apply py-[160px];
+    @apply py-[120px];
     &-text {
-     // p {
-     //   @apply text-[42px] font-medium uppercase leading-[1.3] text-title;
-     // }
+      p {
+        @apply text-[28px] text-[2065AC] font-medium leading-[1.3] text-title;
+      }
       a {
         @apply italic text-secondary underline break-words;
       }
