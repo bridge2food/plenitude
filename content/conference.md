@@ -22,7 +22,7 @@ heroDescription: >-
   Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: "https://vimeo.com/manage/videos/945798809   "
-marqeeText: Plenitude Final Conference * Registration open NOW
+marqeeText: Plenitude Final Conference *** Registration open NOW ***
 featureText: >-
   ![](img/collage-12-x-4-in-2400-x-800-px-.png)
 
