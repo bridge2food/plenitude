@@ -18,6 +18,14 @@
     &-details {
       @apply flex items-center;
     }
+    &-description {
+      p {
+        @apply text-white;
+      }
+      a {
+        @apply text-secondary;
+      }
+    }
     &-video {
       @apply relative z-10 pt-[65.25%];
     }
@@ -34,6 +42,9 @@
       }
       a {
         @apply italic text-secondary underline;
+      }
+      img {
+        @apply my-8 lg:max-w-3xl;
       }
     }
   }

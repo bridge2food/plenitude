@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway #test-repo
+  name: test-repo
   branch: main # Branch to update (optional; defaults to main; shouldn't change)
 media_folder: public/img
 public_folder: img
@@ -218,14 +218,10 @@ collections:
           - { label: 'Canonical Url', name: 'canonicalUrl', widget: 'string' }
           - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
           - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
-          - label: 'Conference Page Hero'
-            name: 'conferenceHero'
-            widget: object
-            fields:
-              - { label: 'Hero Title', name: 'heroTitle', widget: 'string' }
-              - { label: 'Hero Description', name: 'heroDescription', widget: 'string' }
-              - { label: 'Hero Button Link', name: 'heroBtnLink', widget: 'string' }
-              - { label: 'Hero Video Link', name: 'heroVideoLink', widget: 'string' }
+          - { label: 'Hero Title', name: 'heroTitle', widget: 'string' }
+          - { label: 'Hero Description', name: 'heroDescription', widget: 'markdown' }
+          - { label: 'Hero Button Link', name: 'heroBtnLink', widget: 'string' }
+          - { label: 'Hero Video Link', name: 'heroVideoLink', widget: 'string' }
 
           - { label: 'Marque Text', name: 'marqeeText', widget: 'text' }
           - { label: 'Feature Text', name: 'featureText', widget: 'markdown' }

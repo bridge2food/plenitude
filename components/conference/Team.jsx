@@ -27,7 +27,7 @@ const Team = () => {
 
   const settings = {
     infinite: false,
-    slidesToShow: 2,
+    slidesToShow: 3,
     slidesToScroll: 1,
     dots: false,
     prevArrow: <PrevArrow />,
@@ -66,8 +66,8 @@ const Team = () => {
                     alt="team Image"
                   />
                 </div>
-                <div className="flex items-center justify-between">
-                  <div>
+                <div className="flex items-center justify-between gap-5">
+                  <div className="">
                     <h3 className="font-archivo text-xl font-medium tracking-normal ">{item.memberName}</h3>
                     <p className="text-base">{item.memberDesignation}</p>
                   </div>

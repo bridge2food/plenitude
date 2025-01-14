@@ -1,5 +1,4 @@
 import React from 'react'
-import { motion } from 'framer-motion'
 import Markdown from 'react-markdown'
 import { attributes } from '../../content/conference.md'
 import { withMotionAnimation } from '../../utils/withMotionAnimation'
