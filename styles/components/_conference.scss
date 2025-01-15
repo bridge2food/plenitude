@@ -9,17 +9,17 @@
       @apply flex items-center;
     }
     &-description {
-      * {
-        @apply text-white;
-      }
       h1 {
-        @apply mb-5 text-[44px] !text-[#70B42D];
+        @apply mb-5 text-[44px] text-[#70B42D];
       }
       h2 {
-        @apply mb-5 text-[36px];
+        @apply mb-5 text-[36px] text-white;
       }
       h3 {
-        @apply mb-5 text-[32px];
+        @apply mb-5 text-[32px] text-white;
+      }
+      h4 {
+        @apply mb-5 text-white;
       }
       p {
         @apply mb-5 text-white;

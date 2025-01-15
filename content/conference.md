@@ -16,10 +16,7 @@ heroDescription: >-
   #### *June 3rd, 2025*
 
 
-  *\**
-
-
-  Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
+  *\** Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: "https://vimeo.com/manage/videos/945798809   "
 marqeeText: Plenitude Final Conference *** Registration open NOW ***
