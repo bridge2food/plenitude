@@ -6,8 +6,9 @@ import Markdown from 'react-markdown'
 import Link from 'next/link'
 import React, { useEffect, useState } from 'react'
 import ReactPlayer from 'react-player'
+import Image from 'next/image'
 const Hero = () => {
-  const { heroTitle, heroDescription, heroBtnLink, heroVideoLink } = attributes
+  const { heroTitle, heroDescription, heroBtnLink, heroVideoLink, heroImage } = attributes
   const [isClient, setIsClient] = useState(false)
   const [isPlaying, setIsPlaying] = useState(false)
 
@@ -44,23 +45,39 @@ const Hero = () => {
                 </Link>
               </div>
             </motion.div>
-            <motion.div {...sectionHeaderAnimation} className="conference-hero-video">
-              {!isClient && <div>Loading...</div>}
-              {isClient && (
-                <ReactPlayer
-                  playing={isPlaying}
-                  loop
-                  controls
-                  url={heroVideoLink}
-                  className="react-player"
-                  width="100%"
-                  height="100%"
-                  onReady={handleReady}
-                  muted={true}
-                  playsinline
-                />
-              )}
-            </motion.div>
+            {heroVideoLink && (
+              <motion.div {...sectionHeaderAnimation} className="conference-hero-video">
+                {!isClient && <div>Loading...</div>}
+                {isClient && (
+                  <ReactPlayer
+                    playing={isPlaying}
+                    loop
+                    controls
+                    url={heroVideoLink}
+                    className="react-player"
+                    width="100%"
+                    height="100%"
+                    onReady={handleReady}
+                    muted={true}
+                    playsinline
+                  />
+                )}
+              </motion.div>
+            )}
+            {heroImage && (
+              <motion.div {...sectionHeaderAnimation} className="cta-wrapper">
+                <div className="cta-video relative !w-full">
+                  <Image
+                    src={heroImage}
+                    width="0"
+                    height="0"
+                    sizes="100vw"
+                    className=" aspect-square h-auto max-h-[720px] w-full"
+                    alt="Conference Hero Image"
+                  />
+                </div>
+              </motion.div>
+            )}
           </div>
         </div>
 

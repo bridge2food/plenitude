@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway #test-repo
+  name: test-repo #git-gateway
   branch: main # Branch to update (optional; defaults to main; shouldn't change)
 media_folder: public/img
 public_folder: img
@@ -220,8 +220,9 @@ collections:
           - { label: 'Meta Image', name: 'metaImage', widget: 'image' }
           - { label: 'Hero Title', name: 'heroTitle', widget: 'string' }
           - { label: 'Hero Description', name: 'heroDescription', widget: 'markdown' }
+          - { label: 'Hero Image', name: 'heroImage', widget: 'image', required: false }
           - { label: 'Hero Button Link', name: 'heroBtnLink', widget: 'string' }
-          - { label: 'Hero Video Link', name: 'heroVideoLink', widget: 'string' }
+          - { label: 'Hero Video Link', name: 'heroVideoLink', widget: 'string', required: false }
 
           - { label: 'Marque Text', name: 'marqeeText', widget: 'text' }
           - { label: 'Feature Text', name: 'featureText', widget: 'markdown' }
