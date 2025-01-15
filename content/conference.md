@@ -101,8 +101,20 @@ scheduleList:
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
         memberImage: /img/untitled-design-2-.png
     details: More details coming soon...
-  - title: Biorefinery landscape in Europe
+  - title: Biorefinery Landscape in Europe
     details: More details coming soon...
     startTime: 10:30 AM
     endTime: 10:55 AM
+  - title: CBE JU Flagship Project
+    startTime: 11:00 AM
+    endTime: 11:25 AM
+    details: More details coming soon...
+  - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
+    startTime: 11:30
+    endTime: 12:30
+    scheduleAuthor:
+      - memberName: Sonia Huppert
+        memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
+        memberImage: img/3.png
+    details: More details coming soon...
 ---
