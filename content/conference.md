@@ -109,8 +109,8 @@ scheduleList:
     endTime: 11:25 AM
     details: More details coming soon...
   - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
-    startTime: 11:30
-    endTime: 12:30
+    startTime: 11:30 AM
+    endTime: 12:30 PM
     scheduleAuthor:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
