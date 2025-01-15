@@ -101,4 +101,8 @@ scheduleList:
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
         memberImage: /img/untitled-design-2-.png
     details: More details coming soon...
+  - title: Biorefinery landscape in Europe
+    details: More details coming soon...
+    startTime: 10:30 AM
+    endTime: 10:55 AM
 ---
