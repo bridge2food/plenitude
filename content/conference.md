@@ -159,8 +159,8 @@ scheduleList:
     details: "  "
   - title: "Panel: How EU Institutions Foster Entrepreneurship in Sustainable Sectors"
     details: " "
-    startTime: 4:30
-    endTime: 5:15
+    startTime: 4:30 PM
+    endTime: 5:15 PM
   - title: Start-Up Pitch Slam
     details: Startups utilizing mycoprotein in different fields will alternate on stage.
     startTime: 5:20 PM
@@ -178,6 +178,6 @@ scheduleList:
     details: "  "
   - title: "Workshop & Tasting: Unconventional Mycoprotein Applications"
     details: "  "
-    startTime: 6:05
-    endTime: 6:30
+    startTime: 6:05 PM
+    endTime: 6:30 PM
 ---
