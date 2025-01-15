@@ -161,4 +161,23 @@ scheduleList:
     details: " "
     startTime: 4:30
     endTime: 5:15
+  - title: Start-Up Pitch Slam
+    details: Startups utilizing mycoprotein in different fields will alternate on stage.
+    startTime: 5:20 PM
+    endTime: 5:45 PM
+  - title: Closing Remarks
+    startTime: 5:50 PM
+    endTime: 6:00 PM
+    scheduleAuthor:
+      - memberName: Jim Laird
+        memberDesignation: CEO - ENOUGH
+        memberImage: img/4.png
+      - memberName: Nicoló Giacomuzzi-Moore
+        memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
+        memberImage: img/8.png
+    details: "  "
+  - title: "Workshop & Tasting: Unconventional Mycoprotein Applications"
+    details: "  "
+    startTime: 6:05
+    endTime: 6:30
 ---
