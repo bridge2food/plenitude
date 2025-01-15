@@ -16,7 +16,10 @@ heroDescription: >-
   #### *June 3rd, 2025*
 
 
-  *\** Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
+  *\**
+
+
+  Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: "https://vimeo.com/manage/videos/945798809   "
 marqeeText: Plenitude Final Conference *** Registration open NOW ***
@@ -39,9 +42,7 @@ featureText: >-
   \* Evening Welcome Reception
 
 
-
-
-  ![](img/collage-12-x-4-in-2-.png)
+  ![](img/collage-12-x-4-in-2400-x-800-px-1-.png)
 
 
   #### *Our Story*
@@ -109,8 +110,8 @@ scheduleList:
     endTime: 11:25 AM
     details: More details coming soon...
   - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
-    startTime: 11:30 AM
-    endTime: 12:30 PM
+    startTime: 11:30
+    endTime: 12:30
     scheduleAuthor:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
