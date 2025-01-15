@@ -36,6 +36,9 @@ featureText: >-
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
 
 
+  \    
+
+
   #### *Why Attend:*
 
 
@@ -116,5 +119,17 @@ scheduleList:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
         memberImage: img/3.png
+    details: More details coming soon...
+  - title: "Networking Lunch "
+    startTime: 12:15 PM
+    endTime: 2:00 PM
+    details: Featuring a cooking demo with ABUNDA Mycoprotein
+  - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
+    startTime: 1:30 PM
+    endTime: 1:55 PM
+    scheduleAuthor:
+      - memberName: Sonia Pignatelli
+        memberDesignation: Senior LCA Analyst - Life Cycle Engineering SPA
+        memberImage: img/1.png
     details: More details coming soon...
 ---
