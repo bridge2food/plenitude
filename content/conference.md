@@ -90,9 +90,9 @@ scheduleSectionDetails: |-
 
   ##### *All times in CEST.*
 scheduleList:
-  - title: Opening Remarks
+  - title: Opening Remarks & Project Overview
     startTime: 10:00 AM
-    endTime: 10:25 AM
+    endTime: 10:40 AM
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director - ENOUGH
@@ -103,30 +103,62 @@ scheduleList:
     details: More details coming soon...
   - title: Biorefinery Landscape in Europe
     details: More details coming soon...
-    startTime: 10:30 AM
-    endTime: 10:55 AM
-  - title: CBE JU Flagship Project
-    startTime: 11:00 AM
-    endTime: 11:25 AM
-    details: More details coming soon...
+    startTime: 10:45 AM
+    endTime: 11:10 AM
   - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
-    startTime: 11:30
-    endTime: 12:30
+    startTime: 11:15 AM
+    endTime: 12:00 PM
     scheduleAuthor:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
         memberImage: /img/3.png
     details: More details coming soon...
-  - title: "Networking Lunch "
-    startTime: 12:15 PM
-    endTime: 2:00 PM
-    details: Featuring a cooking demo with ABUNDA Mycoprotein
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
-    startTime: 1:30 PM
-    endTime: 1:55 PM
+    startTime: 12:05 PM
+    endTime: 12:30 PM
     scheduleAuthor:
       - memberName: Sonia Pignatelli
         memberDesignation: Senior LCA Analyst - Life Cycle Engineering SPA
         memberImage: /img/1.png
     details: More details coming soon...
+  - title: "Networking Lunch "
+    startTime: 12:30 PM
+    endTime: 13:30 PM
+    details: Featuring a cooking demo with ABUNDA Mycoprotein
+  - title: CBE JU Flagship Project
+    startTime: 1:30 PM
+    endTime: 1:55 PM
+    details: More details coming soon...
+  - title: "Diverse Mycoprotein Applications: Meat Hybrids, Cultivated Meat &
+      Bioplastics"
+    startTime: 2:00 PM
+    endTime: 2:55 PM
+    details: Project partners present the highlights and challenges in using
+      mycoprotein in different applications. An interactive Q&A will follow.
+    scheduleAuthor:
+      - memberName: Vincent Brain
+        memberDesignation: General Manager - Bridge2Food
+        memberImage: img/5.png
+  - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
+      Fermentation "
+    startTime: 3:00 PM
+    endTime: 3:25 PM
+    details: More details comings soon...
+  - title: Coffee Break
+    details: " "
+    startTime: 3:30 PM
+    endTime: 4:00 PM
+  - title: Characterisation and Nutritional Quality Assessment of Mycoprotein
+      Ingredients
+    startTime: 4:00 PM
+    endTime: 4:25 PM
+    scheduleAuthor:
+      - memberName: Laurice Pouvreau
+        memberDesignation: Expertise Leader Protein Technology - Wageningen University & Research
+        memberImage: img/7.png
+    details: More details coming soon...
+  - title: "Panel: How EU Institutions Foster Entrepreneurship in Sustainable Sectors"
+    details: " "
+    startTime: 4:30
+    endTime: 5:15
 ---
