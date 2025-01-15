@@ -9,11 +9,11 @@
       @apply flex items-center;
     }
     &-description {
-      * {
-        @apply text-white;
-      }
       h1 {
         @apply mb-5 text-[44px] !text-[#70B42D];
+      }
+      * {
+        @apply text-white;
       }
       h2 {
         @apply mb-5 text-[36px];
