@@ -100,9 +100,9 @@ scheduleList:
       - memberName: Luisa Mascia
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
         memberImage: /img/untitled-design-2-.png
-    details: More details coming soon...
+    details: "  "
   - title: Biorefinery Landscape in Europe
-    details: More details coming soon...
+    details: " "
     startTime: 10:45 AM
     endTime: 11:10 AM
   - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
@@ -112,7 +112,7 @@ scheduleList:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
         memberImage: /img/3.png
-    details: More details coming soon...
+    details: "  "
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
     startTime: 12:05 PM
     endTime: 12:30 PM
@@ -120,7 +120,7 @@ scheduleList:
       - memberName: Sonia Pignatelli
         memberDesignation: Senior LCA Analyst - Life Cycle Engineering SPA
         memberImage: /img/1.png
-    details: More details coming soon...
+    details: "  "
   - title: "Networking Lunch "
     startTime: 12:30 PM
     endTime: 13:30 PM
@@ -128,7 +128,7 @@ scheduleList:
   - title: CBE JU Flagship Project
     startTime: 1:30 PM
     endTime: 1:55 PM
-    details: More details coming soon...
+    details: "  "
   - title: "Diverse Mycoprotein Applications: Meat Hybrids, Cultivated Meat &
       Bioplastics"
     startTime: 2:00 PM
@@ -143,7 +143,7 @@ scheduleList:
       Fermentation "
     startTime: 3:00 PM
     endTime: 3:25 PM
-    details: More details comings soon...
+    details: "  "
   - title: Coffee Break
     details: " "
     startTime: 3:30 PM
@@ -156,7 +156,7 @@ scheduleList:
       - memberName: Laurice Pouvreau
         memberDesignation: Expertise Leader Protein Technology - Wageningen University & Research
         memberImage: img/7.png
-    details: More details coming soon...
+    details: "  "
   - title: "Panel: How EU Institutions Foster Entrepreneurship in Sustainable Sectors"
     details: " "
     startTime: 4:30
