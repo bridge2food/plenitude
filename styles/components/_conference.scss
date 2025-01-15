@@ -12,13 +12,17 @@
       * {
         @apply text-white;
       }
-      h1,
-      h2 {
-        @apply mb-5 text-[40px];
+      h1 {
+        @apply mb-5 text-[44px];
       }
-
+      h2 {
+        @apply mb-5 text-[36px];
+      }
+      h3 {
+        @apply mb-5 text-[32px];
+      }
       p {
-        @apply text-white;
+        @apply mb-5 text-white;
       }
       a {
         @apply text-secondary;
@@ -66,9 +70,9 @@
     overflow: visible;
   }
   .slick-slide {
-    @apply w-auto pr-8 md:pr-4 lg:px-[15px] #{!important};
+    @apply pr-8 md:pr-4 lg:px-[15px] #{!important};
     img {
-      @apply min-w-[330px];
+      @apply min-w-[330px] max-w-[330px];
     }
   }
   .slick-prev {
@@ -85,6 +89,9 @@
 
 .register {
   .section-header-title-white {
+    * {
+      @apply text-white;
+    }
     h2 {
       @apply leading-tight;
       em {

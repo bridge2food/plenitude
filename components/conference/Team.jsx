@@ -48,7 +48,7 @@ const Team = () => {
   return (
     <div className="team relative overflow-hidden !bg-white">
       <div className="container relative mx-auto">
-        <div className=" section-header-title mb-[48px]">
+        <div className=" section-header-title my-[48px]">
           <Markdown>{memberSectionTitle}</Markdown>
         </div>
 
