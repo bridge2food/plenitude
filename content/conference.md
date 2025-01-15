@@ -10,16 +10,18 @@ heroDescription: >-
   # **Circular Bio-economy for Sustainable Protein Production**
 
 
-  #### *Fokker Terminal, The Hague, NL* 
+  #### *Fokker Terminal, The Hague, NL*
 
 
   #### *June 3rd, 2025*
 
 
-  *\** Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
-heroImage: ""
+  \*\**
+
+
+  Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
-heroVideoLink: "https://vimeo.com/manage/videos/945798809"
+heroVideoLink: "https://vimeo.com/manage/videos/945798809   "
 marqeeText: Plenitude Final Conference *** Registration open NOW ***
 featureText: >-
   #### *Why Attend:*
@@ -47,6 +49,9 @@ featureText: >-
 
 
   Since 2019, PLENITUDE has brought together 10 European partners from agri-food, biotechnology, academia, and beyond, powered by €16.9 million in funding from the [Circular Bio-based Europe Joint Undertaking](https://www.cbe.europa.eu/). This consortium has pioneered cutting-edge solutions to advance a sustainable future through a unique circular, minimal-waste process for mycoprotein production and its applications in food and beyond.
+
+
+  \*\**
 
 
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
@@ -136,7 +141,7 @@ scheduleList:
     scheduleAuthor:
       - memberName: Vincent Brain
         memberDesignation: General Manager - Bridge2Food
-        memberImage: /img/5.png
+        memberImage: img/5.png
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
       Fermentation "
     startTime: 3:00 PM
@@ -153,7 +158,7 @@ scheduleList:
     scheduleAuthor:
       - memberName: Laurice Pouvreau
         memberDesignation: Expertise Leader Protein Technology - Wageningen University & Research
-        memberImage: /img/7.png
+        memberImage: img/7.png
     details: "  "
   - title: "Panel: How EU Institutions Foster Entrepreneurship in Sustainable Sectors"
     details: " "
@@ -169,10 +174,10 @@ scheduleList:
     scheduleAuthor:
       - memberName: Jim Laird
         memberDesignation: CEO - ENOUGH
-        memberImage: /img/4.png
+        memberImage: img/4.png
       - memberName: Nicoló Giacomuzzi-Moore
         memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
-        memberImage: /img/8.png
+        memberImage: img/8.png
     details: "  "
   - title: "Workshop & Tasting: Unconventional Mycoprotein Applications"
     details: "  "
