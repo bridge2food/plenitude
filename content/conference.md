@@ -20,8 +20,9 @@ heroDescription: >-
 
 
   Co-located with Bridge2Food Europe and FREE to attend for relevant stakeholders, professionals and academics who want to learn more and make an impact.
+heroImage: img/2024-06-05-bridge2food-den-haag-highres-16.jpg
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
-heroVideoLink: "https://vimeo.com/manage/videos/945798809   "
+heroVideoLink: ""
 marqeeText: Plenitude Final Conference *** Registration open NOW ***
 featureText: >-
   #### *Why Attend:*
@@ -81,6 +82,10 @@ team:
     memberDesignation: Executive Director - Circular Bio-based Europe Joint Undertaking
     socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
     memberImage: /img/8.png
+  - memberName: Giulia Del Brenna
+    memberDesignation: Head of Unit - DG GROW
+    socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
+    memberImage: img/450x450.png
 registerSectionTitle: |-
   ## Apply to  *attend*
 
@@ -164,6 +169,13 @@ scheduleList:
     details: " "
     startTime: 4:30 PM
     endTime: 5:15 PM
+    scheduleAuthor:
+      - memberName: Giulia Del Brenna
+        memberDesignation: Head of Unit
+        memberImage: img/450x450.png
+      - memberName: Nicoló Giacomuzzi-Moore
+        memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
+        memberImage: img/8.png
   - title: Start-Up Pitch Slam
     details: Startups utilizing mycoprotein in different fields will alternate on stage.
     startTime: 5:20 PM
