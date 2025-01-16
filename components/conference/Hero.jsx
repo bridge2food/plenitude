@@ -33,7 +33,7 @@ const Hero = () => {
                 <Markdown className="conference-hero-description mb-8">{heroDescription}</Markdown>
                 <Link href={heroBtnLink} className="nav-btn cta-animate group items-center">
                   <span className="flex items-center gap-2.5">
-                    Get your ticket now
+                    Apply to Attend Now
                     <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path
                         d="M10.2063 3.90396L1.59976 12.5105L0.185547 11.0963L8.79214 2.48975H1.20637V0.489746H12.2063V11.4897H10.2063V3.90396Z"
