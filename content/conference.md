@@ -71,7 +71,8 @@ team:
     memberImage: /img/1.png
     socialLink: https://www.linkedin.com/in/sonia-pignatelli-631500203/
   - memberName: Sonia Huppert
-    memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
+    memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
+      Protein & Modulation
     memberImage: /img/3.png
     socialLink: https://www.linkedin.com/in/sonia-huppert-5647796/
   - memberName: Jim Laird
@@ -118,7 +119,8 @@ scheduleList:
     endTime: 12:00 PM
     scheduleAuthor:
       - memberName: Sonia Huppert
-        memberDesignation: Global Innovation Marketing Leader, RE-IMAGINE WELLNESS™ - IFF
+        memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
+          Protein & Modulation
         memberImage: /img/3.png
     details: "  "
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
