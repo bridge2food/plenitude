@@ -87,7 +87,7 @@ team:
     memberDesignation: Head of Unit - DG GROW
     socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
     memberImage: img/450x450.png
-  - memberName: Francesco
+  - memberName: Francesco Zaccarian
     memberDesignation: Food Scientist
     socialLink: https://www.linkedin.com/in/francesco-zaccarian/
     memberImage: img/450x450-1-.png
@@ -153,6 +153,9 @@ scheduleList:
       - memberName: Vincent Brain
         memberDesignation: General Manager - Bridge2Food
         memberImage: img/5.png
+      - memberName: Francesco Zaccarian
+        memberDesignation: Food Scientist
+        memberImage: img/450x450-1-.png
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
       Fermentation "
     startTime: 3:00 PM
