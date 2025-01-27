@@ -87,6 +87,10 @@ team:
     memberDesignation: Head of Unit - DG GROW
     socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
     memberImage: img/450x450.png
+  - memberName: Francesco
+    memberDesignation: Food Scientist
+    socialLink: https://www.linkedin.com/in/francesco-zaccarian/
+    memberImage: img/450x450-1-.png
 registerSectionTitle: |-
   ## Apply to  *attend*
 
