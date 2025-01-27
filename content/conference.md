@@ -88,9 +88,17 @@ team:
     socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
     memberImage: img/450x450.png
   - memberName: Francesco Zaccarian
-    memberDesignation: Food Scientist
+    memberDesignation: Food Scientist - Mosa Meat
     socialLink: https://www.linkedin.com/in/francesco-zaccarian/
     memberImage: img/450x450-1-.png
+  - memberName: Dirk	Carrez
+    memberDesignation: Executive Director - BIC
+    socialLink: https://www.linkedin.com/in/dirk-carrez-651b0210/
+    memberImage: img/450x450-2-.png
+  - memberName: Kasia Polanowska
+    memberDesignation: R&D Manager - ENOUGH
+    socialLink: https://www.linkedin.com/in/katarzyna-polanowska-7056821a6/
+    memberImage: img/450x450-3-.png
 registerSectionTitle: |-
   ## Apply to  *attend*
 
@@ -126,6 +134,9 @@ scheduleList:
         memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
           Protein & Modulation
         memberImage: /img/3.png
+      - memberName: Kasia Polanowska
+        memberDesignation: R&D Manager	- ENOUGH
+        memberImage: img/450x450-3-.png
     details: "  "
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
     startTime: 12:05 PM
@@ -154,7 +165,7 @@ scheduleList:
         memberDesignation: General Manager - Bridge2Food
         memberImage: img/5.png
       - memberName: Francesco Zaccarian
-        memberDesignation: Food Scientist
+        memberDesignation: Food Scientist - Mosa Meat
         memberImage: img/450x450-1-.png
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
       Fermentation "
