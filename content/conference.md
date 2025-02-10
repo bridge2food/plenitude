@@ -193,7 +193,8 @@ scheduleList:
         memberDesignation: Expertise Leader Protein Technology at Wageningen University & Research
         memberImage: img/7.png
     details: "  "
-  - title: "Panel: How EU Institutions Foster Entrepreneurship in Sustainable Sectors"
+  - title: "Panel: How EU Institutions Foster Entrepreneurship in the Bio-based
+      Sector"
     details: " "
     startTime: 4:30 PM
     endTime: 5:15 PM
