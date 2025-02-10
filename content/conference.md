@@ -59,44 +59,44 @@ featureText: >-
 memberSectionTitle: "## Meet our *Speakers*"
 team:
   - memberName: Craig Johnston
-    memberDesignation: Co-founder & Technology Director - ENOUGH
+    memberDesignation: Co-founder & Technology Director at ENOUGH
     memberImage: /img/2.png
     socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
   - memberName: Luisa Mascia
-    memberDesignation: " Project Officer - Circular Bio-Based Europe Joint Undertaking"
+    memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
     memberImage: /img/6.png
     socialLink: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
   - memberName: Sonia Pignatelli
-    memberDesignation: Project Manager and Senior LCA Analyst - Life Cycle Engineering SPA
+    memberDesignation: Project Manager and Senior LCA Analyst at Life Cycle Engineering SPA
     memberImage: /img/1.png
     socialLink: https://www.linkedin.com/in/sonia-pignatelli-631500203/
   - memberName: Sonia Huppert
     memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
-      Protein & Modulation
+      Protein & Modulation at IFF
     memberImage: /img/3.png
     socialLink: https://www.linkedin.com/in/sonia-huppert-5647796/
   - memberName: Jim Laird
-    memberDesignation: CEO - ENOUGH
+    memberDesignation: CEO at ENOUGH
     memberImage: /img/4.png
     socialLink: https://www.linkedin.com/in/jim-laird-8b23582/
   - memberName: Nicoló Giacomuzzi-Moore
-    memberDesignation: Executive Director - Circular Bio-based Europe Joint Undertaking
+    memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
     socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
     memberImage: /img/8.png
   - memberName: Giulia Del Brenna
-    memberDesignation: Head of Unit - DG GROW
+    memberDesignation: Head of Unit at DG GROW
     socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
     memberImage: img/450x450.png
   - memberName: Francesco Zaccarian
-    memberDesignation: Food Scientist - Mosa Meat
+    memberDesignation: Food Scientist at Mosa Meat
     socialLink: https://www.linkedin.com/in/francesco-zaccarian/
     memberImage: img/450x450-1-.png
   - memberName: Dirk	Carrez
-    memberDesignation: Executive Director - BIC
+    memberDesignation: Executive Director at BIC
     socialLink: https://www.linkedin.com/in/dirk-carrez-651b0210/
     memberImage: img/450x450-2-.png
   - memberName: Kasia Polanowska
-    memberDesignation: R&D Manager - ENOUGH
+    memberDesignation: R&D Manager at ENOUGH
     socialLink: https://www.linkedin.com/in/katarzyna-polanowska-7056821a6/
     memberImage: img/450x450-3-.png
   - memberName: Mariana Fazenda
@@ -120,7 +120,7 @@ scheduleList:
     endTime: 10:40 AM
     scheduleAuthor:
       - memberName: Craig Johnston
-        memberDesignation: Co-founder & Technology Director - ENOUGH
+        memberDesignation: Co-founder & Technology Director at ENOUGH
         memberImage: /img/2.png
       - memberName: Luisa Mascia
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
@@ -130,16 +130,20 @@ scheduleList:
     details: " "
     startTime: 10:45 AM
     endTime: 11:10 AM
+    scheduleAuthor:
+      - memberName: Dirk Carrez
+        memberDesignation: Executive Director at BIC
+        memberImage: img/450x450-2-.png
   - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
     startTime: 11:15 AM
     endTime: 12:00 PM
     scheduleAuthor:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
-          Protein & Modulation
+          Protein & Modulation at IFF
         memberImage: /img/3.png
       - memberName: Kasia Polanowska
-        memberDesignation: R&D Manager	- ENOUGH
+        memberDesignation: R&D Manager	at ENOUGH
         memberImage: img/450x450-3-.png
     details: "  "
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
@@ -147,7 +151,7 @@ scheduleList:
     endTime: 12:30 PM
     scheduleAuthor:
       - memberName: Sonia Pignatelli
-        memberDesignation: Senior LCA Analyst - Life Cycle Engineering SPA
+        memberDesignation: Senior LCA Analyst at Life Cycle Engineering SPA
         memberImage: /img/1.png
     details: "  "
   - title: "Networking Lunch "
@@ -166,10 +170,10 @@ scheduleList:
       mycoprotein in different applications. An interactive Q&A will follow.
     scheduleAuthor:
       - memberName: Vincent Brain
-        memberDesignation: General Manager - Bridge2Food
+        memberDesignation: General Manager at Bridge2Food
         memberImage: img/5.png
       - memberName: Francesco Zaccarian
-        memberDesignation: Food Scientist - Mosa Meat
+        memberDesignation: Food Scientist at Mosa Meat
         memberImage: img/450x450-1-.png
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
       Fermentation "
@@ -186,7 +190,7 @@ scheduleList:
     endTime: 4:25 PM
     scheduleAuthor:
       - memberName: Laurice Pouvreau
-        memberDesignation: Expertise Leader Protein Technology - Wageningen University & Research
+        memberDesignation: Expertise Leader Protein Technology at Wageningen University & Research
         memberImage: img/7.png
     details: "  "
   - title: "Panel: How EU Institutions Foster Entrepreneurship in Sustainable Sectors"
@@ -195,11 +199,14 @@ scheduleList:
     endTime: 5:15 PM
     scheduleAuthor:
       - memberName: Giulia Del Brenna
-        memberDesignation: Head of Unit
+        memberDesignation: Head of Unit at DG GROW
         memberImage: img/450x450.png
       - memberName: Nicoló Giacomuzzi-Moore
         memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
         memberImage: img/8.png
+      - memberName: Mariana Fazenda
+        memberDesignation: Senior Programme manager at EIT Food Education
+        memberImage: img/450x450.png
   - title: Start-Up Pitch Slam
     details: Startups utilizing mycoprotein in different fields will alternate on stage.
     startTime: 5:20 PM
