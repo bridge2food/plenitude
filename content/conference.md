@@ -86,7 +86,7 @@ team:
   - memberName: Giulia Del Brenna
     memberDesignation: Head of Unit at DG GROW
     socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
-    memberImage: img/450x450.png
+    memberImage: img/giulia-del-brenna.png
   - memberName: Francesco Zaccarian
     memberDesignation: Food Scientist at Mosa Meat
     socialLink: https://www.linkedin.com/in/francesco-zaccarian/
@@ -101,7 +101,7 @@ team:
     memberImage: img/450x450-3-.png
   - memberName: Mariana Fazenda
     memberDesignation: Senior Programme Manager at EIT Food Education
-    memberImage: img/450x450.png
+    memberImage: img/mariana-fazenda.png
     socialLink: https://www.linkedin.com/in/mariana-fazenda-584a561/
 registerSectionTitle: |-
   ## Apply to  *attend*
@@ -200,13 +200,13 @@ scheduleList:
     scheduleAuthor:
       - memberName: Giulia Del Brenna
         memberDesignation: Head of Unit at DG GROW
-        memberImage: img/450x450.png
+        memberImage: img/giulia-del-brenna.png
       - memberName: Nicoló Giacomuzzi-Moore
         memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
         memberImage: img/8.png
       - memberName: Mariana Fazenda
         memberDesignation: Senior Programme manager at EIT Food Education
-        memberImage: img/450x450.png
+        memberImage: img/mariana-fazenda.png
   - title: Start-Up Pitch Slam
     details: Startups utilizing mycoprotein in different fields will alternate on stage.
     startTime: 5:20 PM
