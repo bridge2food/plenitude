@@ -99,6 +99,10 @@ team:
     memberDesignation: R&D Manager - ENOUGH
     socialLink: https://www.linkedin.com/in/katarzyna-polanowska-7056821a6/
     memberImage: img/450x450-3-.png
+  - memberName: Mariana Fazenda
+    memberDesignation: Senior Programme Manager at EIT Food Education
+    memberImage: img/450x450.png
+    socialLink: https://www.linkedin.com/in/mariana-fazenda-584a561/
 registerSectionTitle: |-
   ## Apply to  *attend*
 
