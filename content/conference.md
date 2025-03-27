@@ -94,7 +94,7 @@ team:
   - memberName: Dirk	Carrez
     memberDesignation: Executive Director at BIC
     socialLink: https://www.linkedin.com/in/dirk-carrez-651b0210/
-    memberImage: img/450x450-2-.png
+    memberImage: img/17.png
   - memberName: Kasia Polanowska
     memberDesignation: R&D Manager at ENOUGH
     socialLink: https://www.linkedin.com/in/katarzyna-polanowska-7056821a6/
@@ -107,6 +107,19 @@ team:
     memberName: Katrijn Otten
     memberDesignation: Senior Director of Government Relations at Cargill
     socialLink: https://www.linkedin.com/in/katrijn-otten-b892911/
+  - memberName: Michael Kilkie
+    memberDesignation: Head of Culinary at ENOUGH
+    memberImage: img/15.png
+    socialLink: https://www.linkedin.com/in/michael-kilkie-ab17005a/
+  - memberName: Karen Polizzi
+    memberDesignation: Professor of Biotechnology at Imperial College / Bezos Center
+      for Sustainable Protein
+    memberImage: img/18.png
+    socialLink: https://www.linkedin.com/in/karen-polizzi-229997ba/
+  - memberName: Jan Buhler
+    memberDesignation: Research Manager	at Vivera
+    memberImage: img/16.png
+    socialLink: https://www.linkedin.com/in/jan-b%C3%BChler-53118a161/
 registerSectionTitle: |-
   ## Apply to  *attend*
 
