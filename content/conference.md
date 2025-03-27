@@ -150,7 +150,7 @@ scheduleList:
     scheduleAuthor:
       - memberName: Dirk Carrez
         memberDesignation: Executive Director at BIC
-        memberImage: img/450x450-2-.png
+        memberImage: img/17.png
   - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
     startTime: 11:15 AM
     endTime: 12:00 PM
@@ -162,6 +162,9 @@ scheduleList:
       - memberName: Kasia Polanowska
         memberDesignation: R&D Manager	at ENOUGH
         memberImage: img/450x450-3-.png
+      - memberName: Jan Buher
+        memberDesignation: Research Manager at Vivera
+        memberImage: img/16.png
     details: "  "
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
     startTime: 12:05 PM
@@ -175,6 +178,10 @@ scheduleList:
     startTime: 12:30 PM
     endTime: 13:30 PM
     details: Featuring a cooking demo with ABUNDA Mycoprotein
+    scheduleAuthor:
+      - memberName: Michael Kilkie
+        memberDesignation: Head of Culinary at ENOUGH
+        memberImage: img/15.png
   - title: CBE JU Flagship Project
     startTime: 1:30 PM
     endTime: 1:55 PM
@@ -197,6 +204,11 @@ scheduleList:
     startTime: 3:00 PM
     endTime: 3:25 PM
     details: "  "
+    scheduleAuthor:
+      - memberName: Karen Polizzi
+        memberDesignation: Karen	Polizzi	Professor of Biotechnology at Imperial College
+          / Bezos Center for Sustainable Protein
+        memberImage: img/18.png
   - title: Coffee Break
     details: " "
     startTime: 3:30 PM
