@@ -134,7 +134,7 @@ scheduleSectionDetails: |-
 scheduleList:
   - title: Opening Remarks & Project Overview
     startTime: 10:00 AM
-    endTime: 10:40 AM
+    endTime: 10:50 AM
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director at ENOUGH
@@ -143,17 +143,22 @@ scheduleList:
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
         memberImage: /img/untitled-design-2-.png
     details: "  "
+  - title: Coffee Break
+    startTime: 10:50 AM
+    endTime: 11:15 AM
+    details: " "
   - title: Biorefinery Landscape in Europe
     details: " "
-    startTime: 10:45 AM
-    endTime: 11:10 AM
+    startTime: 11:15 AM
+    endTime: 11:40 AM
     scheduleAuthor:
       - memberName: Dirk Carrez
         memberDesignation: Executive Director at BIC
         memberImage: img/17.png
-  - title: "Panel: Product Formulation & Nutritional Benefits of Mycoprotein"
-    startTime: 11:15 AM
-    endTime: 12:00 PM
+  - title: "Panel: Mycoprotein for Meat and Dairy Analogs: Navigating Functional and
+      Formulation Hurdles"
+    startTime: 11:45 AM
+    endTime: 12:15 PM
     scheduleAuthor:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
@@ -167,29 +172,25 @@ scheduleList:
         memberImage: img/16.png
     details: "  "
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
-    startTime: 12:05 PM
-    endTime: 12:30 PM
+    startTime: 12:20 PM
+    endTime: 12:45 PM
     scheduleAuthor:
       - memberName: Sonia Pignatelli
         memberDesignation: Senior LCA Analyst at Life Cycle Engineering SPA
         memberImage: /img/1.png
     details: "  "
   - title: "Networking Lunch "
-    startTime: 12:30 PM
-    endTime: 13:30 PM
+    startTime: 12:45 PM
+    endTime: 13:50 PM
     details: Featuring a cooking demo with ABUNDA Mycoprotein
     scheduleAuthor:
       - memberName: Michael Kilkie
         memberDesignation: Head of Culinary at ENOUGH
         memberImage: img/15.png
-  - title: CBE JU Flagship Project
-    startTime: 1:30 PM
-    endTime: 1:55 PM
-    details: "  "
   - title: "Diverse Mycoprotein Applications: Meat Hybrids, Cultivated Meat &
       Bioplastics"
-    startTime: 2:00 PM
-    endTime: 2:55 PM
+    startTime: 1:50 PM
+    endTime: 2:20 PM
     details: Project partners present the highlights and challenges in using
       mycoprotein in different applications. An interactive Q&A will follow.
     scheduleAuthor:
@@ -199,24 +200,33 @@ scheduleList:
       - memberName: Francesco Zaccarian
         memberDesignation: Food Scientist at Mosa Meat
         memberImage: img/450x450-1-.png
+  - title: "Giant Leaps: The Horizon Europe Project Promoting the Consumption of
+      Alternative Protein for More Sustainable and Healthier Diets"
+    startTime: 2:25 PM
+    endTime: 1:50 PM
+    details: "  "
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
       Fermentation "
-    startTime: 3:00 PM
-    endTime: 3:25 PM
+    startTime: 2:55 PM
+    endTime: 3:20 PM
     details: "  "
     scheduleAuthor:
       - memberName: Karen Polizzi
         memberDesignation: Karen	Polizzi	Professor of Biotechnology at Imperial College
           / Bezos Center for Sustainable Protein
         memberImage: img/18.png
+  - title: "Overview on Single-Cell Proteins "
+    startTime: 3:25
+    endTime: 3:50
+    details: "  "
   - title: Coffee Break
     details: " "
-    startTime: 3:30 PM
-    endTime: 4:00 PM
+    startTime: 3:50 PM
+    endTime: 4:20 PM
   - title: Characterisation and Nutritional Quality Assessment of Mycoprotein
       Ingredients
-    startTime: 4:00 PM
-    endTime: 4:25 PM
+    startTime: 4:20 PM
+    endTime: 4:45 PM
     scheduleAuthor:
       - memberName: Laurice Pouvreau
         memberDesignation: Expertise Leader Protein Technology at Wageningen University & Research
@@ -225,8 +235,8 @@ scheduleList:
   - title: "Panel: How EU Institutions Foster Entrepreneurship in the Bio-based
       Sector"
     details: " "
-    startTime: 4:30 PM
-    endTime: 5:15 PM
+    startTime: 4:50 PM
+    endTime: 5:35 PM
     scheduleAuthor:
       - memberName: Giulia Del Brenna
         memberDesignation: Head of Unit at DG GROW
@@ -240,13 +250,9 @@ scheduleList:
       - memberName: Katrijn Otten
         memberDesignation: Senior Director of Government Relations at Cargill
         memberImage: img/450x450.png
-  - title: Start-Up Pitch Slam
-    details: Startups utilizing mycoprotein in different fields will alternate on stage.
-    startTime: 5:20 PM
-    endTime: 5:45 PM
   - title: Closing Remarks
-    startTime: 5:50 PM
-    endTime: 6:00 PM
+    startTime: 5:40 PM
+    endTime: 5:55 PM
     scheduleAuthor:
       - memberName: Jim Laird
         memberDesignation: CEO - ENOUGH
@@ -257,6 +263,6 @@ scheduleList:
     details: "  "
   - title: "Workshop & Tasting: Unconventional Mycoprotein Applications"
     details: "  "
-    startTime: 6:05 PM
+    startTime: 6:00 PM
     endTime: 6:30 PM
 ---
