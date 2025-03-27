@@ -95,10 +95,10 @@ team:
     memberDesignation: Executive Director at BIC
     socialLink: https://www.linkedin.com/in/dirk-carrez-651b0210/
     memberImage: img/17.png
-  - memberName: Kasia Polanowska
+  - memberName: Katarzyna Polanowska
     memberDesignation: R&D Manager at ENOUGH
     socialLink: https://www.linkedin.com/in/katarzyna-polanowska-7056821a6/
-    memberImage: img/450x450-3-.png
+    memberImage: img/450x450.png
   - memberName: Mariana Fazenda
     memberDesignation: Senior Programme Manager at EIT Food Education
     memberImage: img/mariana-fazenda.png
@@ -164,7 +164,7 @@ scheduleList:
         memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
           Protein & Modulation at IFF
         memberImage: /img/3.png
-      - memberName: Kasia Polanowska
+      - memberName: Katarzyna Polanowska
         memberDesignation: R&D Manager	at ENOUGH
         memberImage: img/450x450-3-.png
       - memberName: Jan Buher
