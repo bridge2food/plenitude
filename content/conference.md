@@ -103,7 +103,7 @@ team:
     memberDesignation: Senior Programme Manager at EIT Food Education
     memberImage: img/mariana-fazenda.png
     socialLink: https://www.linkedin.com/in/mariana-fazenda-584a561/
-  - memberImage: img/450x450.png
+  - memberImage: img/450x450-1-.png
     memberName: Katrijn Otten
     memberDesignation: Senior Director of Government Relations at Cargill
     socialLink: https://www.linkedin.com/in/katrijn-otten-b892911/
@@ -249,7 +249,7 @@ scheduleList:
         memberImage: img/mariana-fazenda.png
       - memberName: Katrijn Otten
         memberDesignation: Senior Director of Government Relations at Cargill
-        memberImage: img/450x450.png
+        memberImage: img/450x450-1-.png
   - title: Closing Remarks
     startTime: 5:40 PM
     endTime: 5:55 PM
