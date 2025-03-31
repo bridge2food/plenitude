@@ -269,4 +269,8 @@ scheduleList:
     details: "  "
     startTime: 6:00 PM
     endTime: 6:30 PM
+    scheduleAuthor:
+      - memberName: Tessa van der Geer
+        memberDesignation: Head of Labs - Low Food
+        memberImage: img/450x450-3-.png
 ---
