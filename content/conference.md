@@ -111,6 +111,10 @@ team:
     memberDesignation: Head of Culinary at ENOUGH
     memberImage: img/15.png
     socialLink: https://www.linkedin.com/in/michael-kilkie-ab17005a/
+  - memberName: Tessa van der Geer
+    memberDesignation: Head of Labs - low Food
+    memberImage: img/450x450-3-.png
+    socialLink: https://www.linkedin.com/in/tessa-van-der-geer-03537a109/
   - memberName: Karen Polizzi
     memberDesignation: Professor of Biotechnology at Imperial College / Bezos Center
       for Sustainable Protein
