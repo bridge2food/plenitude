@@ -245,8 +245,8 @@ scheduleList:
           / Bezos Center for Sustainable Protein
         memberImage: img/18.png
   - title: "Overview on Single-Cell Proteins "
-    startTime: 3:25
-    endTime: 3:50
+    startTime: 3:25 PM
+    endTime: 3:50 PM
     details: "  "
   - title: Coffee Break
     details: " "
@@ -281,7 +281,7 @@ scheduleList:
         memberImage: img/450x450-2-.png
   - title: Closing Remarks
     startTime: 5:40 PM
-    endTime: 5:55 PM
+    endTime: 5:50 PM
     scheduleAuthor:
       - memberName: Jim Laird
         memberDesignation: CEO - ENOUGH
