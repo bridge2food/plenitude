@@ -281,7 +281,7 @@ scheduleList:
         memberImage: img/450x450-2-.png
   - title: Closing Remarks
     startTime: 5:40 PM
-    endTime: 5:55 PM
+    endTime: 5:50 PM
     scheduleAuthor:
       - memberName: Jim Laird
         memberDesignation: CEO - ENOUGH
