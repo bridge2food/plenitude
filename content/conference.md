@@ -88,7 +88,7 @@ team:
     socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
     memberImage: img/giulia-del-brenna.png
   - memberName: Francesco Zaccarian
-    memberDesignation: Food Scientist at Mosa Meat
+    memberDesignation: Product Development Scientist at Mosa Meat
     socialLink: https://www.linkedin.com/in/francesco-zaccarian/
     memberImage: img/450x450-1-.png
   - memberName: Dirk	Carrez
@@ -124,6 +124,11 @@ team:
     memberDesignation: Research Manager	at Vivera
     memberImage: img/16.png
     socialLink: https://www.linkedin.com/in/jan-b%C3%BChler-53118a161/
+  - memberName: Paul Vos
+    memberDesignation: Senior Researcher and Expertise Leader Nutrition Quality &
+      Health at Wageningen University & Research
+    memberImage: img/450x450.png
+    socialLink: https://www.linkedin.com/in/apvos/
 registerSectionTitle: |-
   ## Apply to  *attend*
 
@@ -162,7 +167,7 @@ scheduleList:
   - title: "Panel: Mycoprotein for Meat and Dairy Analogs: Navigating Functional and
       Formulation Hurdles"
     startTime: 11:45 AM
-    endTime: 12:15 PM
+    endTime: 12:30 PM
     scheduleAuthor:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
@@ -176,16 +181,16 @@ scheduleList:
         memberImage: img/16.png
     details: "  "
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
-    startTime: 12:20 PM
-    endTime: 12:45 PM
+    startTime: 12:35 PM
+    endTime: 12:55 PM
     scheduleAuthor:
       - memberName: Sonia Pignatelli
         memberDesignation: Senior LCA Analyst at Life Cycle Engineering SPA
         memberImage: /img/1.png
     details: "  "
   - title: "Networking Lunch "
-    startTime: 12:45 PM
-    endTime: 13:50 PM
+    startTime: 12:55 PM
+    endTime: 1:50 PM
     details: Featuring a cooking demo with ABUNDA Mycoprotein
     scheduleAuthor:
       - memberName: Michael Kilkie
@@ -195,20 +200,35 @@ scheduleList:
       Bioplastics"
     startTime: 1:50 PM
     endTime: 2:20 PM
-    details: Project partners present the highlights and challenges in using
-      mycoprotein in different applications. An interactive Q&A will follow.
+    details: Mosa Meat's will provide an overview of its technology and product
+      development, followed by the preparation of blended systems with
+      cultivated meat and mycoprotein. The data presented will be on the
+      textural properties of these products, through rheological analysis of
+      temperature ramps and prototype preparations in a shear cell. Blending
+      these two components yields promising results, paving the way for
+      innovative product development.
     scheduleAuthor:
       - memberName: Vincent Brain
         memberDesignation: General Manager at Bridge2Food
         memberImage: img/5.png
       - memberName: Francesco Zaccarian
-        memberDesignation: Food Scientist at Mosa Meat
+        memberDesignation: Product Development Scientist at Mosa Meat
         memberImage: img/450x450-1-.png
-  - title: "Giant Leaps: The Horizon Europe Project Promoting the Consumption of
-      Alternative Protein for More Sustainable and Healthier Diets"
+  - title: "GIANT LEAPS: An integrated perspective on the future of alternative
+      proteins and the dietary shift towards healthy and sustainable diets"
     startTime: 2:25 PM
-    endTime: 1:50 PM
-    details: "  "
+    endTime: 2:50 PM
+    details: "Accelerating the protein transition is key to making our food system
+      sustainable and healthier.​ This transition is complex: domains of
+      availability, sustainability, safety, health, technical feasibility and
+      consumer acceptance should all be addressed to understand the role of
+      alternative proteins in future diets across Europe. GIANT LEAPS addresses
+      these domains for alternative proteins including plant, single cell,
+      insect and cultured meat protein sources. This presentation will provide
+      an update on project progress, including defining scenarios for future
+      European diets, and explore opportunities to leverage results and
+      innovations from other projects, such as Plenitude, for maximal joint
+      impact."
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
       Fermentation "
     startTime: 2:55 PM
