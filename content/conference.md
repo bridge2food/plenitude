@@ -229,6 +229,11 @@ scheduleList:
       European diets, and explore opportunities to leverage results and
       innovations from other projects, such as Plenitude, for maximal joint
       impact."
+    scheduleAuthor:
+      - memberName: Paul Vos
+        memberImage: img/450x450.png
+        memberDesignation: Senior Researcher and Expertise Leader Nutrition Quality &
+          Health at Wageningen University & Research
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
       Fermentation "
     startTime: 2:55 PM
