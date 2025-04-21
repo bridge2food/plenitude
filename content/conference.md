@@ -127,7 +127,7 @@ team:
   - memberName: Paul Vos
     memberDesignation: Senior Researcher and Expertise Leader Nutrition Quality &
       Health at Wageningen University & Research
-    memberImage: img/450x450.png
+    memberImage: img/paul-vos.png
     socialLink: https://www.linkedin.com/in/apvos/
 registerSectionTitle: |-
   ## Apply to  *attend*
@@ -244,7 +244,7 @@ scheduleList:
       impact."
     scheduleAuthor:
       - memberName: Paul Vos
-        memberImage: img/450x450.png
+        memberImage: img/paul-vos.png
         memberDesignation: Senior Researcher and Expertise Leader Nutrition Quality &
           Health at Wageningen University & Research
   - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
