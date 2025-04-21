@@ -187,11 +187,24 @@ scheduleList:
       - memberName: Sonia Pignatelli
         memberDesignation: Senior LCA Analyst at Life Cycle Engineering SPA
         memberImage: /img/1.png
-    details: "  "
-  - title: "Networking Lunch "
+    details: "  After a brief overview of the Plenitude CBE JU project in which LCE
+      takes part, the Life Cycle Assessment (LCA) study, focusing on mycoprotein
+      and its environmental impacts, is presented. It aimed to identify key
+      environmental hotspots within the production phase while also assessing
+      the combined impacts of production, storage, and distribution. The study
+      emphasized food-grade mycoprotein as an important protein source, enabling
+      innovative recipes. Results showed that mycoprotein products performed
+      comparably to plant-based proteins and better than animal-based proteins.
+      Future assessments will further explore mycoprotein's environmental
+      impact, emphasizing the role of LCA as an independent and “flexitarian”
+      tool for all food alternatives."
+  - title: Networking Lunch featuring a cooking demo with ABUNDA Mycoprotein
     startTime: 12:55 PM
     endTime: 1:50 PM
-    details: Featuring a cooking demo with ABUNDA Mycoprotein
+    details: Over lunch, Chef Michael will be demonstrating the culinary versatility
+      of ABUNDA by cooking a delicious dish, and discussing how consumers can
+      benefit from cooking with, and eating our delicious, nutritious
+      mycoprotein in application
     scheduleAuthor:
       - memberName: Michael Kilkie
         memberDesignation: Head of Culinary at ENOUGH
@@ -289,9 +302,29 @@ scheduleList:
       - memberName: Nicoló Giacomuzzi-Moore
         memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
         memberImage: img/8.png
-    details: "  "
-  - title: "Workshop & Tasting: Unconventional Mycoprotein Applications"
-    details: "  "
+    details: Protein transition remains a social, nutritional, and environmental
+      priority; and as one of 16 Flagship projects under the CBE-JU, Plenitude
+      demonstrates how increasing the circularity and sustainability of
+      production systems meets the objectives of sustainability and the needs of
+      consumers.  Large scale first-of-a-kind projects are both challenging and
+      rewarding, and are enabled by politicians, grants, money, and companies
+      but most fundamentally and essentially by people, with passion, tenacity
+      and patience.   Plenitude’s path has never been linear.  It’s journey is
+      only partially complete and its impact and legacy will build on a
+      multitude of connections, learnings and collaborations.
+  - title: "Presentation & Tasting: Low Food Lab: Researching Mycoprotein Beyond the
+      Meat Analogue"
+    details: "  In the Low Food Labs, we explore the potential of underutilized and
+      undervalued ingredients through culinary experimentation and innovation.
+      Collaborating with a select group of experts — including chefs, product
+      developers, designers, and fermentation specialists — we conduct a wide
+      range of experiments to unlock new possibilities in food. Our most recent
+      lab, in partnership with ENOUGH and Cargill, focused on mycelium —
+      specifically ABUNDA. We challenged our team to move beyond the meat
+      analogue and explore a broader spectrum of applications. The result is a
+      rich portfolio of concepts and recipes, now published and ready to
+      inspire. In this session, we’ll share our lab philosophy and invite you to
+      taste one of our creations"
     startTime: 6:00 PM
     endTime: 6:30 PM
     scheduleAuthor:
