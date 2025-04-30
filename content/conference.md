@@ -164,8 +164,8 @@ scheduleList:
       - memberName: Dirk Carrez
         memberDesignation: Executive Director at BIC
         memberImage: img/17.png
-  - title: "Panel: Mycoprotein for Meat and Dairy Analogs: Navigating Functional and
-      Formulation Hurdles"
+  - title: "Panel: Mycoprotein for Meat and Dairy Analogues: Navigating Functional
+      and Formulation Hurdles"
     startTime: 11:45 AM
     endTime: 12:30 PM
     scheduleAuthor:
@@ -179,7 +179,16 @@ scheduleList:
       - memberName: Jan Buher
         memberDesignation: Research Manager at Vivera
         memberImage: img/16.png
-    details: "  "
+    details: "  Mycoprotein has emerged as a promising ingredient for
+      next-generation meat and dairy analogues—but challenges in formulation,
+      processing, and functionality remain. This panel features experts from
+      food tech, research, and industry who will unpack the technological
+      hurdles and solutions in working with fungal proteins. Discussions will
+      cover taste, texture, co-ingredients, and scalability. Panelists will also
+      highlight collaborative opportunities between academia and business.
+      Additionally, results from the Plenitude project will be shared, offering
+      new insights into formulation strategies that improve mycoprotein
+      performance across a range of applications."
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
     startTime: 12:35 PM
     endTime: 12:55 PM
@@ -200,7 +209,7 @@ scheduleList:
       tool for all food alternatives."
   - title: Networking Lunch featuring a cooking demo with ABUNDA Mycoprotein
     startTime: 12:55 PM
-    endTime: 1:50 PM
+    endTime: 1:55 PM
     details: Over lunch, Chef Michael will be demonstrating the culinary versatility
       of ABUNDA by cooking a delicious dish, and discussing how consumers can
       benefit from cooking with, and eating our delicious, nutritious
@@ -209,9 +218,8 @@ scheduleList:
       - memberName: Michael Kilkie
         memberDesignation: Head of Culinary at ENOUGH
         memberImage: img/15.png
-  - title: "Diverse Mycoprotein Applications: Meat Hybrids, Cultivated Meat &
-      Bioplastics"
-    startTime: 1:50 PM
+  - title: "Blending Cultivated Meat and Mycoprotein: Texture, Tech, and Innovation"
+    startTime: 2:10 PM
     endTime: 2:20 PM
     details: Mosa Meat's will provide an overview of its technology and product
       development, followed by the preparation of blended systems with
@@ -221,9 +229,6 @@ scheduleList:
       these two components yields promising results, paving the way for
       innovative product development.
     scheduleAuthor:
-      - memberName: Vincent Brain
-        memberDesignation: General Manager at Bridge2Food
-        memberImage: img/5.png
       - memberName: Francesco Zaccarian
         memberDesignation: Product Development Scientist at Mosa Meat
         memberImage: img/450x450-1-.png
@@ -247,11 +252,13 @@ scheduleList:
         memberImage: img/paul-vos.png
         memberDesignation: Senior Researcher and Expertise Leader Nutrition Quality &
           Health at Wageningen University & Research
-  - title: " Looking Forward: Cutting Edge Research in Biomass & Precision
-      Fermentation "
+  - title: "Fermenting the Future: Unlocking the Potential of Microbes for
+      Sustainable Food Production"
     startTime: 2:55 PM
     endTime: 3:20 PM
-    details: "  "
+    details: "A deep dive into how fermentation technologies—from precision to
+      biomass—are reshaping the landscape of sustainable food and ingredients
+      and building resilient food systems.   "
     scheduleAuthor:
       - memberName: Karen Polizzi
         memberDesignation: Karen	Polizzi	Professor of Biotechnology at Imperial College
@@ -276,7 +283,16 @@ scheduleList:
     details: "  "
   - title: "Panel: How EU Institutions Foster Entrepreneurship in the Bio-based
       Sector"
-    details: " "
+    details: This panel brings together leaders from policy, academia, and industry
+      to explore how EU institutions support innovation and entrepreneurship in
+      the bio-economy. From funding mechanisms to cross-sector collaboration,
+      panelists will share insights into building a competitive and sustainable
+      bio-based economy. Discussions will highlight opportunities for startups,
+      the role of education and talent development, and how upcoming policy
+      shifts—such as the 2025 Danish EU Presidency—could shape future
+      priorities. Join us for a forward-looking conversation on unlocking
+      Europe's bio-innovation potential through strategic regulation, funding
+      programs, and ecosystem-building.
     startTime: 4:50 PM
     endTime: 5:35 PM
     scheduleAuthor:
