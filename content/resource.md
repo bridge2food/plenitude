@@ -15,7 +15,7 @@ faqTitle: |
 faq:
   - faqQustion: Is ABUNDA mycoprotein plant-based?
     faqAnswer: Technically speaking, no, since it is the result of the fermentation
-      of the fungus, Fusarium Venanatum. Sometimes in the common language,
+      of the fungus, Fusarium venanatum. Sometimes in the common language,
       mycoprotein is included under the plant-based umbrella, but it would be
       more correct to call it an "alternative protein".
   - faqQustion: Is Plenitude a company?
