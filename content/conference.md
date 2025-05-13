@@ -129,6 +129,18 @@ team:
       Health at Wageningen University & Research
     memberImage: img/paul-vos.png
     socialLink: https://www.linkedin.com/in/apvos/
+  - memberName: Jolanda Lambert
+    memberDesignation: Team Lead & Senior Project Manager Health & Nutrition at NIZO
+    memberImage: img/3.png
+    socialLink: https://www.linkedin.com/in/jolanda-lambert-36141a8/
+  - memberName: Edwin Berends
+    memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy Alternatives at Cargill
+    memberImage: img/2.png
+    socialLink: https://www.linkedin.com/in/edwinberends/
+  - memberName: Luis Fernandez
+    memberDesignation: Vice President Strategic Development Flavours at MANE
+    memberImage: img/4.png
+    socialLink: https://www.linkedin.com/in/luis-angel-fernandez/
 registerSectionTitle: |-
   ## Apply to  *attend*
 
@@ -179,6 +191,9 @@ scheduleList:
       - memberName: Jan Buher
         memberDesignation: Research Manager at Vivera
         memberImage: img/16.png
+      - memberName: Luis Fernandez
+        memberDesignation: Vice President Strategic Development Flavours at MANE
+        memberImage: img/4.png
     details: "  Mycoprotein has emerged as a promising ingredient for
       next-generation meat and dairy analogues—but challenges in formulation,
       processing, and functionality remain. This panel features experts from
@@ -264,23 +279,41 @@ scheduleList:
         memberDesignation: Karen	Polizzi	Professor of Biotechnology at Imperial College
           / Bezos Center for Sustainable Protein
         memberImage: img/18.png
-  - title: "Overview on Single-Cell Proteins "
+  - title: "Cellular Proteins as a Sustainable Source of Food Proteins "
     startTime: 3:25 PM
     endTime: 3:50 PM
-    details: "  "
+    details: "In view of the protein transition, cellular proteins are one of the
+      non-animal protein categories of interest. In the TKI Cellular Proteins
+      project, we investigate factors influencing consumer interest throughout
+      the cellular proteins production chain: from biomass generation on
+      feedstocks, influence of fermentation parameters, processing, to
+      functionality and product application tests. LCA analysis, regulatory
+      status and consumer acceptance overarch the project. The combination of
+      technical developments, consumer research and sustainability analyses
+      deliver knowledge that industrial partners can use to build their strategy
+      with respect to the application of cellular proteins as a tool within the
+      protein transition."
+    scheduleAuthor:
+      - memberName: Jolanda Lambert
+        memberDesignation: Team Lead & Senior Project Manager Health & Nutrition at NIZO
+        memberImage: img/3.png
   - title: Coffee Break
     details: " "
     startTime: 3:50 PM
     endTime: 4:20 PM
-  - title: Characterisation and Nutritional Quality Assessment of Mycoprotein
-      Ingredients
+  - title: Characterisation and Functionality of Mycoprotein Ingredients
     startTime: 4:20 PM
     endTime: 4:45 PM
     scheduleAuthor:
       - memberName: Laurice Pouvreau
         memberDesignation: Expertise Leader Protein Technology at Wageningen University & Research
         memberImage: img/7.png
-    details: "  "
+    details: Mycoproteins are a new source of proteins and fibre for human
+      consumption.  This presentation will give insights on the mycoprotein
+      functionality itself and in a food matrix, including techno-functionality
+      and digestibility.  Mycoproteins are mainly stored frozen until use.
+      Results on the impact of storage conditions on the functionality will be
+      presented.
   - title: "Panel: How EU Institutions Foster Entrepreneurship in the Bio-based
       Sector"
     details: This panel brings together leaders from policy, academia, and industry
@@ -347,4 +380,12 @@ scheduleList:
       - memberName: Tessa van der Geer
         memberDesignation: Head of Labs - Low Food
         memberImage: img/450x450-3-.png
+  - title: Food Applications of Mycoprotein Ingredients
+    startTime: 1:55 PM
+    endTime: 2:05 PM
+    scheduleAuthor:
+      - memberName: Edwin Berends
+        memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy
+          Alternatives, Cargill Food Solutions
+        memberImage: img/2.png
 ---
