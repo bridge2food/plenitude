@@ -58,10 +58,6 @@ featureText: >-
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
 memberSectionTitle: "## Meet our *Speakers*"
 team:
-  - memberName: Craig Johnston
-    memberDesignation: Co-founder & Technology Director at ENOUGH
-    memberImage: /img/2.png
-    socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
   - memberName: Luisa Mascia
     memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
     memberImage: /img/6.png
@@ -73,12 +69,12 @@ team:
   - memberName: Sonia Huppert
     memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
       Protein & Modulation at IFF
-    memberImage: /img/3.png
+    memberImage: img/sonia-huppert.png
     socialLink: https://www.linkedin.com/in/sonia-huppert-5647796/
-  - memberName: Jim Laird
-    memberDesignation: CEO at ENOUGH
-    memberImage: /img/4.png
-    socialLink: https://www.linkedin.com/in/jim-laird-8b23582/
+  - memberName: Dirk	Carrez
+    memberDesignation: Executive Director at BIC
+    socialLink: https://www.linkedin.com/in/dirk-carrez-651b0210/
+    memberImage: img/17.png
   - memberName: Nicoló Giacomuzzi-Moore
     memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
     socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
@@ -91,14 +87,14 @@ team:
     memberDesignation: Product Development Scientist at Mosa Meat
     socialLink: https://www.linkedin.com/in/francesco-zaccarian/
     memberImage: img/450x450-1-.png
-  - memberName: Dirk	Carrez
-    memberDesignation: Executive Director at BIC
-    socialLink: https://www.linkedin.com/in/dirk-carrez-651b0210/
-    memberImage: img/17.png
+  - memberName: Jim Laird
+    memberDesignation: CEO at ENOUGH
+    memberImage: img/jim-laird.png
+    socialLink: https://www.linkedin.com/in/jim-laird-8b23582/
   - memberName: Katarzyna Polanowska
     memberDesignation: R&D Manager at ENOUGH
     socialLink: https://www.linkedin.com/in/katarzyna-polanowska-7056821a6/
-    memberImage: img/450x450.png
+    memberImage: img/kasia.png
   - memberName: Mariana Fazenda
     memberDesignation: Senior Programme Manager at EIT Food Education
     memberImage: img/mariana-fazenda.png
@@ -111,6 +107,14 @@ team:
     memberDesignation: Head of Culinary at ENOUGH
     memberImage: img/15.png
     socialLink: https://www.linkedin.com/in/michael-kilkie-ab17005a/
+  - memberName: Luis Fernandez
+    memberDesignation: Vice President Strategic Development Flavours at MANE
+    memberImage: img/4.png
+    socialLink: https://www.linkedin.com/in/luis-angel-fernandez/
+  - memberName: Craig Johnston
+    memberDesignation: Co-founder & Technology Director at ENOUGH
+    memberImage: img/craig-johnston.png
+    socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
   - memberName: Tessa van der Geer
     memberDesignation: Head of Labs - low Food
     memberImage: img/450x450-3-.png
@@ -137,10 +141,6 @@ team:
     memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy Alternatives at Cargill
     memberImage: img/2.png
     socialLink: https://www.linkedin.com/in/edwinberends/
-  - memberName: Luis Fernandez
-    memberDesignation: Vice President Strategic Development Flavours at MANE
-    memberImage: img/4.png
-    socialLink: https://www.linkedin.com/in/luis-angel-fernandez/
 registerSectionTitle: |-
   ## Apply to  *attend*
 
@@ -159,11 +159,11 @@ scheduleList:
     scheduleAuthor:
       - memberName: Craig Johnston
         memberDesignation: Co-founder & Technology Director at ENOUGH
-        memberImage: /img/2.png
+        memberImage: img/craig-johnston.png
       - memberName: Luisa Mascia
         memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
         memberImage: /img/untitled-design-2-.png
-    details: "  "
+    details: "   "
   - title: Coffee Break
     startTime: 10:50 AM
     endTime: 11:15 AM
@@ -184,10 +184,10 @@ scheduleList:
       - memberName: Sonia Huppert
         memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
           Protein & Modulation at IFF
-        memberImage: /img/3.png
+        memberImage: img/sonia-huppert.png
       - memberName: Katarzyna Polanowska
         memberDesignation: R&D Manager	at ENOUGH
-        memberImage: img/450x450-3-.png
+        memberImage: img/kasia.png
       - memberName: Jan Buher
         memberDesignation: Research Manager at Vivera
         memberImage: img/16.png
@@ -233,6 +233,15 @@ scheduleList:
       - memberName: Michael Kilkie
         memberDesignation: Head of Culinary at ENOUGH
         memberImage: img/15.png
+  - title: Food Applications of Mycoprotein Ingredients
+    startTime: 1:55 PM
+    endTime: 2:05 PM
+    scheduleAuthor:
+      - memberName: Edwin Berends
+        memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy
+          Alternatives, Cargill Food Solutions
+        memberImage: img/2.png
+    details: " "
   - title: "Blending Cultivated Meat and Mycoprotein: Texture, Tech, and Innovation"
     startTime: 2:10 PM
     endTime: 2:20 PM
@@ -347,7 +356,7 @@ scheduleList:
     scheduleAuthor:
       - memberName: Jim Laird
         memberDesignation: CEO - ENOUGH
-        memberImage: img/4.png
+        memberImage: img/jim-laird.png
       - memberName: Nicoló Giacomuzzi-Moore
         memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
         memberImage: img/8.png
@@ -380,12 +389,4 @@ scheduleList:
       - memberName: Tessa van der Geer
         memberDesignation: Head of Labs - Low Food
         memberImage: img/450x450-3-.png
-  - title: Food Applications of Mycoprotein Ingredients
-    startTime: 1:55 PM
-    endTime: 2:05 PM
-    scheduleAuthor:
-      - memberName: Edwin Berends
-        memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy
-          Alternatives, Cargill Food Solutions
-        memberImage: img/2.png
 ---
