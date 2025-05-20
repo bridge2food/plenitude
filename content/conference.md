@@ -194,16 +194,18 @@ scheduleList:
       - memberName: Luis Fernandez
         memberDesignation: Vice President Open Innovation at MANE
         memberImage: img/4.png
-    details: "  Mycoprotein has emerged as a promising ingredient for
-      next-generation meat and dairy analogues—but challenges in formulation,
-      processing, and functionality remain. This panel features experts from
-      food tech, research, and industry who will unpack the technological
-      hurdles and solutions in working with fungal proteins. Discussions will
-      cover taste, texture, co-ingredients, and scalability. Panelists will also
-      highlight collaborative opportunities between academia and business.
-      Additionally, results from the Plenitude project will be shared, offering
-      new insights into formulation strategies that improve mycoprotein
-      performance across a range of applications."
+    details: '"Mycoprotein has emerged as a promising ingredient for next-generation
+      meat and dairy analogues, but challenges in formulation, processing, and
+      functionality remain. This panel brings together experts from food tech,
+      B2B flavors, and CPG to explore the key product development hurdles and
+      potential solutions when working with mycoproteins. Panelists will examine
+      technical considerations such as taste, texture, scalability, and
+      co-ingredient interactions, alongside insights into consumer acceptance,
+      particularly in comparison to other plant proteins and hybrid products.
+      The discussion will also highlight the value of cross-sector collaboration
+      enabled by publicly funded initiatives like the Plenitude project. Results
+      from Plenitude will be shared, offering new formulation strategies to
+      enhance mycoprotein performance across a range of applications."'
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
     startTime: 12:35 PM
     endTime: 12:55 PM
