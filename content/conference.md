@@ -108,7 +108,7 @@ team:
     memberImage: img/15.png
     socialLink: https://www.linkedin.com/in/michael-kilkie-ab17005a/
   - memberName: Luis Fernandez
-    memberDesignation: Vice President Strategic Development Flavours at MANE
+    memberDesignation: Vice President Open Innovation at MANE
     memberImage: img/4.png
     socialLink: https://www.linkedin.com/in/luis-angel-fernandez/
   - memberName: Craig Johnston
@@ -192,7 +192,7 @@ scheduleList:
         memberDesignation: Research Manager at Vivera
         memberImage: img/16.png
       - memberName: Luis Fernandez
-        memberDesignation: Vice President Strategic Development Flavours at MANE
+        memberDesignation: Vice President Open Innovation at MANE
         memberImage: img/4.png
     details: "  Mycoprotein has emerged as a promising ingredient for
       next-generation meat and dairy analogues—but challenges in formulation,
@@ -233,7 +233,7 @@ scheduleList:
       - memberName: Michael Kilkie
         memberDesignation: Head of Culinary at ENOUGH
         memberImage: img/15.png
-  - title: Food Applications of Mycoprotein Ingredients
+  - title: "ABUNDA: An Ingenious Ingredient that Inspires Innovation"
     startTime: 1:55 PM
     endTime: 2:05 PM
     scheduleAuthor:
@@ -241,7 +241,16 @@ scheduleList:
         memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy
           Alternatives, Cargill Food Solutions
         memberImage: img/2.png
-    details: " "
+    details: "The collaboration with ENOUGH and other partners in PLENITUDE has
+      inspired the Cargill Meat & Dairy Alternatives R&D team to embark on a
+      journey of discovery into the characteristics of ABUNDA mycoprotein and
+      its application possibilities. ABUNDA is a functional and nutritional
+      ingredient with countless possibilities for combination with other
+      ingredients. This presentation will provide highlights on some of the
+      product concepts that the Cargill R&D team has developed. This development
+      work demonstrates that ABUNDA mycoprotein is not only a good fit for meat
+      & seafood alternatives, but also enables the creation of entirely novel
+      products. "
   - title: "Blending Cultivated Meat and Mycoprotein: Texture, Tech, and Innovation"
     startTime: 2:10 PM
     endTime: 2:20 PM
