@@ -173,9 +173,9 @@ scheduleList:
     startTime: 11:15 AM
     endTime: 11:40 AM
     scheduleAuthor:
-      - memberName: Dirk Carrez
-        memberDesignation: Executive Director at BIC
-        memberImage: img/17.png
+      - memberName: Marco Rupp
+        memberDesignation: Deputy Executive Director at BIC
+        memberImage: img/marco-rupp.png
   - title: "Panel: Mycoprotein for Meat and Dairy Analogues: Navigating Functional
       and Formulation Hurdles"
     startTime: 11:45 AM
