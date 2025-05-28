@@ -28,7 +28,7 @@ featureText: >-
   #### *Why Attend:*
 
 
-  \* 200 delegates
+  \* 150 delegates
 
 
   \* 14 dedicated sessions
