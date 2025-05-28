@@ -169,13 +169,23 @@ scheduleList:
     endTime: 11:15 AM
     details: " "
   - title: Biorefinery Landscape in Europe
-    details: " "
+    details: "Biomanufacturing is the conversion of biological resources into
+      chemicals, products, food and feed ingredients, and energy, leading to
+      more feedstock autonomy, and to a more sustainable industry. To foster
+      growth and innovation in Europe, it is essential to accelerate
+      biomanufacturing at scale. This means that we need more investment in new
+      biorefineries in Europe. In recent years, we have seen a positive impact
+      on innovation and investments, and the BBI/CBE JU is evidence of that.
+      However, Europe must become better on the regulatory side, at EU, national
+      and regional level. Efficient product approval and evaluation mechanisms
+      should allow innovative bio-based products to reach the market more
+      quickly. "
     startTime: 11:15 AM
     endTime: 11:40 AM
     scheduleAuthor:
-      - memberName: Dirk Carrez
-        memberDesignation: Executive Director at BIC
-        memberImage: img/17.png
+      - memberName: Marco Rupp
+        memberDesignation: Deputy Executive Director at BIC
+        memberImage: img/marco-rupp.png
   - title: "Panel: Mycoprotein for Meat and Dairy Analogues: Navigating Functional
       and Formulation Hurdles"
     startTime: 11:45 AM
@@ -194,18 +204,19 @@ scheduleList:
       - memberName: Luis Fernandez
         memberDesignation: Vice President Open Innovation at MANE
         memberImage: img/4.png
-    details: '"Mycoprotein has emerged as a promising ingredient for next-generation
-      meat and dairy analogues, but challenges in formulation, processing, and
-      functionality remain. This panel brings together experts from food tech,
-      B2B flavors, and CPG to explore the key product development hurdles and
-      potential solutions when working with mycoproteins. Panelists will examine
-      technical considerations such as taste, texture, scalability, and
-      co-ingredient interactions, alongside insights into consumer acceptance,
-      particularly in comparison to other plant proteins and hybrid products.
-      The discussion will also highlight the value of cross-sector collaboration
-      enabled by publicly funded initiatives like the Plenitude project. Results
-      from Plenitude will be shared, offering new formulation strategies to
-      enhance mycoprotein performance across a range of applications."'
+    details: Mycoprotein has emerged as a promising ingredient for next-generation
+      meat and dairy analogues, we will review potential challenges in
+      formulation, processing, and functionality. This panel brings together
+      experts from food tech, Academia, B2B ingredients & flavors, and CPG to
+      explore the key product development hurdles and potential solutions when
+      working with mycoproteins. Panelists will examine technical considerations
+      such as taste, texture, scalability, and co-ingredient interactions,
+      alongside insights into consumer acceptance, particularly in comparison to
+      other plant proteins and hybrid products. The discussion will also
+      highlight the value of cross-sector collaboration enabled by publicly
+      funded initiatives like the Plenitude project. Results from Plenitude will
+      be shared, offering new formulation strategies to enhance mycoprotein
+      performance across a range of applications.
   - title: Assessing the Environmental Impact of Meat Analogs - LCA work in Plenitude
     startTime: 12:35 PM
     endTime: 12:55 PM
