@@ -58,89 +58,89 @@ featureText: >-
   Join the Plenitude Final Conference and discover groundbreaking innovations shaping new bio-based value chains and discuss how these can be actualized in the European landscape! Here, you will learn how these solutions provide environmental, economic, and public health benefits while addressing the world’s most pressing sustainability challenges.
 memberSectionTitle: "## Meet our *Speakers*"
 team:
+  - memberName: Craig Johnston
+    memberDesignation: Co-founder & Technology Director at ENOUGH
+    memberImage: img/craig-johnston.png
+    socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
   - memberName: Luisa Mascia
     memberDesignation: " Project Officer at Circular Bio-Based Europe Joint Undertaking"
     memberImage: /img/6.png
     socialLink: https://www.linkedin.com/in/luisa-mascia-aa41ab1b5/
-  - memberName: Sonia Pignatelli
-    memberDesignation: Project Manager and Senior LCA Analyst at Life Cycle Engineering SPA
-    memberImage: /img/1.png
-    socialLink: https://www.linkedin.com/in/sonia-pignatelli-631500203/
+  - memberName: Marco Rupp
+    memberDesignation: Deputy Executive Director at BIC
+    socialLink: https://www.linkedin.com/in/marco-rupp-20a6b33/
+    memberImage: img/marco-rupp.png
   - memberName: Sonia Huppert
     memberDesignation: Global Innovation Marketing Leader  RE-IMAGINE WELLNESS™
       Protein & Modulation at IFF
     memberImage: img/sonia-huppert.png
     socialLink: https://www.linkedin.com/in/sonia-huppert-5647796/
-  - memberName: Dirk	Carrez
-    memberDesignation: Executive Director at BIC
-    socialLink: https://www.linkedin.com/in/dirk-carrez-651b0210/
-    memberImage: img/17.png
-  - memberName: Nicoló Giacomuzzi-Moore
-    memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
-    socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
-    memberImage: /img/8.png
-  - memberName: Giulia Del Brenna
-    memberDesignation: Head of Unit at DG GROW
-    socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
-    memberImage: img/giulia-del-brenna.png
-  - memberName: Francesco Zaccarian
-    memberDesignation: Product Development Scientist at Mosa Meat
-    socialLink: https://www.linkedin.com/in/francesco-zaccarian/
-    memberImage: img/450x450-1-.png
-  - memberName: Jim Laird
-    memberDesignation: CEO at ENOUGH
-    memberImage: img/jim-laird.png
-    socialLink: https://www.linkedin.com/in/jim-laird-8b23582/
   - memberName: Katarzyna Polanowska
     memberDesignation: R&D Manager at ENOUGH
     socialLink: https://www.linkedin.com/in/katarzyna-polanowska-7056821a6/
     memberImage: img/kasia.png
-  - memberName: Mariana Fazenda
-    memberDesignation: Senior Programme Manager at EIT Food Education
-    memberImage: img/mariana-fazenda.png
-    socialLink: https://www.linkedin.com/in/mariana-fazenda-584a561/
-  - memberImage: img/450x450-2-.png
-    memberName: Katrijn Otten
-    memberDesignation: Senior Director of Government Relations at Cargill
-    socialLink: https://www.linkedin.com/in/katrijn-otten-b892911/
-  - memberName: Michael Kilkie
-    memberDesignation: Head of Culinary at ENOUGH
-    memberImage: img/15.png
-    socialLink: https://www.linkedin.com/in/michael-kilkie-ab17005a/
   - memberName: Luis Fernandez
     memberDesignation: Vice President Open Innovation at MANE
     memberImage: img/4.png
     socialLink: https://www.linkedin.com/in/luis-angel-fernandez/
-  - memberName: Craig Johnston
-    memberDesignation: Co-founder & Technology Director at ENOUGH
-    memberImage: img/craig-johnston.png
-    socialLink: https://www.linkedin.com/in/craig-johnston-cmac/overlay/photo/
-  - memberName: Tessa van der Geer
-    memberDesignation: Head of Labs - low Food
-    memberImage: img/450x450-3-.png
-    socialLink: https://www.linkedin.com/in/tessa-van-der-geer-03537a109/
-  - memberName: Karen Polizzi
-    memberDesignation: Professor of Biotechnology at Imperial College / Bezos Center
-      for Sustainable Protein
-    memberImage: img/18.png
-    socialLink: https://www.linkedin.com/in/karen-polizzi-229997ba/
   - memberName: Jan Buhler
     memberDesignation: Research Manager	at Vivera
     memberImage: img/16.png
     socialLink: https://www.linkedin.com/in/jan-b%C3%BChler-53118a161/
+  - memberName: Sonia Pignatelli
+    memberDesignation: Project Manager and Senior LCA Analyst at Life Cycle Engineering SPA
+    memberImage: /img/1.png
+    socialLink: https://www.linkedin.com/in/sonia-pignatelli-631500203/
+  - memberName: Michael Kilkie
+    memberDesignation: Head of Culinary at ENOUGH
+    memberImage: img/15.png
+    socialLink: https://www.linkedin.com/in/michael-kilkie-ab17005a/
+  - memberName: Edwin Berends
+    memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy Alternatives at Cargill
+    memberImage: img/2.png
+    socialLink: https://www.linkedin.com/in/edwinberends/
+  - memberName: Francesco Zaccarian
+    memberDesignation: Product Development Scientist at Mosa Meat
+    socialLink: https://www.linkedin.com/in/francesco-zaccarian/
+    memberImage: img/450x450-1-.png
   - memberName: Paul Vos
     memberDesignation: Senior Researcher and Expertise Leader Nutrition Quality &
       Health at Wageningen University & Research
     memberImage: img/paul-vos.png
     socialLink: https://www.linkedin.com/in/apvos/
+  - memberName: Karen Polizzi
+    memberDesignation: Professor of Biotechnology at Imperial College / Bezos Center
+      for Sustainable Protein
+    memberImage: img/18.png
+    socialLink: https://www.linkedin.com/in/karen-polizzi-229997ba/
   - memberName: Jolanda Lambert
     memberDesignation: Team Lead & Senior Project Manager Health & Nutrition at NIZO
     memberImage: img/3.png
     socialLink: https://www.linkedin.com/in/jolanda-lambert-36141a8/
-  - memberName: Edwin Berends
-    memberDesignation: Strategic Growth Projects Lead EMEA – Meat & Dairy Alternatives at Cargill
-    memberImage: img/2.png
-    socialLink: https://www.linkedin.com/in/edwinberends/
+  - memberName: Giulia Del Brenna
+    memberDesignation: Head of Unit at DG GROW
+    socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
+    memberImage: img/giulia-del-brenna.png
+  - memberName: Nicoló Giacomuzzi-Moore
+    memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
+    socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
+    memberImage: /img/8.png
+  - memberImage: img/450x450-2-.png
+    memberName: Katrijn Otten
+    memberDesignation: Senior Director of Government Relations at Cargill
+    socialLink: https://www.linkedin.com/in/katrijn-otten-b892911/
+  - memberName: Mariana Fazenda
+    memberDesignation: Senior Programme Manager at EIT Food Education
+    memberImage: img/mariana-fazenda.png
+    socialLink: https://www.linkedin.com/in/mariana-fazenda-584a561/
+  - memberName: Jim Laird
+    memberDesignation: CEO at ENOUGH
+    memberImage: img/jim-laird.png
+    socialLink: https://www.linkedin.com/in/jim-laird-8b23582/
+  - memberName: Tessa van der Geer
+    memberDesignation: Head of Labs - low Food
+    memberImage: img/450x450-3-.png
+    socialLink: https://www.linkedin.com/in/tessa-van-der-geer-03537a109/
 registerSectionTitle: |-
   ## Apply to  *attend*
 
