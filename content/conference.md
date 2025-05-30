@@ -117,10 +117,10 @@ team:
     memberDesignation: Team Lead & Senior Project Manager Health & Nutrition at NIZO
     memberImage: img/3.png
     socialLink: https://www.linkedin.com/in/jolanda-lambert-36141a8/
-  - memberName: Giulia Del Brenna
-    memberDesignation: Head of Unit at DG GROW
-    socialLink: https://www.linkedin.com/in/giulia-del-brenna-6765742/
-    memberImage: img/giulia-del-brenna.png
+  - memberName: Laurice Pouvreau
+    memberDesignation: "Expertise leader Protein technology "
+    socialLink: https://www.linkedin.com/in/laurice-pouvreau-28a5051b/
+    memberImage: img/10.png
   - memberName: Nicoló Giacomuzzi-Moore
     memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
     socialLink: https://www.linkedin.com/in/nicol%C3%B3-giacomuzzi-moore-5b268784/
@@ -360,9 +360,6 @@ scheduleList:
     startTime: 4:50 PM
     endTime: 5:35 PM
     scheduleAuthor:
-      - memberName: Giulia Del Brenna
-        memberDesignation: Head of Unit at DG GROW
-        memberImage: img/giulia-del-brenna.png
       - memberName: Nicoló Giacomuzzi-Moore
         memberDesignation: Executive Director at Circular Bio-based Europe Joint Undertaking
         memberImage: img/8.png
