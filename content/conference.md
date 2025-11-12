@@ -23,7 +23,7 @@ heroDescription: >-
 heroImage: img/2024-06-05-bridge2food-den-haag-highres-16.jpg
 heroBtnLink: https://share-eu1.hsforms.com/1yVKwrRYUST-ytU3d-EIAkQfnkkg
 heroVideoLink: ""
-marqeeText: Plenitude Final Conference *** Registration open NOW ***
+marqeeText: Plenitude Final Conference *** THANK YOU FOR ATTENDING ***
 featureText: >-
   #### *Why Attend:*
 
